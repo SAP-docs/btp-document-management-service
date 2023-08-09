@@ -1,4 +1,4 @@
-[![REUSE status]()]()
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/btp-document-management-service)](https://api.reuse.software/info/github.com/SAP-docs/btp-document-management-service)
 
 # Contributions to the SAP Document Management Service documentation
 
