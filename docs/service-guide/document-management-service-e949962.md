@@ -115,6 +115,92 @@ Document Management Service
 </td>
 <td valign="top">
 
+Contribute to the help documentation content and share your feedback on GitHub.
+
+
+
+</td>
+<td valign="top">
+
+You now have the opportunity to contribute to this guide by providing feedback through GitHub. On the SAP Help Portal, a new Feedback feature enables you to share your thoughts with the authors in charge and the development team and discuss any documentation-related issues. To use this feature, you must have a GitHub account. For more information, see[What Is Document Management Service?](what-is-document-management-service-27e742e.md) and [SAP BTP Documentation Goes GitHub: Learn About Our New Collaboration Process](https://www.youtube.com/watch?v=WJ0oarMlVW4).
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+
+
+</td>
+<td valign="top">
+
+General Availability
+
+
+
+</td>
+<td valign="top">
+
+Announcement
+
+
+
+</td>
+<td valign="top">
+
+Technology
+
+
+
+</td>
+<td valign="top">
+
+Not applicable
+
+
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+
+
+</td>
+<td valign="top">
+
+2023-08-10
+
+
+
+</td>
+<td valign="top">
+
+2023-08-10
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Updates in the Public Share
 
 
