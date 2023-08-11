@@ -11,7 +11,7 @@ Document Management Service allows the restoration of content based on the cause
 In certain situations, it's necessary to restore repositories and instances that you've accidentally deleted. Submit a service request by opening a support case and provide all of the information required to complete the restoration process. Our internal team carries out the request and update the support case accordingly. Create a new case for each request.
 
 > ### Remember:  
-> It's only possible to restore deleted repositories or instances if they're deleted within 14 days after the date of deletion. It's not possible to restore repositories or instances that have been deleted older than 14 days.
+> It's only possible to restore deleted repositories or instances within 14 days after the date of deletion. It's not possible to restore repositories or instances that have been deleted older than 14 days.
 
 You can submit a restoration request by following the procedures:
 
