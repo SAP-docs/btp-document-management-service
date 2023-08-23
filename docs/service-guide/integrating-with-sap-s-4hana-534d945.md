@@ -36,9 +36,15 @@ SAP Document Management service, integration option can be used as a content ser
 The Document Management Service, Integration Option enables you to onboard any CMIS-compliant repository to be used as a content server.
 
 > ### Caution:  
-> For this scenario to be successfully implemented, SAP Document Management service, integration option is recommended. There is no support for SAP Document Management service, application option, at this time. SAP S/4 HANA will always be the front end, and we do not support the SAP Document Management service, application option for onboarding the repository, or allowing you to view any files.
+> For this scenario to be successfully implemented, SAP Document Management service, integration option is recommended. There's no support for SAP Document Management service, application option, at this time. SAP S/4 HANA is always be the front end, and we don't support the SAP Document Management service, application option for onboarding the repository, or allowing you to view any files.
 
-For the detailed steps on using document management as a content repository with SAP S/4HANA, refer to the [Blog](https://blogs.sap.com/2020/12/31/using-document-management-as-a-content-repository-with-sap-s-4-hana/) post.
+For the detailed steps on using document management as a content repository with SAP S/4HANA Cloud, private edition, refer to the [Blog](https://blogs.sap.com/2020/12/31/using-document-management-as-a-content-repository-with-sap-s-4-hana/) post.
+
+
+
+### Extend and Integrate Your SAP S/4HANA Cloud
+
+To connect your own CMIS repository to SAP S/4HANA Cloud, public edition, you must follow the configuration steps outlined in this section. See [Integrating SAP Document Management with SAP S/4HANA Cloud.](https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/03414f87d6e14dff9450e20e21632826.html?version=2308.500)
 
 **Related Information**  
 
