@@ -6,8 +6,6 @@ You can use document classification to control which actions are available to yo
 
 The SAP Document Management Service enables you to access corporate documents in different ways. You might need to access the important documents from outside the corporate network, you want to restrict the possible actions that can be performed on corporate documents based on their document classification. Therefore, SAP Document Management Service supports enforcing a secure container for confidential documents.
 
-Security policies based on document classification determine the allowed actions. Therefore, you can control the available actions, for example, whether a document can be printed, e-mailed, or opened using a specific program. The policies only apply to documents and repositories, not to folders.
-
 > ### Note:  
 > The SAP Document Management Service can only guide the users by providing a security-compliant solution. It can't prevent the intentional violation of security policies by users, for example, by taking screenshots.
 

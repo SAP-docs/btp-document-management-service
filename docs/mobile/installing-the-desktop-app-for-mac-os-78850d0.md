@@ -10,7 +10,7 @@ The SAP Document Management Service desktop app enables you to comfortably manag
 
 ## Prerequisites
 
--   You've downloaded the desktop client from the SAP Support launchpad. See [Software Downloads](https://launchpad.support.sap.com/#/softwarecenter/template/products/%20_APP=00200682500000001943&_EVENT=DISPHIER&HEADER=Y&FUNCTIONBAR=N&EVENT=TREE&NE=NAVIGATE&ENR=73555000100200016759&V=MAINT&TA=ACTUAL&PAGE=SEARCH/SAP_DOC_MGMT_DESKTOP_APP%201.0). In case you are having trouble accessing the software downloads, check the Knowledge Base article [1613994](https://launchpad.support.sap.com/#/notes/1613994)
+-   You've downloaded the desktop client from the SAP Support launchpad. See [Software Downloads](https://launchpad.support.sap.com/#/softwarecenter/template/products/%20_APP=00200682500000001943&_EVENT=DISPHIER&HEADER=Y&FUNCTIONBAR=N&EVENT=TREE&NE=NAVIGATE&ENR=73555000100200016759&V=MAINT&TA=ACTUAL&PAGE=SEARCH/SAP_DOC_MGMT_DESKTOP_APP%201.0). In case you are having trouble accessing the software downloads, check the Knowledge Base article [1613994](https://me.sap.com/notes/1613994)
 
 -   You've configured SAP Identity Authentication for mobile clients. For more information, see [Configuring Identity Authentication In Document Management Service](configuring-identity-authentication-in-document-management-service-cf44481.md).
 

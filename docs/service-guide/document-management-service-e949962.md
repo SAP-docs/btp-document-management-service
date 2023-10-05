@@ -2598,7 +2598,7 @@ Android Version Upgrade
 
 The SAP Document Management Service Android app has been updated to version 8.0.
 
-See [Installing the Android App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/16623553fdb8487b8e09f265f1fce347.html "Before you can use the Document Management Service mobile app on your Android device, you&apos;ve to set it up.") :arrow_upper_right:.
+See [Installing the Android App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/16623553fdb8487b8e09f265f1fce347.html "Before you can use the Document Management Service mobile app on your Android device, you've to set it up.") :arrow_upper_right:.
 
 
 
@@ -4414,7 +4414,7 @@ Support for QR code scanning in SAP Document Management Service mobile applicati
 
 Using a QR code, you can now register server URL in the SAP Document Management Service mobile application for Android and iOS.
 
-See [Installing the Android App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/16623553fdb8487b8e09f265f1fce347.html "Before you can use the Document Management Service mobile app on your Android device, you&apos;ve to set it up.") :arrow_upper_right: and [Installing the iPad or the iPhone App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/ffe75ca24d7843138ae3d8bd8fd4e07a.html "Before you can use the Document Management Service mobile app on your iOS device, you&apos;ve to set it up.") :arrow_upper_right:.
+See [Installing the Android App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/16623553fdb8487b8e09f265f1fce347.html "Before you can use the Document Management Service mobile app on your Android device, you've to set it up.") :arrow_upper_right: and [Installing the iPad or the iPhone App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/ffe75ca24d7843138ae3d8bd8fd4e07a.html "Before you can use the Document Management Service mobile app on your iOS device, you've to set it up.") :arrow_upper_right:.
 
 
 
