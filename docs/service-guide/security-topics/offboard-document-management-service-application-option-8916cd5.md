@@ -17,3 +17,8 @@ Remove the connection that you established between your repositories and Documen
 4.  Choose *Unsubscribe*.
 
 
+**Related Information**  
+
+
+[Exporting Content](exporting-content-1e89de4.md "Export the content of repositories created in the Document Management Service, Application Option.")
+

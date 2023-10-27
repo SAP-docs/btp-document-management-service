@@ -30,15 +30,11 @@ This topic describes the steps you need to take when migrating third-party CMI
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -46,15 +42,11 @@ This topic describes the steps you need to take when migrating third-party CMI
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
     
     The repository's CMIS browser binding URL.
-
-
     
     </td>
     </tr>
@@ -62,15 +54,11 @@ This topic describes the steps you need to take when migrating third-party CMI
     <td valign="top">
     
     `User` 
-
-
     
     </td>
     <td valign="top">
     
     The repository's username.
-
-
     
     </td>
     </tr>
@@ -78,15 +66,11 @@ This topic describes the steps you need to take when migrating third-party CMI
     <td valign="top">
     
     `Password` 
-
-
     
     </td>
     <td valign="top">
     
     For the given username, a password is required.
-
-
     
     </td>
     </tr>
@@ -130,21 +114,15 @@ With minimal disruption, you can execute the following request to initiate the m
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Value/Description
-
-
 
 </th>
 </tr>
@@ -153,14 +131,10 @@ Value/Description
 
 `destination`
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
@@ -179,21 +153,15 @@ Name of the destination that you created.
 
 `repoId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 ID of the repository.
-
-
 
 </td>
 </tr>
@@ -202,21 +170,15 @@ ID of the repository.
 
 `name`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Enter any name for the repository to make it easier to find later.
-
-
 
 </td>
 </tr>
@@ -225,21 +187,15 @@ Enter any name for the repository to make it easier to find later.
 
 `versionable`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 True or false
-
-
 
 </td>
 </tr>
@@ -248,21 +204,15 @@ True or false
 
 `virusScan`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 True or false
-
-
 
 </td>
 </tr>

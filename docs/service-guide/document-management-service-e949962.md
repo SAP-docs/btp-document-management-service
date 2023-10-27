@@ -17,84 +17,60 @@
 
 Technical Component
 
-
-
 </th>
 <th valign="top">
 
 Environment
-
-
 
 </th>
 <th valign="top">
 
 Title
 
-
-
 </th>
 <th valign="top">
 
 Description
-
-
 
 </th>
 <th valign="top">
 
 Action
 
-
-
 </th>
 <th valign="top">
 
 Lifecycle
-
-
 
 </th>
 <th valign="top">
 
 Type
 
-
-
 </th>
 <th valign="top">
 
 Line of Business
-
-
 
 </th>
 <th valign="top">
 
 Modular Business Process
 
-
-
 </th>
 <th valign="top">
 
 Product
-
-
 
 </th>
 <th valign="top">
 
 Latest Revision
 
-
-
 </th>
 <th valign="top">
 
 Available as of
-
-
 
 </th>
 </tr>
@@ -103,7 +79,69 @@ Available as of
 
 Document Management Service
 
+</td>
+<td valign="top">
 
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Release Update
+
+</td>
+<td valign="top">
+
+In this release, we've fixed some bugs and provided security updates. This release doesn't include any new features.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2023-10-06
+
+</td>
+<td valign="top">
+
+2023-10-06
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
 
 </td>
 <td valign="top">
@@ -117,70 +155,50 @@ Document Management Service
 
 Contribute to the help documentation content and share your feedback on GitHub.
 
-
-
 </td>
 <td valign="top">
 
 You now have the opportunity to contribute to this guide by providing feedback through GitHub. On the SAP Help Portal, a new Feedback feature enables you to share your thoughts with the authors in charge and the development team and discuss any documentation-related issues. To use this feature, you must have a GitHub account. For more information, see[What Is Document Management Service?](what-is-document-management-service-27e742e.md) and [SAP BTP Documentation Goes GitHub: Learn About Our New Collaboration Process](https://www.youtube.com/watch?v=WJ0oarMlVW4).
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 Announcement
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-08-10
 
-
-
 </td>
 <td valign="top">
 
 2023-08-10
-
-
 
 </td>
 </tr>
@@ -188,8 +206,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -203,8 +219,6 @@ Document Management Service
 
 Updates in the Public Share
 
-
-
 </td>
 <td valign="top">
 
@@ -212,63 +226,45 @@ If you enable public sharing for folders in your collaboration repositories by d
 
 See [Create a Shared Folder and Define Its Access](integration-option-guide/create-a-shared-folder-and-define-its-access-1ceb1c8.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-07-13
 
-
-
 </td>
 <td valign="top">
 
 2023-07-13
-
-
 
 </td>
 </tr>
@@ -276,8 +272,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -291,8 +285,6 @@ Document Management Service
 
 Migrating a Document
 
-
-
 </td>
 <td valign="top">
 
@@ -300,63 +292,45 @@ A single document can now be copied when migrating between repositories. This si
 
 See [API](https://api.sap.com/api/MigrationAPI/path/post_copy) and [Migrating Between Repositories](web-app-guide/migrating-between-repositories-0feb51b.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-07-13
 
-
-
 </td>
 <td valign="top">
 
 2023-07-13
-
-
 
 </td>
 </tr>
@@ -364,8 +338,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -379,70 +351,50 @@ Document Management Service
 
 ACL Update
 
-
-
 </td>
 <td valign="top">
 
 Formerly, when you added or removed a principal in Access Control, the following properties were updated. Access Control \(ACL\) has changed the behavior of the properties *Modified Date* and *Modified By*, so they'll no longer refresh when new ACLs are added or removed from collaboration or shared folders. Versioning tracks any changes to metadata or content.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 Changed
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-07-13
 
-
-
 </td>
 <td valign="top">
 
 2023-07-13
-
-
 
 </td>
 </tr>
@@ -450,8 +402,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -465,70 +415,50 @@ Document Management Service
 
 UI Improvement
 
-
-
 </td>
 <td valign="top">
 
 You can onboard the favorite repository only once per service instance of your Document Management Service, Application Option. We've introduced a tooltip to clarify this. If you're already onboarded for the favorite repository, you'll see the disabled radio button. In the tooltip, you're informed that the favorite repository already exists.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-07-13
 
-
-
 </td>
 <td valign="top">
 
 2023-07-13
-
-
 
 </td>
 </tr>
@@ -536,8 +466,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -551,8 +479,6 @@ Document Management Service
 
 Format of Adding Principals with Role Collections in the Access Control.
 
-
-
 </td>
 <td valign="top">
 
@@ -562,63 +488,45 @@ For example, you can use the group name as `~group~Hiring Managers;`
 
 See [Assigning Role Collections in Access Control](integration-option-guide/assigning-role-collections-in-access-control-1d22b1c.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
-
-
 
 </td>
 </tr>
@@ -626,8 +534,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -641,8 +547,6 @@ Document Management Service
 
 Encryption
 
-
-
 </td>
 <td valign="top">
 
@@ -650,63 +554,45 @@ Document Management Service, Integration Option and Document Management Service,
 
 See [Encryption](security-topics/encryption-6ec1122.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
-
-
 
 </td>
 </tr>
@@ -714,8 +600,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -729,8 +613,6 @@ Document Management Service
 
 Using Email Address in the Access Control Principals
 
-
-
 </td>
 <td valign="top">
 
@@ -738,63 +620,45 @@ Email addresses are case-insensitive when you add user email addresses in the *A
 
 You can add email addresses without modifying the cases. This means that you don't have to worry about typing the same case as the original email address. For example, if the original email address is john@example.com, you can add it as John@example.com or even jOhN@example.com.
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
-
-
 
 </td>
 </tr>
@@ -802,8 +666,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -816,8 +678,6 @@ Document Management Service
 <td valign="top">
 
 Thumbnail Support for Older Repositories
-
-
 
 </td>
 <td valign="top">
@@ -840,56 +700,40 @@ It will generate a thumbnail for the respective documents available in older rep
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
-
-
 
 </td>
 </tr>
@@ -897,8 +741,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -912,70 +754,50 @@ Document Management Service
 
 Public Share UI Text Update
 
-
-
 </td>
 <td valign="top">
 
 The default principal *\{sap:builtin\}anonymous* that appears in share settings has been renamed to *Guest*.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 Changed
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
-
-
 
 </td>
 </tr>
@@ -983,8 +805,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -998,8 +818,6 @@ Document Management Service
 
 Update
 
-
-
 </td>
 <td valign="top">
 
@@ -1007,63 +825,45 @@ The Feature Scope Description guide has been updated to include encryption secur
 
 See [Feature Scope Description](https://help.sap.com/doc/4551b91432244b9586798187207100a7/Cloud/en-US/Document_Management_FSD.pdf).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
-
-
 
 </td>
 </tr>
@@ -1071,8 +871,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1086,8 +884,6 @@ Document Management Service
 
 Update About APIs
 
-
-
 </td>
 <td valign="top">
 
@@ -1095,63 +891,45 @@ The title of the SAP Document Management Service REST APIs has been renamed from
 
 See API published on [SAP Business Accelerator Hub](https://api.sap.com/package/SAPDocumentManagementServiceIntegrationOptionCMISAPI/rest).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
-
-
 
 </td>
 </tr>
@@ -1159,8 +937,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1173,8 +949,6 @@ Document Management Service
 <td valign="top">
 
 Support for Encryption and Security Classification options in Migration
-
-
 
 </td>
 <td valign="top">
@@ -1193,56 +967,40 @@ For the target repositories, migration features offer *Encryption* and *Security
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 Changed
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
 
-
-
 </td>
 <td valign="top">
 
 2023-06-15
-
-
 
 </td>
 </tr>
@@ -1250,8 +1008,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1265,70 +1021,50 @@ Document Management Service
 
 Document Management Service iOS Mobile App - New Version
 
-
-
 </td>
 <td valign="top">
 
 The SAP Document Management Service iOS app has been updated to version **23.04.1**. Deep links support has been enhanced for the iOS app with this release. This enhancement allows users to quickly access documents, folders, and other items directly from within the app.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service Mobile Clients
 
-
-
 </td>
 <td valign="top">
 
 2023-05-22
 
-
-
 </td>
 <td valign="top">
 
 2023-05-22
-
-
 
 </td>
 </tr>
@@ -1336,8 +1072,6 @@ Document Management Service Mobile Clients
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1351,70 +1085,50 @@ Document Management Service
 
 Thumbnail Support
 
-
-
 </td>
 <td valign="top">
 
 You can now enable thumbnails for older repositories in Document Management Service, Integration Option. The thumbnail option can be enabled for existing repositories. All new documents have thumbnails-generated \(supported mime types \*.txt, image, and pdf\) via `createDocument`. To enable thumbnails for existing documents, refer to the `Generate Thumbnail` API published on [SAP Business Accelerator Hub](https://int.api.hana.ondemand.com/api/GenerateThumbnailApi/resource/Generate_Thumbnail).
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service, Integration Option
-
-
 
 </td>
 <td valign="top">
 
 2023-05-18
 
-
-
 </td>
 <td valign="top">
 
 2023-05-19
-
-
 
 </td>
 </tr>
@@ -1422,8 +1136,6 @@ Document Management Service, Integration Option
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1436,8 +1148,6 @@ Document Management Service
 <td valign="top">
 
 UI Improvements
-
-
 
 </td>
 <td valign="top">
@@ -1453,56 +1163,40 @@ UI Improvements
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 Changed
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-05-18
 
-
-
 </td>
 <td valign="top">
 
 2023-05-18
-
-
 
 </td>
 </tr>
@@ -1510,8 +1204,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1525,8 +1217,6 @@ Document Management Service
 
 Using Google Private Key in the Destinations
 
-
-
 </td>
 <td valign="top">
 
@@ -1534,63 +1224,45 @@ With this release, replacing the character [/n\] in the private key is no longer
 
 See [Creating HTTP Destinations](creating-http-destinations-2b04ac7.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-04-20
 
-
-
 </td>
 <td valign="top">
 
 2023-04-20
-
-
 
 </td>
 </tr>
@@ -1598,8 +1270,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1613,8 +1283,6 @@ Document Management Service
 
 Renaming Files
 
-
-
 </td>
 <td valign="top">
 
@@ -1624,63 +1292,45 @@ When using the Document Management Service, Application Option, the document dow
 
 See [Configurations for Reuse UI](integration-option-guide/configurations-for-reuse-ui-c91ec16.md) and [Renaming Files](integration-option-guide/renaming-files-68f4510.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-04-20
 
-
-
 </td>
 <td valign="top">
 
 2023-04-20
-
-
 
 </td>
 </tr>
@@ -1688,8 +1338,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1703,8 +1351,6 @@ Document Management Service
 
 Share Settings
 
-
-
 </td>
 <td valign="top">
 
@@ -1712,63 +1358,45 @@ Prior to this update, the *Hide uploaded files* option in Document Management Se
 
 See [Create a Shared Folder and Define Its Access](integration-option-guide/create-a-shared-folder-and-define-its-access-1ceb1c8.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-03-23
 
-
-
 </td>
 <td valign="top">
 
 2023-03-23
-
-
 
 </td>
 </tr>
@@ -1776,8 +1404,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1791,8 +1417,6 @@ Document Management Service
 
 Edit Link
 
-
-
 </td>
 <td valign="top">
 
@@ -1800,63 +1424,45 @@ If you use a link file in the versioned repository of Document Management Servic
 
 See [Creating External Links](integration-option-guide/creating-external-links-a16dddc.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-03-23
 
-
-
 </td>
 <td valign="top">
 
 2023-03-23
-
-
 
 </td>
 </tr>
@@ -1864,8 +1470,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1879,8 +1483,6 @@ Document Management Service
 
 Version Update
 
-
-
 </td>
 <td valign="top">
 
@@ -1888,63 +1490,45 @@ The SAP Document Management Service desktop application has been upgraded to the
 
 A bug fix for Outlook integration is included in this version.
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-03-02
 
-
-
 </td>
 <td valign="top">
 
 2023-03-02
-
-
 
 </td>
 </tr>
@@ -1952,8 +1536,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -1967,8 +1549,6 @@ Document Management Service
 
 REST API Update
 
-
-
 </td>
 <td valign="top">
 
@@ -1976,63 +1556,45 @@ The `Get Folder Tree` REST API response is now sorted based on `cmis:name`.
 
 Refer to the updated API published on [SAP Business Accelerator Hub](https://api.sap.com/api/GetFolderTreeApi/resource).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
-
-
 
 </td>
 </tr>
@@ -2040,8 +1602,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2055,70 +1615,50 @@ Document Management Service
 
 UI Improvements
 
-
-
 </td>
 <td valign="top">
 
 A new <span class="SAP-icons"></span> *More Options* section allows you to access actions like Show Properties, Rename, and Preview.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 Changed
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
-
-
 
 </td>
 </tr>
@@ -2126,8 +1666,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2141,70 +1679,50 @@ Document Management Service
 
 Document Classification Support
 
-
-
 </td>
 <td valign="top">
 
 We've now added document classification support to older repositories. If you've older repositories, you can check and enable document classification and assign a classification to the documents.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
-
-
 
 </td>
 </tr>
@@ -2212,8 +1730,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2226,8 +1742,6 @@ Document Management Service
 <td valign="top">
 
 Permission Changes in the Access Control Lists
-
-
 
 </td>
 <td valign="top">
@@ -2243,14 +1757,10 @@ The permissions have been renamed from technical to more user-friendly names in 
 
 Old Name
 
-
-
 </th>
 <th valign="top">
 
 New Name
-
-
 
 </th>
 </tr>
@@ -2259,14 +1769,10 @@ New Name
 
 `cmis:read`
 
-
-
 </td>
 <td valign="top">
 
 *Reader*
-
-
 
 </td>
 </tr>
@@ -2275,14 +1781,10 @@ New Name
 
 `sap:file`
 
-
-
 </td>
 <td valign="top">
 
 *Creator*
-
-
 
 </td>
 </tr>
@@ -2291,14 +1793,10 @@ New Name
 
 `cmis:write`
 
-
-
 </td>
 <td valign="top">
 
 *Editor*
-
-
 
 </td>
 </tr>
@@ -2307,14 +1805,10 @@ New Name
 
 `sap:delete`
 
-
-
 </td>
 <td valign="top">
 
 *Contributor*
-
-
 
 </td>
 </tr>
@@ -2323,14 +1817,10 @@ New Name
 
 `cmis:all`
 
-
-
 </td>
 <td valign="top">
 
 *Administrator*
-
-
 
 </td>
 </tr>
@@ -2338,63 +1828,45 @@ New Name
 
 See [Access Control Lists](integration-option-guide/access-control-lists-01fb63b.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
-
-
 
 </td>
 </tr>
@@ -2402,8 +1874,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2417,70 +1887,50 @@ Document Management Service
 
 Document Management Service iOS Mobile Client - New Version
 
-
-
 </td>
 <td valign="top">
 
 The SAP Document Management Service iOS app has been updated to version 16.0.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
 
-
-
 </td>
 <td valign="top">
 
 2023-02-23
-
-
 
 </td>
 </tr>
@@ -2488,8 +1938,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2503,8 +1951,6 @@ Document Management Service
 
 Support for Subscription -Based Commercial Model
 
-
-
 </td>
 <td valign="top">
 
@@ -2512,63 +1958,45 @@ The Document Management Service, Application Option no longer supports the subsc
 
 See [Pricing Information for Document Management Service, Application Option](https://discovery-center.cloud.sap/serviceCatalog/document-management-service-application-option?service_plan=standard&region=all&commercialModel=cpea&tab=service_plan).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Announcement
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-01-25
 
-
-
 </td>
 <td valign="top">
 
 2023-01-25
-
-
 
 </td>
 </tr>
@@ -2576,8 +2004,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2591,8 +2017,6 @@ Document Management Service
 
 Android Version Upgrade
 
-
-
 </td>
 <td valign="top">
 
@@ -2600,63 +2024,45 @@ The SAP Document Management Service Android app has been updated to version 8.0.
 
 See [Installing the Android App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/16623553fdb8487b8e09f265f1fce347.html "Before you can use the Document Management Service mobile app on your Android device, you've to set it up.") :arrow_upper_right:.
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-01-25
 
-
-
 </td>
 <td valign="top">
 
 2023-01-25
-
-
 
 </td>
 </tr>
@@ -2664,8 +2070,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2679,8 +2083,6 @@ Document Management Service
 
 Content Server Download
 
-
-
 </td>
 <td valign="top">
 
@@ -2688,63 +2090,45 @@ If you want to download files directly from the content server while updating yo
 
 See [Update Your Own Repository](web-app-guide/update-your-own-repository-dc0a791.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2023-01-25
 
-
-
 </td>
 <td valign="top">
 
 2023-01-25
-
-
 
 </td>
 </tr>
@@ -2752,8 +2136,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2767,8 +2149,6 @@ Document Management Service
 
 Document Classification
 
-
-
 </td>
 <td valign="top">
 
@@ -2776,63 +2156,45 @@ Applying security policies allows you to classify documents according to their c
 
 See [Document Classification](integration-option-guide/document-classification-b8894c2.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2022-12-02
 
-
-
 </td>
 <td valign="top">
 
 2022-12-02
-
-
 
 </td>
 </tr>
@@ -2840,8 +2202,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2855,8 +2215,6 @@ Document Management Service
 
 Thumbnail
 
-
-
 </td>
 <td valign="top">
 
@@ -2864,63 +2222,45 @@ The Document Management Service, Application Option and Document Management Serv
 
 See [Onboarding Internal Repository](web-app-guide/onboarding-internal-repository-59e3cb7.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2022-12-02
 
-
-
 </td>
 <td valign="top">
 
 2022-12-02
-
-
 
 </td>
 </tr>
@@ -2928,8 +2268,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -2943,8 +2281,6 @@ Document Management Service
 
 Availability of Document Management Service, Repository Option 
 
-
-
 </td>
 <td valign="top">
 
@@ -2952,63 +2288,45 @@ The Document Management Service, Repository Option is now available on Google Cl
 
 See [Service Plans](service-plans-944c578.md) and [Restrictions and Limits](restrictions-and-limits-717ac5d.md) .
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Announcement
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
 Document Management Service
 
-
-
 </td>
 <td valign="top">
 
 2022-11-04
 
-
-
 </td>
 <td valign="top">
 
 2022-11-04
-
-
 
 </td>
 </tr>
@@ -3016,8 +2334,6 @@ Document Management Service
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3031,8 +2347,6 @@ Document Management Service
 
 SAP Document Management Service Outlook Add-In
 
-
-
 </td>
 <td valign="top">
 
@@ -3040,63 +2354,45 @@ A new Microsoft Outlook add-in feature has been introduced for the SAP Document 
 
 See [Sending Mail Attachments Using the Microsoft Outlook Add-In](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/a5f77e4b10bb4700907576c4afa05caa.html "Document Management Service offers a Microsoft Outlook add-in that can automatically create a share, include a link to the share in your mail or meeting request, and store the files you want to attach to your mail or meeting request in this share. In this way, you can attach files that exceed your allowed mail attachment size limit.") :arrow_upper_right:.
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
  
 
-
-
 </td>
 <td valign="top">
 
 2022-10-14
 
-
-
 </td>
 <td valign="top">
 
 2022-10-14
-
-
 
 </td>
 </tr>
@@ -3104,8 +2400,6 @@ Not applicable
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3119,70 +2413,50 @@ Document Management Service
 
 Release Update
 
-
-
 </td>
 <td valign="top">
 
 This release includes some bug fixes, performance improvements, and security updates. This version doesn't include any new features.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 Announcement
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
 
-
-
 </td>
 <td valign="top">
 
 2022-09-09
 
-
-
 </td>
 <td valign="top">
 
 2022-09-09
-
-
 
 </td>
 </tr>
@@ -3190,8 +2464,6 @@ Not applicable
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3205,8 +2477,6 @@ Document Management Service
 
 REST API for Offboarding Repository
 
-
-
 </td>
 <td valign="top">
 
@@ -3214,63 +2484,45 @@ REST-based APIs now let you off-board your repository as well as check the statu
 
 Refer to a new API published on [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
  
 
-
-
 </td>
 <td valign="top">
 
 2022-08-11
 
-
-
 </td>
 <td valign="top">
 
 2022-08-11
-
-
 
 </td>
 </tr>
@@ -3278,8 +2530,6 @@ Not applicable
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3293,8 +2543,6 @@ Document Management Service
 
 REST API for Favorites Repository
 
-
-
 </td>
 <td valign="top">
 
@@ -3302,63 +2550,45 @@ REST-based APIs now let you add a repository category called *Favorites*. When o
 
 Check out the Onboard Repository for API references [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
  
 
-
-
 </td>
 <td valign="top">
 
 2022-08-11
 
-
-
 </td>
 <td valign="top">
 
 2022-08-11
-
-
 
 </td>
 </tr>
@@ -3366,8 +2596,6 @@ Not applicable
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3381,8 +2609,6 @@ Document Management Service
 
 Favorites Repository Category
 
-
-
 </td>
 <td valign="top">
 
@@ -3390,63 +2616,45 @@ The Document Management Service, Application Option as well as the Document Mana
 
 See [Onboarding Favorites Repository](web-app-guide/onboarding-favorites-repository-015d8a1.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
-
-
 
 </td>
 <td valign="top">
 
  
 
-
-
 </td>
 <td valign="top">
 
 2022-08-11
 
-
-
 </td>
 <td valign="top">
 
 2022-08-11
-
-
 
 </td>
 </tr>
@@ -3454,8 +2662,6 @@ Not applicable
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3469,56 +2675,40 @@ Document Management Service
 
 Theme Support for the SAP Document Management Service Mobile Applications
 
-
-
 </td>
 <td valign="top">
 
 The SAP Document Management Service mobile applications now support dark themes for Android and iOS devices. When you enable a dark theme on your system, the application is automatically supported.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -3530,16 +2720,12 @@ Not applicable
 
 2022-08-11
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3553,8 +2739,6 @@ Document Management Service
 
 Security Settings in SAP Document Management Service Mobile Applications
 
-
-
 </td>
 <td valign="top">
 
@@ -3562,49 +2746,35 @@ The SAP Document Management Service mobile application supports the use of an ap
 
 See [Defining the App Settings (iOS)](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/8ea949d82ae3441ea033ad1e4bbbae94.html "You can define global settings in your mobile app. The options available to you depend on company policy and the settings that your administrator has preselected.") :arrow_upper_right: and[Defining the App Settings (Android)](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/5468c2412201434a860b6e4436530db1.html "You can define global settings in your mobile app. The options available to you depend on company policy and the settings that your administrator has preselected.") :arrow_upper_right: .
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -3616,16 +2786,12 @@ Not applicable
 
 2022-08-11
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3639,8 +2805,6 @@ Document Management Service
 
 Integrating Google Workspace with Document Management Service, Integration Option 
 
-
-
 </td>
 <td valign="top">
 
@@ -3648,49 +2812,35 @@ You can now set up a new integration scenario using Google Workspace for SAP Doc
 
 See [Integrating SAP S/4HANA with Google Workspace Using SAP Document Management Service](integrating-sap-s-4hana-with-google-workspace-using-sap-document-management-service-594bf95.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -3702,16 +2852,12 @@ Not applicable
 
 2022-07-14
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3725,56 +2871,40 @@ Document Management Service
 
 Copy and Move Documents
 
-
-
 </td>
 <td valign="top">
 
 Documents that are searchable can now be moved and copied.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -3786,16 +2916,12 @@ Not applicable
 
 2022-07-14
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3809,8 +2935,6 @@ Document Management Service
 
 Theme Support for the Document Management Service, Application Option 
 
-
-
 </td>
 <td valign="top">
 
@@ -3818,49 +2942,35 @@ You can change the appearance of your Document Management Service, Application O
 
 See [Accessibility Features in Document Management Service](security-topics/accessibility-features-in-document-management-service-c2007f5.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -3872,16 +2982,12 @@ Not applicable
 
 2022-07-14
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3895,56 +3001,40 @@ Document Management Service
 
 UI Improvements
 
-
-
 </td>
 <td valign="top">
 
 The *Attachments* have been renamed to *Items*. You can see the number of items for all files and folders, and this helps you to get an overview of the documents attached to a particular folder at a glance.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 Changed
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -3956,16 +3046,12 @@ Not applicable
 
 2022-07-14
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -3979,8 +3065,6 @@ Document Management Service
 
 Optional parameter introduced in the third-party migration API
 
-
-
 </td>
 <td valign="top">
 
@@ -3988,49 +3072,35 @@ You can use `externalId` as an optional parameter when you're using third-party 
 
 See [Migrating Third-Party CMIS Repositories](https://api.sap.com/api/MigrationAPI/resource).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4042,16 +3112,12 @@ Not applicable
 
 2022-06-16
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4065,56 +3131,40 @@ Document Management Service
 
 UI Improvements
 
-
-
 </td>
 <td valign="top">
 
 It's now possible for you to see the number of attachments for all files and folders, and this helps you to get an overview of the documents attached to a particular folder at a glance.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4126,16 +3176,12 @@ Not applicable
 
 2022-06-16
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4149,8 +3195,6 @@ Document Management Service
 
 Delete Migrations
 
-
-
 </td>
 <td valign="top">
 
@@ -4158,49 +3202,35 @@ The Delete functionality allows you to remove migrations that are no longer need
 
 See [Deleting Migrations](web-app-guide/deleting-migrations-d15e69f.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4212,16 +3242,12 @@ Not applicable
 
 2022-06-16
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4235,8 +3261,6 @@ Document Management Service
 
 Migration API for Copy Scenario
 
-
-
 </td>
 <td valign="top">
 
@@ -4244,49 +3268,35 @@ Using the REST API, you can now copy folder from one repository to another.
 
 See [Copying Folder in SAP Document Management Service Repository to Another](https://api.sap.com/api/MigrationAPI/resource).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4298,16 +3308,12 @@ Not applicable
 
 2022-06-16
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4321,8 +3327,6 @@ Document Management Service
 
 Document Management Service, Application Option on Cloud Platform Enterprise Agreement
 
-
-
 </td>
 <td valign="top">
 
@@ -4330,49 +3334,35 @@ Document Management Service, Application Option has been added to the Cloud Plat
 
 See [Concepts](concepts/concepts-0adeaf1.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4384,16 +3374,12 @@ Not applicable
 
 2022-05-19
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4407,8 +3393,6 @@ Document Management Service
 
 Support for QR code scanning in SAP Document Management Service mobile applications
 
-
-
 </td>
 <td valign="top">
 
@@ -4416,49 +3400,35 @@ Using a QR code, you can now register server URL in the SAP Document Management 
 
 See [Installing the Android App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/16623553fdb8487b8e09f265f1fce347.html "Before you can use the Document Management Service mobile app on your Android device, you've to set it up.") :arrow_upper_right: and [Installing the iPad or the iPhone App](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/ffe75ca24d7843138ae3d8bd8fd4e07a.html "Before you can use the Document Management Service mobile app on your iOS device, you've to set it up.") :arrow_upper_right:.
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4470,16 +3440,12 @@ Not applicable
 
 2022-05-19
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4493,8 +3459,6 @@ Document Management Service
 
 Pagination Support
 
-
-
 </td>
 <td valign="top">
 
@@ -4502,49 +3466,35 @@ Page number can be automatically determined based on the number of documents in 
 
 See [Configurations for Reuse UI](integration-option-guide/configurations-for-reuse-ui-c91ec16.md) and [Using Pagination](integration-option-guide/using-pagination-b40f283.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4556,16 +3506,12 @@ Not applicable
 
 2022-04-21
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4579,8 +3525,6 @@ Document Management Service
 
 SAP Document Management Service desktop client support for Mac operating system
 
-
-
 </td>
 <td valign="top">
 
@@ -4588,49 +3532,35 @@ The SAP Document Management Service desktop application is now available on the 
 
 See [Installing the Desktop App for Mac OS](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/78850d0fd7c74d67a9fd2aad808e49d3.html "The SAP Document Management Service desktop app enables you to comfortably manage your documents and folders across your devices.") :arrow_upper_right:.
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4642,16 +3572,12 @@ Not applicable
 
 2022-03-30
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4665,8 +3591,6 @@ Document Management Service
 
 Deep links support for both SAP Document Management Service desktop and mobile clients
 
-
-
 </td>
 <td valign="top">
 
@@ -4674,49 +3598,35 @@ You can create links that perform actions within the SAP Document Management Ser
 
 See [URLs for App-to-App Integration of Document Management Service](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/3fbbe2480b3c48f5b306af548a05ad8f.html "You can build URLs that perform actions in the SAP Document Management Service app and that can be used for app-to-app integration or as links in e-mails.") :arrow_upper_right:.
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4728,16 +3638,12 @@ Not applicable
 
 2022-03-24
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4751,8 +3657,6 @@ Document Management Service
 
 SAP Document Management Service Android application supports the import of files
 
-
-
 </td>
 <td valign="top">
 
@@ -4760,49 +3664,35 @@ You can now import files using SAP Document Management Service Android applicati
 
 See [Adding and Deleting Files and Folders (Android)](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/d7c9f53523b4485a9d80a3edce5c2422.html "In the SAP Document Management Service mobile app you can add and delete files and folders.") :arrow_upper_right:.
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4814,16 +3704,12 @@ Not applicable
 
 2022-03-24
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4837,56 +3723,40 @@ Document Management Service
 
 Third-party CMIS-compliant repositories are supported for SAP Document Management Service clients \(Desktop and Mobile\)
 
-
-
 </td>
 <td valign="top">
 
 With SAP Document Management Service clients, third-party CMIS-compliant repositories are now supported.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4898,16 +3768,12 @@ Not applicable
 
 2022-03-24
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -4921,8 +3787,6 @@ Document Management Service
 
 Language Support
 
-
-
 </td>
 <td valign="top">
 
@@ -4930,49 +3794,35 @@ The UI texts of support Document Management Service, Application Option Italian 
 
 See [Supported Languages](concepts/supported-languages-fc3970e.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -4984,16 +3834,12 @@ Not applicable
 
 2022-03-24
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -5007,8 +3853,6 @@ Document Management Service
 
 Tenant Migration API
 
-
-
 </td>
 <td valign="top">
 
@@ -5016,49 +3860,35 @@ Using the REST API, selective tenant migration is now supported. Optional 'tenan
 
 See [Migrating Document Service](https://api.sap.com/api/MigrationAPI/resource).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -5070,16 +3900,12 @@ Not applicable
 
 2022-02-24
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -5093,8 +3919,6 @@ Document Management Service
 
 Cross Repository Data Migration API
 
-
-
 </td>
 <td valign="top">
 
@@ -5102,49 +3926,35 @@ Through the REST APIs, cross-repository migration is now supported. You can copy
 
 See [Copying Folder in SAP Document Management Service Repository to Another](https://api.sap.com/api/MigrationAPI/resource).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -5156,16 +3966,12 @@ Not applicable
 
 2022-02-24
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -5179,8 +3985,6 @@ Document Management Service
 
 Recycle Bin in Document Management Service, Application Option 
 
-
-
 </td>
 <td valign="top">
 
@@ -5188,49 +3992,35 @@ Certain limitations apply when it comes to restoring different versions of delet
 
 See [Restrictions and Limits](restrictions-and-limits-717ac5d.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 Changed
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -5242,16 +4032,12 @@ Not applicable
 
 2022-02-24
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -5265,8 +4051,6 @@ Document Management Service
 
 Mutual Transport Layer Security \(mTLS\)
 
-
-
 </td>
 <td valign="top">
 
@@ -5274,49 +4058,35 @@ You can exchange tokens with the service using mTLS instead of providing the cli
 
 See [Enable mTLS Authentication for Document Management Service](security-topics/enable-mtls-authentication-for-document-management-service-5f70318.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -5328,16 +4098,12 @@ Not applicable
 
 2022-01-31
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -5351,8 +4117,6 @@ Document Management Service
 
 Retention Feature in Document Management Service, Application Option 
 
-
-
 </td>
 <td valign="top">
 
@@ -5360,49 +4124,35 @@ You can now use Retention feature in the Document Management Service, Applicatio
 
 See [Retention](integration-option-guide/retention-f271828.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -5414,16 +4164,12 @@ Not applicable
 
 2022-01-05
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -5437,56 +4183,40 @@ Document Management Service
 
 UI Improvements
 
-
-
 </td>
 <td valign="top">
 
 As a paginated response, you can now view a complete list of documents and folders found on a particular item in basic search, advanced search, copy, and move scenarios. Search entries are shown in full and aren't truncated.
-
-
 
 </td>
 <td valign="top">
 
 Info only
 
-
-
 </td>
 <td valign="top">
 
 General Availability
-
-
 
 </td>
 <td valign="top">
 
 New
 
-
-
 </td>
 <td valign="top">
 
 Technology
-
-
 
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -5498,16 +4228,12 @@ Not applicable
 
 2022-01-05
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Document Management Service
-
-
 
 </td>
 <td valign="top">
@@ -5521,8 +4247,6 @@ Document Management Service
 
 Recycle Bin
 
-
-
 </td>
 <td valign="top">
 
@@ -5530,49 +4254,35 @@ The Recycle Bin now allows you to permanently delete documents and folders.
 
 See [Deleting and Restoring Files and Folders](integration-option-guide/deleting-and-restoring-files-and-folders-af6b72b.md).
 
-
-
 </td>
 <td valign="top">
 
 Info only
-
-
 
 </td>
 <td valign="top">
 
 General Availability
 
-
-
 </td>
 <td valign="top">
 
 New
-
-
 
 </td>
 <td valign="top">
 
 Technology
 
-
-
 </td>
 <td valign="top">
 
 Not applicable
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 <td valign="top">
@@ -5583,8 +4293,6 @@ Not applicable
 <td valign="top">
 
 2022-01-05
-
-
 
 </td>
 </tr>

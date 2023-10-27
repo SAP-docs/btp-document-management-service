@@ -34,15 +34,11 @@ You've an admin access to the SAP S/4HANA Cloud system.
         <th valign="top">
 
         Field Name
-
-
         
         </th>
         <th valign="top">
 
         Values
-
-
         
         </th>
         </tr>
@@ -50,15 +46,11 @@ You've an admin access to the SAP S/4HANA Cloud system.
         <td valign="top">
         
         *Trusted Host Name*
-
-
         
         </td>
         <td valign="top">
         
         `docs.google.com`
-
-
         
         </td>
         </tr>
@@ -66,15 +58,11 @@ You've an admin access to the SAP S/4HANA Cloud system.
         <td valign="top">
         
         *Scheme*
-
-
         
         </td>
         <td valign="top">
         
         `HTPS`
-
-
         
         </td>
         </tr>
@@ -82,15 +70,11 @@ You've an admin access to the SAP S/4HANA Cloud system.
         <td valign="top">
         
         *Port*
-
-
         
         </td>
         <td valign="top">
         
         `443`
-
-
         
         </td>
         </tr>

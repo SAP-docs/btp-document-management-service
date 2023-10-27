@@ -41,15 +41,11 @@ You can request the restoration of a deleted repository by following the steps d
     <th valign="top">
 
     Parameter Name
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -57,15 +53,11 @@ You can request the restoration of a deleted repository by following the steps d
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
     
     Service URL.
-
-
     
     </td>
     </tr>
@@ -73,8 +65,6 @@ You can request the restoration of a deleted repository by following the steps d
     <td valign="top">
     
     `ZoneId`
-
-
     
     </td>
     <td valign="top">
@@ -92,15 +82,11 @@ You can request the restoration of a deleted repository by following the steps d
     <td valign="top">
     
     `SubaccountId`
-
-
     
     </td>
     <td valign="top">
     
     Copy ID from the *Subaccount Details* section.
-
-
     
     </td>
     </tr>
@@ -108,15 +94,11 @@ You can request the restoration of a deleted repository by following the steps d
     <td valign="top">
     
     `serviceInstanceId`
-
-
     
     </td>
     <td valign="top">
     
     The instance ID of the service instance.
-
-
     
     </td>
     </tr>
@@ -169,15 +151,11 @@ Before requesting that a deleted service instance to be restored, you've created
     <th valign="top">
 
     Parameter Name
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -185,15 +163,11 @@ Before requesting that a deleted service instance to be restored, you've created
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
     
     Service URL.
-
-
     
     </td>
     </tr>
@@ -201,15 +175,11 @@ Before requesting that a deleted service instance to be restored, you've created
     <td valign="top">
     
     `SubaccountId`
-
-
     
     </td>
     <td valign="top">
     
     Copy ID from the *Subaccount Details* section.
-
-
     
     </td>
     </tr>
@@ -217,15 +187,11 @@ Before requesting that a deleted service instance to be restored, you've created
     <td valign="top">
     
     `inactiveServiceInstanceId`
-
-
     
     </td>
     <td valign="top">
     
     Include the ID of the deleted service instance.
-
-
     
     </td>
     </tr>
@@ -233,15 +199,11 @@ Before requesting that a deleted service instance to be restored, you've created
     <td valign="top">
     
     `activeServiceInstanceId`
-
-
     
     </td>
     <td valign="top">
     
     Include the ID of the newly created service instance.
-
-
     
     </td>
     </tr>

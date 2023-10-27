@@ -46,15 +46,11 @@ Configure SAML Outbound OAuth configuration between SAP S/4HANA Cloud and SAP BT
     <th valign="top">
 
     Property Name
-
-
     
     </th>
     <th valign="top">
 
     Property Value
-
-
     
     </th>
     </tr>
@@ -62,15 +58,11 @@ Configure SAML Outbound OAuth configuration between SAP S/4HANA Cloud and SAP BT
     <td valign="top">
     
     *<File Share ID\>*
-
-
     
     </td>
     <td valign="top">
     
     `ZTEST`
-
-
     
     </td>
     </tr>
@@ -78,15 +70,11 @@ Configure SAML Outbound OAuth configuration between SAP S/4HANA Cloud and SAP BT
     <td valign="top">
     
     *<File Share Type\>*
-
-
     
     </td>
     <td valign="top">
     
     `2`
-
-
     
     </td>
     </tr>
@@ -94,15 +82,11 @@ Configure SAML Outbound OAuth configuration between SAP S/4HANA Cloud and SAP BT
     <td valign="top">
     
     *<Repository ID\>*
-
-
     
     </td>
     <td valign="top">
     
     `GOOGLE_DRIVE`
-
-
     
     </td>
     </tr>

@@ -15,28 +15,20 @@ The following Access Control Lists \(ACLs\) features are included in the Documen
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Integration Option
-
-
 
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
 
-
-
 </th>
 <th valign="top">
 
 Additional Details
-
-
 
 </th>
 </tr>
@@ -45,28 +37,20 @@ Additional Details
 
 *Add Principal and Permission*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AddAclPropertyApi/overview)
-
-
 
 </td>
 <td valign="top">
 
 *Select Document \>* Choose :pencil2:*\> Access Control* \> Add Email ID or Role Collection
 
-
-
 </td>
 <td valign="top">
 
 Add role collection in the format `~GROUP~<role collection mail>`
-
-
 
 </td>
 </tr>
@@ -75,28 +59,20 @@ Add role collection in the format `~GROUP~<role collection mail>`
 
 *Remove Principal and Permission*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/RemoveAclPropertyApi/overview)
-
-
 
 </td>
 <td valign="top">
 
 *Select Document \>* Choose :pencil2:*\> Access Control* \> Add Email ID or Role Collection
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>

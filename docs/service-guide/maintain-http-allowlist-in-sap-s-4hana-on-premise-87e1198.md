@@ -22,15 +22,11 @@ Configure HTTP context types in SAP S/4HANA\(On Premise\) to manage HTTP allowli
     <th valign="top">
 
     Field Name
-
-
     
     </th>
     <th valign="top">
 
     Values
-
-
     
     </th>
     </tr>
@@ -38,15 +34,11 @@ Configure HTTP context types in SAP S/4HANA\(On Premise\) to manage HTTP allowli
     <td valign="top">
     
     *Scheme*
-
-
     
     </td>
     <td valign="top">
     
     `HTTPS`
-
-
     
     </td>
     </tr>
@@ -54,15 +46,11 @@ Configure HTTP context types in SAP S/4HANA\(On Premise\) to manage HTTP allowli
     <td valign="top">
     
     *Host*
-
-
     
     </td>
     <td valign="top">
     
     `docs.google.com`
-
-
     
     </td>
     </tr>
@@ -70,15 +58,11 @@ Configure HTTP context types in SAP S/4HANA\(On Premise\) to manage HTTP allowli
     <td valign="top">
     
     *Port*
-
-
     
     </td>
     <td valign="top">
     
     `443`
-
-
     
     </td>
     </tr>
@@ -86,15 +70,11 @@ Configure HTTP context types in SAP S/4HANA\(On Premise\) to manage HTTP allowli
     <td valign="top">
     
     *Path*
-
-
     
     </td>
     <td valign="top">
     
     `Maintain Google Doc Path`
-
-
     
     </td>
     </tr>

@@ -15,28 +15,20 @@ The following document management features are included in the Document Manageme
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Integration Option
-
-
 
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
 
-
-
 </th>
 <th valign="top">
 
 Additional Details
-
-
 
 </th>
 </tr>
@@ -45,28 +37,20 @@ Additional Details
 
 *Upload Document*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/CreateDocumentApi/overview)
-
-
 
 </td>
 <td valign="top">
 
 *Select Repository* \> *Create* \> *Document* \> *Upload File*
 
-
-
 </td>
 <td valign="top">
 
 Virus scanning is supported only up to 400 MB for the Document Management Service, Repository Option. Beyond 400 MB, it'sn't supported.
-
-
 
 </td>
 </tr>
@@ -75,21 +59,15 @@ Virus scanning is supported only up to 400 MB for the Document Management Servic
 
 *Rename Document*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/UpdateFolder_Document_LinkApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 *Select File \>* Choose <span class="SAP-icons"></span> More Options *\> Rename* *\> Enter New Name* 
-
-
 
 </td>
 <td valign="top">
@@ -107,28 +85,20 @@ Virus scanning is supported only up to 400 MB for the Document Management Servic
 
 *View Document Properties*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/GetObjectApi/overview)
-
-
 
 </td>
 <td valign="top">
 
 Select *Repository* \> *Document*, choose<span class="SAP-icons"></span> More Options and select *Show Properties*
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -137,28 +107,20 @@ Select *Repository* \> *Document*, choose<span class="SAP-icons"></span> More
 
 *Move Folder*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/UpdateFolder_Document_LinkApi/overview)
-
-
 
 </td>
 <td valign="top">
 
 *Select Repository* \> *Select Folder* \> *Move*.
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -167,28 +129,20 @@ Select *Repository* \> *Document*, choose<span class="SAP-icons"></span> More
 
 *Copy Document*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/CreateDocumentFromSourceApi/resource)
-
-
 
 </td>
 <td valign="top">
 
 Select *Repository* \> *Choose File* \> *Copy*.
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -197,28 +151,20 @@ Select *Repository* \> *Choose File* \> *Copy*.
 
 *Move Document*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/GetPropertiesApi/overview)
-
-
 
 </td>
 <td valign="top">
 
 Select *Repository* \> ** \> *Document* \> *Move*
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -227,28 +173,20 @@ Select *Repository* \> ** \> *Document* \> *Move*
 
 *Status Management*
 
-
-
 </td>
 <td valign="top">
 
 \(Not Applicable\)
-
-
 
 </td>
 <td valign="top">
 
 Select *Repository* \> *Document*, choose <span class="SAP-icons"></span> More Options and select *Show Properties* *\> Edit \> Additional Data*
 
-
-
 </td>
 <td valign="top">
 
 For SAP S/4HANA DMS repositories only.
-
-
 
 </td>
 </tr>
@@ -257,28 +195,20 @@ For SAP S/4HANA DMS repositories only.
 
 *Classification*
 
-
-
 </td>
 <td valign="top">
 
 \(Not Applicable\)
-
-
 
 </td>
 <td valign="top">
 
 Select *Repository* \> *Document* Choose <span class="SAP-icons"></span> More Options*\> Show Properties* *\> Edit \> Additional Data*
 
-
-
 </td>
 <td valign="top">
 
 For SAP S/4HANA DMS repositories only.
-
-
 
 </td>
 </tr>
@@ -287,28 +217,47 @@ For SAP S/4HANA DMS repositories only.
 
 *Rendition Capabilities*
 
-
-
 </td>
 <td valign="top">
 
 \(Not Applicable\)
-
-
 
 </td>
 <td valign="top">
 
 Select *Repository* \> *Document* Choose <span class="SAP-icons"></span> More Options *\> Show Properties* *\> Edit \> Additional Data*
 
-
-
 </td>
 <td valign="top">
 
 For SAP S/4HANA DMS repositories only.
 
+</td>
+</tr>
+<tr>
+<td valign="top">
 
+*Download Content*
+
+</td>
+<td valign="top">
+
+[SAP Business Accelerator Hub](https://api.sap.com/api/GetZipContentStream/overview)
+
+</td>
+<td valign="top">
+
+Select *Repository*, choose *Document*, and then choose *Download*.
+
+> ### Tip:  
+> The *Download* option allows you to select multiple documents.
+
+
+
+</td>
+<td valign="top">
+
+ 
 
 </td>
 </tr>

@@ -33,15 +33,11 @@ Create Roles
     <th valign="top">
 
     Role
-
-
     
     </th>
     <th valign="top">
 
     Role Capabilities
-
-
     
     </th>
     </tr>
@@ -49,15 +45,11 @@ Create Roles
     <td valign="top">
     
     *SDM\_Admin* and *SDMWeb\_Admin* 
-
-
     
     </td>
     <td valign="top">
     
     Provide admin capabilities to a user. With admin capabilities, a user can add, sync, update, and delete repositories.
-
-
     
     </td>
     </tr>
@@ -65,15 +57,11 @@ Create Roles
     <td valign="top">
     
     *SDM\_User* and *SDMWeb\_User* 
-
-
     
     </td>
     <td valign="top">
     
     Provide capabilities to use the web UI of Document Management Service, Application Option.
-
-
     
     </td>
     </tr>
@@ -81,15 +69,11 @@ Create Roles
     <td valign="top">
     
     *SDM\_MigrationAdmin* and *SDMWeb\_Migration* 
-
-
     
     </td>
     <td valign="top">
     
     Provide admin capabilities to use the web UI for Document Management Migration. With admin capabilities, you can initiate the migration, check the status, and also download the logs.
-
-
     
     </td>
     </tr>

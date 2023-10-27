@@ -21,14 +21,10 @@ An admin for Document Management Service, Integration Option can count and list 
 
 HTTP Method
 
-
-
 </th>
 <th valign="top">
 
 Action
-
-
 
 </th>
 </tr>
@@ -37,14 +33,10 @@ Action
 
 *GET*
 
-
-
 </td>
 <td valign="top">
 
 Retrieve resource information
-
-
 
 </td>
 </tr>
@@ -53,14 +45,10 @@ Retrieve resource information
 
 *POST*
 
-
-
 </td>
 <td valign="top">
 
 Create new resource
-
-
 
 </td>
 </tr>
@@ -69,14 +57,10 @@ Create new resource
 
 *PUT*
 
-
-
 </td>
 <td valign="top">
 
 Update a resource
-
-
 
 </td>
 </tr>
@@ -85,14 +69,10 @@ Update a resource
 
 *DELETE*
 
-
-
 </td>
 <td valign="top">
 
 Delete a resource
-
-
 
 </td>
 </tr>

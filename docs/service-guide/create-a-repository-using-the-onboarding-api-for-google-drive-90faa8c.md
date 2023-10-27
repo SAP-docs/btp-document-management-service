@@ -40,21 +40,15 @@ Create your repository to Document Management Service, Integration Option as it'
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Values/Description
-
-
 
 </th>
 </tr>
@@ -63,21 +57,15 @@ Values/Description
 
 `"repository":"displayName"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the repository that appears in the application.
-
-
 
 </td>
 </tr>
@@ -86,21 +74,15 @@ Name of the repository that appears in the application.
 
 `"repository":"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Description of the repository.
-
-
 
 </td>
 </tr>
@@ -109,14 +91,10 @@ Description of the repository.
 
 `"repository":"repositoryType"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
@@ -125,8 +103,6 @@ Yes
 
 It means that you're adding your own repository.
 
-
-
 </td>
 </tr>
 <tr>
@@ -134,21 +110,15 @@ It means that you're adding your own repository.
 
 `"repository":"repositoryId"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Get the repository ID of a folder, My Drive, or a Shared Drive. For more information about finding IDs, see [Find the Repository IDs](create-a-repository-using-the-onboarding-api-for-google-drive-90faa8c.md#loio90faa8c52bbc40119bf41def24c3ac94__section_udl_5b1_3vb).
-
-
 
 </td>
 </tr>
@@ -157,14 +127,10 @@ Get the repository ID of a folder, My Drive, or a Shared Drive. For more informa
 
 `"repository":"externalId"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -173,8 +139,6 @@ Unique name for the repository.
 
 The parameter is mandatory for SAP S/4HANA users who use Document Management Service, Integration Option for their SAP S/4HANA Attachment service.
 
-
-
 </td>
 </tr>
 <tr>
@@ -182,21 +146,15 @@ The parameter is mandatory for SAP S/4HANA users who use Document Management Ser
 
 `"repository":"repositoryCategory"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Enter `GoogleWorkspace`.
-
-
 
 </td>
 </tr>
@@ -205,21 +163,15 @@ Enter `GoogleWorkspace`.
 
 `"connection":"displayName"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Display name for the destination
-
-
 
 </td>
 </tr>
@@ -228,21 +180,15 @@ Display name for the destination
 
 `"connection":"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Description for the destination
-
-
 
 </td>
 </tr>
@@ -251,21 +197,15 @@ Description for the destination
 
 `"connection":"destinationName"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the destination that you configured in the [Prerequisites](https://help.sap.com/viewer/f6e70dd4bffa4b65965b43feed4c9429/Cloud/en-US/21bd2788d7c74c43a399dc13cf452f0c.html).
-
-
 
 </td>
 </tr>
@@ -344,14 +284,10 @@ You can find detailed instructions on how to obtain the repository IDs of My Dri
 
 Google Drive Folders
 
-
-
 </th>
 <th valign="top">
 
 Repository ID
-
-
 
 </th>
 </tr>
@@ -360,14 +296,10 @@ Repository ID
 
 Root of Google Drive
 
-
-
 </td>
 <td valign="top">
 
 `GoogleConnectorEntry`
-
-
 
 </td>
 </tr>
@@ -376,14 +308,10 @@ Root of Google Drive
 
 Shared with me
 
-
-
 </td>
 <td valign="top">
 
 `SharedWithMe`
-
-
 
 </td>
 </tr>
@@ -392,14 +320,10 @@ Shared with me
 
 Shared drives
 
-
-
 </td>
 <td valign="top">
 
 `SharedDrives`
-
-
 
 </td>
 </tr>
@@ -408,14 +332,10 @@ Shared drives
 
 Any shared drive within Shared Drives folder
 
-
-
 </td>
 <td valign="top">
 
 See [Steps to Find the ID of a Shared Drive or a Folder](create-a-repository-using-the-onboarding-api-for-google-drive-90faa8c.md#loio90faa8c52bbc40119bf41def24c3ac94__section_a1z_fjd_jvb)
-
-
 
 </td>
 </tr>
@@ -424,14 +344,10 @@ See [Steps to Find the ID of a Shared Drive or a Folder](create-a-repository-usi
 
 Any folder
 
-
-
 </td>
 <td valign="top">
 
 See [Steps to Find the ID of a Shared Drive or a Folder](create-a-repository-using-the-onboarding-api-for-google-drive-90faa8c.md#loio90faa8c52bbc40119bf41def24c3ac94__section_a1z_fjd_jvb)
-
-
 
 </td>
 </tr>
@@ -440,14 +356,10 @@ See [Steps to Find the ID of a Shared Drive or a Folder](create-a-repository-usi
 
 My Drive
 
-
-
 </td>
 <td valign="top">
 
 See [Steps to Find the ID of My Drive](create-a-repository-using-the-onboarding-api-for-google-drive-90faa8c.md#loio90faa8c52bbc40119bf41def24c3ac94__section_glr_ljd_jvb)
-
-
 
 </td>
 </tr>

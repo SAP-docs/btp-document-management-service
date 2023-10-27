@@ -49,21 +49,15 @@ The following parameters are needed for onboarding internal repositories:
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Values/Description
-
-
 
 </th>
 </tr>
@@ -72,21 +66,15 @@ Values/Description
 
 `"displayName"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the repository that appears in the application.The external repository is based on the concept of "bring your own repository." To onboard an external repository, you must first maintain the repository information in SAP Destination Service, including the URL, username, and password, and then provide this destination information to our repository onboarding API.
-
-
 
 </td>
 </tr>
@@ -95,21 +83,15 @@ Name of the repository that appears in the application.The external repository i
 
 `"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Description of the repository
-
-
 
 </td>
 </tr>
@@ -118,21 +100,15 @@ Description of the repository
 
 `"repositoryType"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 `internal` 
-
-
 
 </td>
 </tr>
@@ -141,14 +117,10 @@ Yes
 
 `"repositoryCategory"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -157,8 +129,6 @@ Optional
 
 This entry is needed only when you want to create shared folders in the repository. By default, shared folder creation is disabled. For more information, see [Collaboration Repositories](collaboration-repositories-926d32b.md).
 
-
-
 </td>
 </tr>
 <tr>
@@ -166,14 +136,10 @@ This entry is needed only when you want to create shared folders in the reposito
 
 `"isVersionEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -184,8 +150,6 @@ Acceptable values: true/false
 
 Default value: false
 
-
-
 </td>
 </tr>
 <tr>
@@ -193,14 +157,10 @@ Default value: false
 
 `"isVirusScanEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -223,14 +183,10 @@ Acceptable values:
 
 `"skipVirusScanForLargeFile"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -253,14 +209,10 @@ Acceptable values:
 
 `"hashAlgorithms"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
@@ -285,14 +237,10 @@ Hashing algorithms to generate a content hash for all your documents. Acceptable
 
 `"externalId"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -301,8 +249,6 @@ Unique name for the repository.
 
 The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
 
-
-
 </td>
 </tr>
 <tr>
@@ -310,14 +256,10 @@ The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
 
 `"isContentBridgeEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -326,8 +268,6 @@ Acceptable values: `true` or `false`
 
 The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
 
-
-
 </td>
 </tr>
 <tr>
@@ -335,21 +275,15 @@ The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
 
 `"isThumbnailEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Acceptable values: `true` or `false` 
-
-
 
 </td>
 </tr>
@@ -358,21 +292,15 @@ Acceptable values: `true` or `false`
 
 `"isEncryptionEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Set the value to `True` if you want to enable encryption to encrypt your sensitive data in the repository. See [Default Encryption via SAP Credential Store](../security-topics/default-encryption-via-sap-credential-store-b978a4d.md).
-
-
 
 </td>
 </tr>
@@ -397,21 +325,15 @@ You can onboard external repositories. The API for onboarding external repositor
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Values/Description
-
-
 
 </th>
 </tr>
@@ -420,21 +342,15 @@ Values/Description
 
 `"repository":"displayName"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the repository that appears in the application.
-
-
 
 </td>
 </tr>
@@ -443,21 +359,15 @@ Name of the repository that appears in the application.
 
 `"repository":"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Description of the repository
-
-
 
 </td>
 </tr>
@@ -466,14 +376,10 @@ Description of the repository
 
 `"repository":"repositoryType"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
@@ -482,8 +388,6 @@ Yes
 
 The value "external" means that you're adding your own repository. To use SAP provided repository, see [Connecting to Document Management Service, Repository Option Using API](connecting-to-document-management-service-repository-option-using-api-d30200e.md).
 
-
-
 </td>
 </tr>
 <tr>
@@ -491,21 +395,15 @@ The value "external" means that you're adding your own repository. To use SAP pr
 
 `"repository":"repositoryId"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 CMIS ID of your repository
-
-
 
 </td>
 </tr>
@@ -514,14 +412,10 @@ CMIS ID of your repository
 
 `"repository":"repositoryParams":"paramName"`and `"repository":"repositoryParams":"paramValue"`
 
-
-
 </td>
 <td valign="top" rowspan="2">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -529,8 +423,6 @@ Optional
 `contentServer`
 
 The parameter is needed only for SAP DMS repositories to bypass ABAP layer and directly communicate to the content server to upload documents.
-
-
 
 </td>
 </tr>
@@ -596,14 +488,10 @@ The parameter is needed only for SAP S/4HANA DMS repositories to bypass ABAP lay
 
 `"repository":"externalId"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -612,8 +500,6 @@ Unique name for the repository
 
 The parameter is mandatory only for the users of SAP S/4HANA who use Document Management Service, Integration Option for their SAP S/4HANA Attachment service.
 
-
-
 </td>
 </tr>
 <tr>
@@ -621,21 +507,15 @@ The parameter is mandatory only for the users of SAP S/4HANA who use Document Ma
 
 `"connection":"displayName"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Display name for the destination
-
-
 
 </td>
 </tr>
@@ -644,21 +524,15 @@ Display name for the destination
 
 `"connection":"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Description for the destination
-
-
 
 </td>
 </tr>
@@ -667,21 +541,15 @@ Description for the destination
 
 `"connection":"destinationName"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the destination that you configured in the [Prerequisites](https://help.sap.com/viewer/f6e70dd4bffa4b65965b43feed4c9429/Cloud/en-US/21bd2788d7c74c43a399dc13cf452f0c.html).
-
-
 
 </td>
 </tr>

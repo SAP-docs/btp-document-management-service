@@ -13,14 +13,10 @@ Following is a list of all supported CMIS \(Content Management Interoperability 
 
 API Name
 
-
-
 </th>
 <th valign="top">
 
 Details
-
-
 
 </th>
 </tr>
@@ -29,14 +25,10 @@ Details
 
 `createDocument`
 
-
-
 </td>
 <td valign="top">
 
 Creates a document in the specified location inside repository. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/CreateDocumentApi/overview).
-
-
 
 </td>
 </tr>
@@ -45,14 +37,10 @@ Creates a document in the specified location inside repository. For more informa
 
 `createDocumentFromSource`
 
-
-
 </td>
 <td valign="top">
 
 Creates copy of document from the source folder into a targeted folder without changing any properties of the document. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/CreateDocumentFromSourceApi/overview)
-
-
 
 </td>
 </tr>
@@ -61,14 +49,10 @@ Creates copy of document from the source folder into a targeted folder without c
 
 `getContentStream`
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -77,14 +61,10 @@ Creates copy of document from the source folder into a targeted folder without c
 
 `getRepositories` and `getRepositoryInfo`
 
-
-
 </td>
 <td valign="top">
 
 Returns a list of Content Management Interoperability Services\(CMIS\) repositories available for the instance. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/ServiceApi/overview).
-
-
 
 </td>
 </tr>
@@ -93,14 +73,10 @@ Returns a list of Content Management Interoperability Services\(CMIS\) repositor
 
 `getObject`
 
-
-
 </td>
 <td valign="top">
 
 The API provides the information for the specified object where the object can be of folder, link, document type. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/ServiceApi/overview).
-
-
 
 </td>
 </tr>
@@ -109,14 +85,10 @@ The API provides the information for the specified object where the object can b
 
 `getChildren`
 
-
-
 </td>
 <td valign="top">
 
 The API returns the list of child objects contained in the specified folder. It provides us information about the immediate children of specified object. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/GetChildrenApi/overview).
-
-
 
 </td>
 </tr>
@@ -125,14 +97,10 @@ The API returns the list of child objects contained in the specified folder. It 
 
 `updateType`
 
-
-
 </td>
 <td valign="top">
 
 Update properties of object present inside repository. For more information, see published APIs on the [SSAP Business Accelerator Hub](https://api.sap.com/api/UpdatePropertiesApi/overview).
-
-
 
 </td>
 </tr>
@@ -141,14 +109,10 @@ Update properties of object present inside repository. For more information, see
 
 `deleteType`
 
-
-
 </td>
 <td valign="top">
 
 Update properties of object present inside repository. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/UpdatePropertiesApi/overview).
-
-
 
 </td>
 </tr>
@@ -157,14 +121,10 @@ Update properties of object present inside repository. For more information, see
 
 `getProperties`
 
-
-
 </td>
 <td valign="top">
 
 Provides properties of a given object. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/GetPropertiesApi/overview).
-
-
 
 </td>
 </tr>
@@ -173,14 +133,10 @@ Provides properties of a given object. For more information, see published APIs 
 
 `updateProperties`
 
-
-
 </td>
 <td valign="top">
 
 Update properties of object present inside repository. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/UpdatePropertiesApi/overview).
-
-
 
 </td>
 </tr>
@@ -189,14 +145,10 @@ Update properties of object present inside repository. For more information, see
 
 `createFolder`
 
-
-
 </td>
 <td valign="top">
 
 Creates a folder in the specified location of a repository. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/GetPropertiesApi/overview).
-
-
 
 </td>
 </tr>
@@ -205,14 +157,10 @@ Creates a folder in the specified location of a repository. For more information
 
 `getObjectParents`
 
-
-
 </td>
 <td valign="top">
 
 The API provides the information for the specified object where the object can be of folder, link, document type. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/ServiceApi/overview).
-
-
 
 </td>
 </tr>
@@ -221,14 +169,10 @@ The API provides the information for the specified object where the object can b
 
 `getFolderParent`
 
-
-
 </td>
 <td valign="top">
 
 Provides parent folder object for the given object. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/GetParentApi/overview).
-
-
 
 </td>
 </tr>
@@ -237,14 +181,10 @@ Provides parent folder object for the given object. For more information, see pu
 
 `deleteObject`
 
-
-
 </td>
 <td valign="top">
 
 Delete the created object having unique object ID. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/DeleteObjectApi/overview).
-
-
 
 </td>
 </tr>
@@ -253,14 +193,10 @@ Delete the created object having unique object ID. For more information, see pub
 
 `deleteTree`
 
-
-
 </td>
 <td valign="top">
 
 Deletes the specified folder object and all of its child- and descendant-objects. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/DeleteTreeApi/overview).
-
-
 
 </td>
 </tr>
@@ -269,14 +205,10 @@ Deletes the specified folder object and all of its child- and descendant-objects
 
 `setContentStream`
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -285,14 +217,10 @@ Deletes the specified folder object and all of its child- and descendant-objects
 
 `createSecondaryType` or `createType`
 
-
-
 </td>
 <td valign="top">
 
 A secondary type defines a set of properties that can be dynamically added to and removed from objects. That is, an object can get and lose additional properties that aren't defined by its primary type during its lifetime. Multiple secondary types can be applied to the same object at the same time. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/CreateSecondaryTypeApi/overview).
-
-
 
 </td>
 </tr>
@@ -301,14 +229,10 @@ A secondary type defines a set of properties that can be dynamically added to an
 
 `updateSecondaryType`
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -317,14 +241,10 @@ A secondary type defines a set of properties that can be dynamically added to an
 
 `deleteSecondaryType`
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -333,14 +253,10 @@ A secondary type defines a set of properties that can be dynamically added to an
 
 `getTypeDefinition`
 
-
-
 </td>
 <td valign="top">
 
 Provides the definition of the specified object type. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/GetTypeDefinitionApi/overview).
-
-
 
 </td>
 </tr>
@@ -349,14 +265,10 @@ Provides the definition of the specified object type. For more information, see 
 
 `getTypeDescendants`
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -365,14 +277,10 @@ Provides the definition of the specified object type. For more information, see 
 
 `moveObject`
 
-
-
 </td>
 <td valign="top">
 
 Moves an object from source folder to the targeted folder. For more information, see published APIs on the [SAP Business Accelerator Hub](https://api.sap.com/api/MoveObjectApi/overview).
-
-
 
 </td>
 </tr>
@@ -381,14 +289,10 @@ Moves an object from source folder to the targeted folder. For more information,
 
 `getObjectByPath`
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>

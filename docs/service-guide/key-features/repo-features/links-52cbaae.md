@@ -13,21 +13,15 @@ The following link features are included in the Document Management Service.
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Integration Option
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
-
-
 
 </th>
 </tr>
@@ -36,21 +30,15 @@ Document Management Service, Application Option
 
 *Create Link*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/CreateShareApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 *Create* \> *Link*
-
-
 
 </td>
 </tr>
@@ -59,21 +47,15 @@ Document Management Service, Application Option
 
 *Edit Link*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/UpdateFolder_Document_LinkApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 *Select Link* \> *Edit* 
-
-
 
 </td>
 </tr>
@@ -82,21 +64,15 @@ Document Management Service, Application Option
 
 *Delete Link*
 
-
-
 </td>
 <td valign="top">
 
 Not Available
 
-
-
 </td>
 <td valign="top">
 
 *Select Link* \> *Delete* 
-
-
 
 </td>
 </tr>

@@ -34,15 +34,11 @@ You’re part of a collaboration-enabled Document Management repository. See [On
     <th valign="top">
 
     Option
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -50,8 +46,6 @@ You’re part of a collaboration-enabled Document Management repository. See [On
     <td valign="top">
     
     *Anyone with link has access*
-
-
     
     </td>
     <td valign="top">
@@ -64,15 +58,11 @@ You’re part of a collaboration-enabled Document Management repository. See [On
     <th valign="top">
 
     Option
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -80,15 +70,11 @@ You’re part of a collaboration-enabled Document Management repository. See [On
     <td valign="top">
     
     *Access expiration date*
-
-
     
     </td>
     <td valign="top">
     
     Defines when the access to the share expires. If the expiration period times out, you as the share owner or share administrator can access and extend this period.
-
-
     
     </td>
     </tr>
@@ -96,15 +82,11 @@ You’re part of a collaboration-enabled Document Management repository. See [On
     <td valign="top">
     
     *Write permission*
-
-
     
     </td>
     <td valign="top">
     
     Enables users to upload files to the share. If you grant write permission, in addition you can select to hide uploaded files from external users by selecting *Hide uploaded files*. It's ensure that external users can only see the share but no uploaded files.
-
-
     
     </td>
     </tr>
@@ -112,15 +94,11 @@ You’re part of a collaboration-enabled Document Management repository. See [On
     <td valign="top">
     
     *Hide uploaded files*
-
-
     
     </td>
     <td valign="top">
     
     Select to hide uploaded files from external users by selecting *Hide uploaded files*. It's ensure that external users can only see the share but no uploaded files.
-
-
     
     </td>
     </tr>
@@ -128,8 +106,6 @@ You’re part of a collaboration-enabled Document Management repository. See [On
     <td valign="top">
     
     *Password protection*
-
-
     
     </td>
     <td valign="top">
@@ -156,8 +132,6 @@ You’re part of a collaboration-enabled Document Management repository. See [On
     <td valign="top">
     
     *Share with members*
-
-
     
     </td>
     <td valign="top">

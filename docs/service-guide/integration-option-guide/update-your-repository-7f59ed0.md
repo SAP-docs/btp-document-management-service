@@ -33,21 +33,15 @@ Update few parameters of an already onboarded repository. This way you can avoid
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Values/Description
-
-
 
 </th>
 </tr>
@@ -56,21 +50,15 @@ Values/Description
 
 `"repository":"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 New description for the repository
-
-
 
 </td>
 </tr>
@@ -79,21 +67,15 @@ New description for the repository
 
 `"repository":"repositoryParams":"paramValue"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 New value for the content server destination
-
-
 
 </td>
 </tr>
@@ -179,21 +161,15 @@ A sample success response for the PUT request that returns the updated parameter
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Values/Description
-
-
 
 </th>
 </tr>
@@ -202,21 +178,15 @@ Values/Description
 
 `"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 New description for the repository
-
-
 
 </td>
 </tr>
@@ -225,14 +195,10 @@ New description for the repository
 
 `"isVirusScanEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -255,14 +221,10 @@ Acceptable values:
 
 `"skipVirusScanForLargeFile"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">

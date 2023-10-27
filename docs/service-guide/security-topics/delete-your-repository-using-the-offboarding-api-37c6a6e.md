@@ -33,21 +33,15 @@ Delete your repository from Document Management Service, Integration Option.
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Values/Description
-
-
 
 </th>
 </tr>
@@ -56,21 +50,15 @@ Values/Description
 
 `id`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 ID that Document Management Service generated when you added the repository. See [API Documentation](https://help.sap.com/viewer/disclaimer-for-links?q=https://api.sap.com/package/SAPDocumentManagementServiceIntegrationOption?section=Artifacts).
-
-
 
 </td>
 </tr>

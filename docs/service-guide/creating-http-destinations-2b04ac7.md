@@ -22,15 +22,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <th valign="top">
 
     Application
-
-
     
     </th>
     <th valign="top">
 
     Roles
-
-
     
     </th>
     </tr>
@@ -38,15 +34,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     Document Management or CMIS APIs
-
-
     
     </td>
     <td valign="top">
     
     `SDM_User`
-
-
     
     </td>
     </tr>
@@ -54,15 +46,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     Admin or Repository Management APIs
-
-
     
     </td>
     <td valign="top">
     
     `SDM_Admin`
-
-
     
     </td>
     </tr>
@@ -87,15 +75,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -103,15 +87,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     *Name*
-
-
     
     </td>
     <td valign="top">
     
     Choose a name for your destination.
-
-
     
     </td>
     </tr>
@@ -119,15 +99,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     *Type*
-
-
     
     </td>
     <td valign="top">
     
     HTTP
-
-
     
     </td>
     </tr>
@@ -135,15 +111,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     *Description*
-
-
     
     </td>
     <td valign="top">
     
     Optional: Provide a description for your reference
-
-
     
     </td>
     </tr>
@@ -151,8 +123,6 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     *URL*
-
-
     
     </td>
     <td valign="top">
@@ -170,15 +140,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     *Proxy Type*
-
-
     
     </td>
     <td valign="top">
     
     Internet
-
-
     
     </td>
     </tr>
@@ -186,15 +152,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     *Authentication*
-
-
     
     </td>
     <td valign="top">
     
     No Authentication
-
-
     
     </td>
     </tr>
@@ -202,8 +164,6 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     *Additional Properties*
-
-
     
     </td>
     <td valign="top">
@@ -213,8 +173,6 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     > ### Note:  
 
     You can check the JSON file that you downloaded when you created the service account access. For more information, see [Configure Service Account Access](configure-service-account-access-9774430.md).
-
-
     
     </td>
     </tr>
@@ -228,15 +186,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -244,15 +198,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.auth_provider_x509_cert_url`
-
-
     
     </td>
     <td valign="top">
     
     An *auth\_provider\_x509\_cert\_url* obtained from a JSON file.
-
-
     
     </td>
     </tr>
@@ -260,15 +210,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.auth_uri`
-
-
     
     </td>
     <td valign="top">
     
     The Google authentication URI obtained from a JSON file.
-
-
     
     </td>
     </tr>
@@ -276,15 +222,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.client_email`
-
-
     
     </td>
     <td valign="top">
     
     A client email obtained from a JSON file.
-
-
     
     </td>
     </tr>
@@ -292,15 +234,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.client_id`
-
-
     
     </td>
     <td valign="top">
     
     A client ID obtained from a JSON file.
-
-
     
     </td>
     </tr>
@@ -308,15 +246,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.client_x509_cert_url`
-
-
     
     </td>
     <td valign="top">
     
     A client X509 certificate URL obtained from a JSON file.
-
-
     
     </td>
     </tr>
@@ -324,8 +258,6 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.private_key`
-
-
     
     </td>
     <td valign="top">
@@ -355,15 +287,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.private_key_id`
-
-
     
     </td>
     <td valign="top">
     
     A private key ID obtained from a JSON file.
-
-
     
     </td>
     </tr>
@@ -371,15 +299,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.project_id`
-
-
     
     </td>
     <td valign="top">
     
     A project ID obtained from a JSON file.
-
-
     
     </td>
     </tr>
@@ -387,15 +311,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.token_uri`
-
-
     
     </td>
     <td valign="top">
     
     A token URI obtained from a JSON file.
-
-
     
     </td>
     </tr>
@@ -403,15 +323,11 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <td valign="top">
     
     `google.type`
-
-
     
     </td>
     <td valign="top">
     
     `service_account`
-
-
     
     </td>
     </tr>

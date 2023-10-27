@@ -13,28 +13,20 @@ Here you can find a list of the security events that are logged by Document Mana
 
 Event grouping
 
-
-
 </th>
 <th valign="top">
 
 What events are logged
-
-
 
 </th>
 <th valign="top">
 
 How to identify related log events
 
-
-
 </th>
 <th valign="top">
 
 Additional information
-
-
 
 </th>
 </tr>
@@ -43,21 +35,15 @@ Additional information
 
 Configuration Changes
 
-
-
 </td>
 <td valign="top">
 
 Create repository
 
-
-
 </td>
 <td valign="top">
 
 **Create event:** Onboard repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 <td valign="top" rowspan="9">
@@ -78,14 +64,10 @@ Following roles need to be assigned in your subaccount:
 
 Update repository
 
-
-
 </td>
 <td valign="top">
 
 **Update event:** Update repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 </tr>
@@ -94,14 +76,10 @@ Update repository
 
 Delete repository
 
-
-
 </td>
 <td valign="top">
 
 **Delete event:** Delete repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 </tr>
@@ -110,14 +88,10 @@ Delete repository
 
 Create configurations
 
-
-
 </td>
 <td valign="top">
 
 **Create event:** Create repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 </tr>
@@ -126,14 +100,10 @@ Create configurations
 
 Update configurations
 
-
-
 </td>
 <td valign="top">
 
 **Update event:** Update repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 </tr>
@@ -142,14 +112,10 @@ Update configurations
 
 Delete configurations
 
-
-
 </td>
 <td valign="top">
 
 **Delete event:** Delete repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 </tr>
@@ -158,14 +124,10 @@ Delete configurations
 
 Create cloud connection
 
-
-
 </td>
 <td valign="top">
 
 **Create event:** Create repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 </tr>
@@ -174,14 +136,10 @@ Create cloud connection
 
 Update cloud connection
 
-
-
 </td>
 <td valign="top">
 
 **Update event:** Update repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 </tr>
@@ -190,14 +148,10 @@ Update cloud connection
 
 Delete cloud connection
 
-
-
 </td>
 <td valign="top">
 
 **Delete event:** Delete repository with repository onboarding API or via admin UI.
-
-
 
 </td>
 </tr>
@@ -206,28 +160,20 @@ Delete cloud connection
 
 Document changes
 
-
-
 </td>
 <td valign="top">
 
 Create documents
-
-
 
 </td>
 <td valign="top">
 
 **Create event:** Create document using UI action or CMIS create document API.
 
-
-
 </td>
 <td valign="top" rowspan="4">
 
  
-
-
 
 </td>
 </tr>
@@ -236,14 +182,10 @@ Create documents
 
 Read documents
 
-
-
 </td>
 <td valign="top">
 
 **Read event:** When user download or open file from UI or via CMIS `getContentStream` API.
-
-
 
 </td>
 </tr>
@@ -252,14 +194,10 @@ Read documents
 
 Delete documents
 
-
-
 </td>
 <td valign="top">
 
 **Delete event:** Delete document using UI action or CMIS delete document API.
-
-
 
 </td>
 </tr>
@@ -268,14 +206,10 @@ Delete documents
 
 Modify ACL
 
-
-
 </td>
 <td valign="top">
 
 **Create event:** Modify ACL by calling applyACL methods or from UI action.
-
-
 
 </td>
 </tr>

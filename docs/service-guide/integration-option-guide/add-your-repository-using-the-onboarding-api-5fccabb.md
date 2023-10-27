@@ -29,21 +29,15 @@ Add your repository to Document Management Service, Integration Option.
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Values/Description
-
-
 
 </th>
 </tr>
@@ -52,21 +46,15 @@ Values/Description
 
 `"repository":"displayName"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the repository that appears in the application
-
-
 
 </td>
 </tr>
@@ -75,21 +63,15 @@ Name of the repository that appears in the application
 
 `"repository":"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Description of the repository
-
-
 
 </td>
 </tr>
@@ -98,14 +80,10 @@ Description of the repository
 
 `"repository":"repositoryType"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
@@ -114,8 +92,6 @@ Yes
 
 The value "external" means that you're adding your own repository. To use SAP provided repository, see [Connecting to Document Management Service, Repository Option Using API](connecting-to-document-management-service-repository-option-using-api-d30200e.md).
 
-
-
 </td>
 </tr>
 <tr>
@@ -123,21 +99,15 @@ The value "external" means that you're adding your own repository. To use SAP pr
 
 `"repository":"repositoryId"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 CMIS ID of your repository
-
-
 
 </td>
 </tr>
@@ -146,14 +116,10 @@ CMIS ID of your repository
 
 `"repository":"repositoryParams":"paramName"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -162,8 +128,6 @@ Optional
 
 The parameter is needed only for SAP DMS repositories to bypass ABAP layer and directly communicate to the content server to upload documents.
 
-
-
 </td>
 </tr>
 <tr>
@@ -171,14 +135,10 @@ The parameter is needed only for SAP DMS repositories to bypass ABAP layer and d
 
 `"repository":"repositoryParams":"paramValue"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -187,8 +147,6 @@ Content-server destination name
 
 The parameter is needed only for SAP DMS repositories to bypass ABAP layer and directly communicate to the content server to upload documents.
 
-
-
 </td>
 </tr>
 <tr>
@@ -196,14 +154,10 @@ The parameter is needed only for SAP DMS repositories to bypass ABAP layer and d
 
 `"repository":"externalId"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -212,8 +166,6 @@ Unique name for the repository
 
 The parameter is mandatory only for the users of SAP S/4HANA who use Document Management Service, Integration Option for their SAP S/4HANA Attachment service.
 
-
-
 </td>
 </tr>
 <tr>
@@ -221,21 +173,15 @@ The parameter is mandatory only for the users of SAP S/4HANA who use Document Ma
 
 `"connection":"displayName"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Display name for the destination
-
-
 
 </td>
 </tr>
@@ -244,21 +190,15 @@ Display name for the destination
 
 `"connection":"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Description for the destination
-
-
 
 </td>
 </tr>
@@ -267,21 +207,15 @@ Description for the destination
 
 `"connection":"destinationName"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the destination that you configured in the [prerequisites](https://help.sap.com/viewer/f6e70dd4bffa4b65965b43feed4c9429/Cloud/en-US/21bd2788d7c74c43a399dc13cf452f0c.html).
-
-
 
 </td>
 </tr>

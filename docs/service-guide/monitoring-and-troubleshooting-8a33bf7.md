@@ -37,14 +37,10 @@ You can report an incident or error through the [SAP Support Portal](https://sup
 
 Component Name
 
-
-
 </th>
 <th valign="top">
 
 Component Description
-
-
 
 </th>
 </tr>
@@ -53,14 +49,10 @@ Component Description
 
 BC-CP-CF-SDM-INT
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service, Integration Option
-
-
 
 </td>
 </tr>
@@ -69,14 +61,10 @@ Document Management Service, Integration Option
 
 BC-CP-CF-SDM-APP
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service, Application Option
-
-
 
 </td>
 </tr>
@@ -85,14 +73,10 @@ Document Management Service, Application Option
 
 BC-CP-CF-SDM-REP
 
-
-
 </td>
 <td valign="top">
 
 Document Management Service, Repository Option
-
-
 
 </td>
 </tr>
@@ -101,14 +85,10 @@ Document Management Service, Repository Option
 
 BC-CP-CF-SDM-OIA
 
-
-
 </td>
 <td valign="top">
 
 For issues related to integration between Google Workspace and Document Management Service, Integration Option 
-
-
 
 </td>
 </tr>

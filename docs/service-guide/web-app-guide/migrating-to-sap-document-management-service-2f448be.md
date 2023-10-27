@@ -22,15 +22,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <th valign="top">
 
     SAP Document Center
-
-
     
     </th>
     <th valign="top">
 
     Document Service
-
-
     
     </th>
     </tr>
@@ -43,15 +39,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -59,15 +51,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
     
     Tenant URL of the SAP Document Center in the Neo environment
-
-
     
     </td>
     </tr>
@@ -75,15 +63,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <td valign="top">
     
     `Authentication`
-
-
     
     </td>
     <td valign="top">
     
     `BasicAuthentication`
-
-
     
     </td>
     </tr>
@@ -91,15 +75,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <td valign="top">
     
     `User`
-
-
     
     </td>
     <td valign="top">
     
     Email ID of the admin user
-
-
     
     </td>
     </tr>
@@ -107,15 +87,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <td valign="top">
     
     `Password`
-
-
     
     </td>
     <td valign="top">
     
     Password
-
-
     
     </td>
     </tr>
@@ -132,15 +108,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -148,8 +120,6 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
@@ -167,15 +137,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <td valign="top">
     
     `Authentication`
-
-
     
     </td>
     <td valign="top">
     
     `BasicAuthentication`
-
-
     
     </td>
     </tr>
@@ -183,15 +149,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <td valign="top">
     
     `User`
-
-
     
     </td>
     <td valign="top">
     
     Email ID of the admin user with the `manageECM` scope
-
-
     
     </td>
     </tr>
@@ -199,15 +161,11 @@ This topic describes the steps that you need to follow when migrating from SAP D
     <td valign="top">
     
     `Password`
-
-
     
     </td>
     <td valign="top">
     
     Password
-
-
     
     </td>
     </tr>
@@ -255,15 +213,11 @@ An application migration addresses the steps needed to migrate the application a
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -271,15 +225,11 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     `Destination Name`
-
-
     
     </td>
     <td valign="top">
     
     Name of the destination that you created in the Cloud Foundry environment.
-
-
     
     </td>
     </tr>
@@ -287,15 +237,11 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Under *Source Repository* section, `Account ID`
-
-
     
     </td>
     <td valign="top">
     
     Technical name of your subaccount.
-
-
     
     </td>
     </tr>
@@ -303,15 +249,11 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     `Repository ID`
-
-
     
     </td>
     <td valign="top">
     
     Unique ID of the repository that you want to migrate.
-
-
     
     </td>
     </tr>
@@ -319,8 +261,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     `User Mapping`
-
-
     
     </td>
     <td valign="top">
@@ -343,8 +283,6 @@ An application migration addresses the steps needed to migrate the application a
     <th valign="top">
 
     Target Repository
-
-
     
     </th>
     </tr>
@@ -352,8 +290,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Encryption
-
-
     
     </td>
     </tr>
@@ -361,8 +297,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Thumbnail
-
-
     
     </td>
     </tr>
@@ -379,8 +313,6 @@ An application migration addresses the steps needed to migrate the application a
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -388,8 +320,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Select encryption option if you want to encrypt your data in the target repository.
-
-
     
     </td>
     </tr>
@@ -397,8 +327,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Select the *Thumbnail* if you want to enable it in the target repository.
-
-
     
     </td>
     </tr>
@@ -418,15 +346,11 @@ An application migration addresses the steps needed to migrate the application a
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -434,15 +358,11 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     `Destination Name`
-
-
     
     </td>
     <td valign="top">
     
     Name of the destination that you created in the Cloud Foundry environment.
-
-
     
     </td>
     </tr>
@@ -450,15 +370,11 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Under *Source Repository* section,`Account ID`
-
-
     
     </td>
     <td valign="top">
     
     Technical name of your subaccount.
-
-
     
     </td>
     </tr>
@@ -466,15 +382,11 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     `Repository ID`
-
-
     
     </td>
     <td valign="top">
     
     Unique name of the repository that you want to migrate.
-
-
     
     </td>
     </tr>
@@ -482,15 +394,11 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     `Repository Key`
-
-
     
     </td>
     <td valign="top">
     
     The key value of the repository.
-
-
     
     </td>
     </tr>
@@ -498,8 +406,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     `User Mapping`
-
-
     
     </td>
     <td valign="top">
@@ -517,8 +423,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     `Select Tenants`
-
-
     
     </td>
     <td valign="top">
@@ -541,8 +445,6 @@ An application migration addresses the steps needed to migrate the application a
     <th valign="top">
 
     Target Repository
-
-
     
     </th>
     </tr>
@@ -550,8 +452,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Encryption
-
-
     
     </td>
     </tr>
@@ -559,8 +459,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Thumbnail
-
-
     
     </td>
     </tr>
@@ -577,8 +475,6 @@ An application migration addresses the steps needed to migrate the application a
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -586,8 +482,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Select encryption option if you want to encrypt the data in the target repository.
-
-
     
     </td>
     </tr>
@@ -595,8 +489,6 @@ An application migration addresses the steps needed to migrate the application a
     <td valign="top">
     
     Select the *Thumbnail* if you want to enable it in the target repository.
-
-
     
     </td>
     </tr>

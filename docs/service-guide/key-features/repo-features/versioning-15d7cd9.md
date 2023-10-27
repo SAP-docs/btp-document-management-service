@@ -16,28 +16,20 @@ The versioning feature is available only for versioned repositories. It must be 
 > 
 > Features
 > 
-> 
-> 
 > </th>
 > <th valign="top">
 > 
 > Document Management Service, Integration Option
-> 
-> 
 > 
 > </th>
 > <th valign="top">
 > 
 > Document Management Service, Application Option
 > 
-> 
-> 
 > </th>
 > <th valign="top">
 > 
 > Additional Details
-> 
-> 
 > 
 > </th>
 > </tr>
@@ -46,28 +38,20 @@ The versioning feature is available only for versioned repositories. It must be 
 > 
 > *Check Out Document*
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 > [SAP Business Accelerator Hub](https://api.sap.com/api/CheckOutDocumentApi/overview)
-> 
-> 
 > 
 > </td>
 > <td valign="top">
 > 
 > *Manage Document* \> *Check Out*
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 >  
-> 
-> 
 > 
 > </td>
 > </tr>
@@ -76,28 +60,20 @@ The versioning feature is available only for versioned repositories. It must be 
 > 
 > *Check In Document*
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 > \(Not Applicable\)
-> 
-> 
 > 
 > </td>
 > <td valign="top">
 > 
 > *Manage Document* \> *Check In*
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 >  
-> 
-> 
 > 
 > </td>
 > </tr>
@@ -106,28 +82,20 @@ The versioning feature is available only for versioned repositories. It must be 
 > 
 > *Cancel Check Out Document*
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 > [SAP Business Accelerator Hub](https://api.sap.com/api/CancelCheckOutDocumentApi/overview)
-> 
-> 
 > 
 > </td>
 > <td valign="top">
 > 
 > *Manage Document* \> *Cancel Check Out* 
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 >  
-> 
-> 
 > 
 > </td>
 > </tr>
@@ -136,28 +104,20 @@ The versioning feature is available only for versioned repositories. It must be 
 > 
 > *Document Versions*
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 > \(Not Applicable\)
-> 
-> 
 > 
 > </td>
 > <td valign="top">
 > 
 > Choose document or folder, select <span class="SAP-icons"></span> More Options and choose *Show Properties* \> *Edit*
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 >  
-> 
-> 
 > 
 > </td>
 > </tr>
@@ -166,28 +126,20 @@ The versioning feature is available only for versioned repositories. It must be 
 > 
 > *New Version of Document*
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 > \(Not Applicable\)
-> 
-> 
 > 
 > </td>
 > <td valign="top">
 > 
 > Choose *Manage Document* \> *New Version* \>
 > 
-> 
-> 
 > </td>
 > <td valign="top">
 > 
 > For SAP S/4HANA DMS repositories only.
-> 
-> 
 > 
 > </td>
 > </tr>

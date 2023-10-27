@@ -31,21 +31,15 @@ Implicit *Check Out* and *Check In*
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
 
-
-
 </th>
 <th valign="top">
 
 Additional Details
-
-
 
 </th>
 </tr>
@@ -54,21 +48,15 @@ Additional Details
 
 *Document Preview*
 
-
-
 </td>
 <td valign="top">
 
 Choose <span class="SAP-icons"></span> More Options and select *Preview*.
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -77,21 +65,15 @@ Choose <span class="SAP-icons"></span> More Options and select *Preview*.
 
 *View Office Document*
 
-
-
 </td>
 <td valign="top">
 
 Choose <span class="SAP-icons"></span> More Options and select *Preview* and Open Microsoft Office app.
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -100,21 +82,15 @@ Choose <span class="SAP-icons"></span> More Options and select *Preview* and 
 
 *Edit Office Document* \( implicit Check In \)
 
-
-
 </td>
 <td valign="top">
 
 Choose <span class="SAP-icons"></span> More Options and select *Preview* and Open Microsoft Office app.
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -123,21 +99,15 @@ Choose <span class="SAP-icons"></span> More Options and select *Preview* and 
 
 *Edit Office Document* \( explicit Check In \)
 
-
-
 </td>
 <td valign="top">
 
 Select *Document* \> *Manage Document* \> *Check Out* \> *Open Document in Microsoft Office App* \> *Save* \> *Manage Document* \> *Check Out*.
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>

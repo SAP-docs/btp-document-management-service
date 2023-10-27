@@ -19,14 +19,10 @@ This topic provides information on patch releases for SAP Document Management Se
 
 SAP Document Management Service 
 
-
-
 </td>
 <td valign="top">
 
 21.7.2
-
-
 
 </td>
 </tr>
@@ -39,16 +35,12 @@ SAP Document Management Service
 
  
 
-
-
 </td>
 <td valign="top">
 
 **Bugfix**
 
 The patch was published to address an issue with the *Edit Link File* option in SAP Document Management service, repository option.
-
-
 
 </td>
 </tr>
@@ -67,14 +59,10 @@ The patch was published to address an issue with the *Edit Link File* option in 
 
 SAP Document Management Service 
 
-
-
 </td>
 <td valign="top">
 
 21.1.1
-
-
 
 </td>
 </tr>
@@ -87,16 +75,12 @@ SAP Document Management Service
 
  
 
-
-
 </td>
 <td valign="top">
 
 **Bugfix**
 
 The patch was released to publish events for *Download*, *Check In*, and *Check Out* operations.
-
-
 
 </td>
 </tr>

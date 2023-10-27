@@ -19,28 +19,20 @@ The following collaboration repository features are included in the Document Man
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Integration Option
-
-
 
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
 
-
-
 </th>
 <th valign="top">
 
 Additional Details
-
-
 
 </th>
 </tr>
@@ -49,21 +41,15 @@ Additional Details
 
 *Create Share*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/CreateShareApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 *Select Repository* \> *Create* \> *Share*
-
-
 
 </td>
 <td valign="top">
@@ -81,28 +67,20 @@ Additional Details
 
 *Delete Share*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/DeleteTreeApi/overview)
-
-
 
 </td>
 <td valign="top">
 
 *Select Share* \> *Delete* 
 
-
-
 </td>
 <td valign="top">
 
 Share admins are the only ones who can delete share.
-
-
 
 </td>
 </tr>
@@ -111,28 +89,20 @@ Share admins are the only ones who can delete share.
 
 *View Share Settings*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/GetObjectApi/overview)
-
-
 
 </td>
 <td valign="top">
 
 Select Shared document or folder, choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Edit* \> *Share Settings* 
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -151,14 +121,10 @@ The member shares help teams to collaborate on files. Development teams, for exa
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
-
-
 
 </th>
 </tr>
@@ -167,14 +133,10 @@ Document Management Service, Application Option
 
 *Enable Public Share*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit*
-
-
 
 </td>
 </tr>
@@ -183,14 +145,10 @@ Document Management Service, Application Option
 
 *Add User to Member Share*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Add Members*
-
-
 
 </td>
 </tr>
@@ -199,14 +157,10 @@ Document Management Service, Application Option
 
 *Remove User from Member Share*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Share with member List* \> *Delete*
-
-
 
 </td>
 </tr>
@@ -223,14 +177,10 @@ Document Management Service, Application Option
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
-
-
 
 </th>
 </tr>
@@ -239,14 +189,10 @@ Document Management Service, Application Option
 
 *Enable Public Share*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Anyone with link has access* \> *Save*
-
-
 
 </td>
 </tr>
@@ -255,14 +201,10 @@ Document Management Service, Application Option
 
 *Assign Expiry Date to Public Share*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Access expiration date* \> *Save*
-
-
 
 </td>
 </tr>
@@ -271,14 +213,10 @@ Document Management Service, Application Option
 
 *Enable Write Permission to Public Share*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Write permission* \> *Save*
-
-
 
 </td>
 </tr>
@@ -287,14 +225,10 @@ Document Management Service, Application Option
 
 *Hide Uploaded Document in Public Share*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Write permission* \> *Hide uploaded files* \> *Save*
-
-
 
 </td>
 </tr>
@@ -303,14 +237,10 @@ Document Management Service, Application Option
 
 *Enable Password Protection in Public Share*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Password protection* \> *Enter Password* \> *Save*
-
-
 
 </td>
 </tr>
@@ -319,14 +249,10 @@ Document Management Service, Application Option
 
 *Share Public link*
 
-
-
 </td>
 <td valign="top">
 
 *Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Key Properties* \> *Web Link*
-
-
 
 </td>
 </tr>

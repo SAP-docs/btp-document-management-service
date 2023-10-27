@@ -30,15 +30,11 @@ This topic describes the steps you need to take when migrating the SAP Documen
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -46,15 +42,11 @@ This topic describes the steps you need to take when migrating the SAP Documen
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
     
     Tenant URL of the Document Center in the Neo environment
-
-
     
     </td>
     </tr>
@@ -62,15 +54,11 @@ This topic describes the steps you need to take when migrating the SAP Documen
     <td valign="top">
     
     `Authentication` 
-
-
     
     </td>
     <td valign="top">
     
     `BasicAuthentication`
-
-
     
     </td>
     </tr>
@@ -78,15 +66,11 @@ This topic describes the steps you need to take when migrating the SAP Documen
     <td valign="top">
     
     `User` 
-
-
     
     </td>
     <td valign="top">
     
     Email ID of the admin user
-
-
     
     </td>
     </tr>
@@ -94,15 +78,11 @@ This topic describes the steps you need to take when migrating the SAP Documen
     <td valign="top">
     
     `Password`
-
-
     
     </td>
     <td valign="top">
     
     Password
-
-
     
     </td>
     </tr>
@@ -138,21 +118,15 @@ With minimal disruption, you can migrate SAP Document Center existing in the N
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Value/Description
-
-
 
 </th>
 </tr>
@@ -161,21 +135,15 @@ Value/Description
 
 `accountId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Technical name of your subaccount in the Neo environment.
-
-
 
 </td>
 </tr>
@@ -184,21 +152,15 @@ Technical name of your subaccount in the Neo environment.
 
 `repoId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Unique ID of the repository that you want to migrate.
-
-
 
 </td>
 </tr>
@@ -207,21 +169,15 @@ Unique ID of the repository that you want to migrate.
 
 `destination`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the destination that you've created in the Cloud Foundry environment.
-
-
 
 </td>
 </tr>
@@ -230,14 +186,10 @@ Name of the destination that you've created in the Cloud Foundry environment.
 
 `userMapping`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -375,21 +327,15 @@ You can migrate your CCB repository to the SAP Document Management Service by ex
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Value/Description
-
-
 
 </th>
 </tr>
@@ -398,21 +344,15 @@ Value/Description
 
 `accountId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Technical name of your subaccount in the Neo environment.
-
-
 
 </td>
 </tr>
@@ -421,21 +361,15 @@ Technical name of your subaccount in the Neo environment.
 
 `repoId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Unique ID of the repository that you want to migrate.
-
-
 
 </td>
 </tr>
@@ -444,21 +378,15 @@ Unique ID of the repository that you want to migrate.
 
 `s4account`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 S4 tenant account connected to your Cloud Foundry environment.
-
-
 
 </td>
 </tr>
@@ -467,21 +395,15 @@ S4 tenant account connected to your Cloud Foundry environment.
 
 `destination`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the destination that you've created in the Cloud Foundry environment.
-
-
 
 </td>
 </tr>
@@ -490,14 +412,10 @@ Name of the destination that you've created in the Cloud Foundry environment.
 
 `userMapping`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">

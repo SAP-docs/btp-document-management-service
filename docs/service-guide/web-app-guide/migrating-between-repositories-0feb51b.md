@@ -20,15 +20,11 @@ Migrate between repositories of SAP Document Management Service in the Cloud Fou
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -36,15 +32,11 @@ Migrate between repositories of SAP Document Management Service in the Cloud Fou
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
     
     The repository's CMIS browser binding URL.
-
-
     
     </td>
     </tr>
@@ -52,15 +44,11 @@ Migrate between repositories of SAP Document Management Service in the Cloud Fou
     <td valign="top">
     
     `User` 
-
-
     
     </td>
     <td valign="top">
     
     The repository's username.
-
-
     
     </td>
     </tr>
@@ -68,15 +56,11 @@ Migrate between repositories of SAP Document Management Service in the Cloud Fou
     <td valign="top">
     
     `Password` 
-
-
     
     </td>
     <td valign="top">
     
     For the given username, a password is required.
-
-
     
     </td>
     </tr>

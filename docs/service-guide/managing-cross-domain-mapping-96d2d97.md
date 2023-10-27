@@ -22,15 +22,11 @@ Manage cross-domain mapping if your domain is different from the Google Workspac
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -38,15 +34,11 @@ Manage cross-domain mapping if your domain is different from the Google Workspac
     <td valign="top">
     
     `google.default_domain`
-
-
     
     </td>
     <td valign="top">
     
     Enter the domain. For example, `abcworkspace.com`.
-
-
     
     </td>
     </tr>

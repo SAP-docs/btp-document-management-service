@@ -53,21 +53,15 @@ The API for onboarding repositories can be found in our SAP Business Accelerator
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Values/Description
-
-
 
 </th>
 </tr>
@@ -76,21 +70,15 @@ Values/Description
 
 `"displayName"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the repository that appears in the application
-
-
 
 </td>
 </tr>
@@ -99,21 +87,15 @@ Name of the repository that appears in the application
 
 `"description"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Description of the repository
-
-
 
 </td>
 </tr>
@@ -122,21 +104,15 @@ Description of the repository
 
 `"repositoryType"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 `internal` 
-
-
 
 </td>
 </tr>
@@ -145,14 +121,10 @@ Yes
 
 `"repositoryCategory"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -161,8 +133,6 @@ Optional
 
 This entry is needed only when you want to create shared folders in the repository. By default, shared folder creation is disabled. For more information, see [Collaboration Repositories](collaboration-repositories-926d32b.md).
 
-
-
 </td>
 </tr>
 <tr>
@@ -170,14 +140,10 @@ This entry is needed only when you want to create shared folders in the reposito
 
 `"isVersionEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -188,8 +154,6 @@ Acceptable values: true/false
 
 Default value: false
 
-
-
 </td>
 </tr>
 <tr>
@@ -197,14 +161,10 @@ Default value: false
 
 `"isVirusScanEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -227,14 +187,10 @@ Acceptable values:
 
 `"skipVirusScanForLargeFile"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -257,14 +213,10 @@ Acceptable values:
 
 `"hashAlgorithms"`
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
@@ -289,14 +241,10 @@ Hashing algorithms to generate a content hash for all your documents. Acceptable
 
 `"externalId"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -305,8 +253,6 @@ Unique name for the repository.
 
 The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
 
-
-
 </td>
 </tr>
 <tr>
@@ -314,14 +260,10 @@ The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
 
 `"isContentBridgeEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -330,8 +272,6 @@ Acceptable values: true/false
 
 The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
 
-
-
 </td>
 </tr>
 <tr>
@@ -339,21 +279,15 @@ The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
 
 `"isThumbnailEnabled"`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 Acceptable values: `true` or `false`.
-
-
 
 </td>
 </tr>

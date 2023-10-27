@@ -1,7 +1,5 @@
 <!-- loio27e742e062924d72a9f1cb94a8c8346c -->
 
-<link rel="stylesheet" type="text/css" href="css/sap-icons.css"/>
-
 # What Is Document Management Service?
 
 Build API and UI based document management capabilities for your business apps. Organize your enterprise content with the ready-to-use web application. 
@@ -13,9 +11,9 @@ Document Management Service, Application Option is a standalone, ready-to-use we
 > ### Tip:  
 > This guide is open for contributions and feedback using GitHub. This allows you to get in contact with responsible authors of SAP Help Portal pages and the development team to discuss documentation-related issues. To contribute to this guide, or to provide feedback, choose the corresponding option on SAP Help Portal:
 > 
-> -   :pencil2:: Contribute to a documentation page. This option opens a pull request on GitHub.
+> -   *Feedback* \> *Create issue*: Provide feedback about a documentation page. This option opens an issue on GitHub.
 > 
-> -   <span class="SAP-icons"></span> Feedback: Provide feedback about a documentation page. This option opens an issue on GitHub.
+> -   *Feedback* \> *Edit page*: Contribute to a documentation page. This option opens a pull request on GitHub.
 > 
 > 
 > You need a GitHub account to use these options.
@@ -24,9 +22,9 @@ Document Management Service, Application Option is a standalone, ready-to-use we
 > 
 > -   [Contribution Guidelines](https://help.sap.com/docs/open-documentation-initiative/contribution-guidelines/readme.html)
 > 
-> -   [Introduction Video: Open Documentation Initiative](https://www.youtube.com/watch?v=WJ0oarMlVW4)
+> -   [Introduction Video](https://www.youtube.com/watch?v=WJ0oarMlVW4)
 > 
-> -   [Blog Post: Introducing the Open Documentation Initiative](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/)
+> -   [Introduction Blog Post](https://blogs.sap.com/2021/11/29/sap-btp-documentation-goes-github-new-collaboration-process/)
 
 
 

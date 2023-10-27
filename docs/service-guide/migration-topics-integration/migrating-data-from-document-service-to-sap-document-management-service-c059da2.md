@@ -30,15 +30,11 @@ This topic describes the steps you need to take when migrating the data from D
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -46,15 +42,11 @@ This topic describes the steps you need to take when migrating the data from D
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
     
     Instance URL of the Documentation Service in the Neo environment
-
-
     
     </td>
     </tr>
@@ -62,15 +54,11 @@ This topic describes the steps you need to take when migrating the data from D
     <td valign="top">
     
     `Authentication` 
-
-
     
     </td>
     <td valign="top">
     
     `BasicAuthentication`
-
-
     
     </td>
     </tr>
@@ -78,15 +66,11 @@ This topic describes the steps you need to take when migrating the data from D
     <td valign="top">
     
     `User` 
-
-
     
     </td>
     <td valign="top">
     
     Email ID of the user with the `manageECM` scope
-
-
     
     </td>
     </tr>
@@ -94,15 +78,11 @@ This topic describes the steps you need to take when migrating the data from D
     <td valign="top">
     
     `Password`
-
-
     
     </td>
     <td valign="top">
     
     Password
-
-
     
     </td>
     </tr>
@@ -164,21 +144,15 @@ After you've completed the prechecks, you can check the status and proceed as re
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Value/Description
-
-
 
 </th>
 </tr>
@@ -187,21 +161,15 @@ Value/Description
 
 `accountId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Technical name of your subaccount in the Neo environment.
-
-
 
 </td>
 </tr>
@@ -210,21 +178,15 @@ Technical name of your subaccount in the Neo environment.
 
 `repoId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Unique name of the repository that you want to migrate.
-
-
 
 </td>
 </tr>
@@ -233,21 +195,15 @@ Unique name of the repository that you want to migrate.
 
 `repoKey`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 The key value of the repository.
-
-
 
 </td>
 </tr>
@@ -256,21 +212,15 @@ The key value of the repository.
 
 `destination`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the destination that you created in the Cloud Foundry environment.
-
-
 
 </td>
 </tr>
@@ -279,14 +229,10 @@ Name of the destination that you created in the Cloud Foundry environment.
 
 `userMapping`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
@@ -367,21 +313,15 @@ With minimal disruption, you can migrate existing Neo to the Cloud Foundry e
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Value/Description
-
-
 
 </th>
 </tr>
@@ -390,21 +330,15 @@ Value/Description
 
 `accountId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Technical name of your subaccount in the Neo environment.
-
-
 
 </td>
 </tr>
@@ -413,21 +347,15 @@ Technical name of your subaccount in the Neo environment.
 
 `repoId`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Unique name of the repository that you want to migrate.
-
-
 
 </td>
 </tr>
@@ -436,21 +364,15 @@ Unique name of the repository that you want to migrate.
 
 `repoKey`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 The key value of the repository.
-
-
 
 </td>
 </tr>
@@ -459,21 +381,15 @@ The key value of the repository.
 
 `destination`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Name of the destination that you created in the Cloud Foundry environment.
-
-
 
 </td>
 </tr>
@@ -482,14 +398,10 @@ Name of the destination that you created in the Cloud Foundry environment.
 
 `userMapping`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">

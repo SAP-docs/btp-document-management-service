@@ -33,15 +33,11 @@ Connect your choice of CMIS-compliant, on-premise, or cloud repository with Docu
     <th valign="top">
 
     Parameter
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -49,15 +45,11 @@ Connect your choice of CMIS-compliant, on-premise, or cloud repository with Docu
     <td valign="top">
     
     *Display Name*
-
-
     
     </td>
     <td valign="top">
     
     Name of the repository that appears in the application.
-
-
     
     </td>
     </tr>
@@ -65,15 +57,11 @@ Connect your choice of CMIS-compliant, on-premise, or cloud repository with Docu
     <td valign="top">
     
     *Description*
-
-
     
     </td>
     <td valign="top">
     
     Description of the repository.
-
-
     
     </td>
     </tr>
@@ -81,15 +69,11 @@ Connect your choice of CMIS-compliant, on-premise, or cloud repository with Docu
     <td valign="top">
     
     *Repository Type*
-
-
     
     </td>
     <td valign="top">
     
     *External* 
-
-
     
     </td>
     </tr>
@@ -97,15 +81,11 @@ Connect your choice of CMIS-compliant, on-premise, or cloud repository with Docu
     <td valign="top">
     
     *Repository ID*
-
-
     
     </td>
     <td valign="top">
     
     The CMIS ID of your repository.
-
-
     
     </td>
     </tr>
@@ -113,15 +93,11 @@ Connect your choice of CMIS-compliant, on-premise, or cloud repository with Docu
     <td valign="top">
     
     *Destination Name*
-
-
     
     </td>
     <td valign="top">
     
     Name of the destination that you configured in the prerequisites.
-
-
     
     </td>
     </tr>

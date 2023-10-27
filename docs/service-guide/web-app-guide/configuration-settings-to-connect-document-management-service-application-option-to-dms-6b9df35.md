@@ -102,15 +102,11 @@ In your web browser, log on to the SAP BTP cockpit, and navigate to your cloud f
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     User Action
-
-
     
     </th>
     </tr>
@@ -118,15 +114,11 @@ In your web browser, log on to the SAP BTP cockpit, and navigate to your cloud f
     <td valign="top">
     
     Name
-
-
     
     </td>
     <td valign="top">
     
     Enter a name for the destination.
-
-
     
     </td>
     </tr>
@@ -134,15 +126,11 @@ In your web browser, log on to the SAP BTP cockpit, and navigate to your cloud f
     <td valign="top">
     
     Description
-
-
     
     </td>
     <td valign="top">
     
     Enter a description.
-
-
     
     </td>
     </tr>
@@ -150,15 +138,11 @@ In your web browser, log on to the SAP BTP cockpit, and navigate to your cloud f
     <td valign="top">
     
     URL
-
-
     
     </td>
     <td valign="top">
     
     `http://<host>:<port>/sap/bc/mcm/json/<repositoryId>`. Here the host and port are the same as configured in cloud connector in the previous steps. The repository ID is the name configured in the section **Connecting the CMIS Repository to the Associated ABAP Connector Class** in [Configuration Settings for SAP Document Management System \(DMS\)](https://help.sap.com/viewer/1317b7d3a93c4763a041b49532666fd7/2021.000/en-US/6ec4f07818b64868bdee115ca83f7109.html).
-
-
     
     </td>
     </tr>
@@ -166,15 +150,11 @@ In your web browser, log on to the SAP BTP cockpit, and navigate to your cloud f
     <td valign="top">
     
     Proxy Type
-
-
     
     </td>
     <td valign="top">
     
     OnPremise
-
-
     
     </td>
     </tr>
@@ -182,15 +162,11 @@ In your web browser, log on to the SAP BTP cockpit, and navigate to your cloud f
     <td valign="top">
     
     Authentication
-
-
     
     </td>
     <td valign="top">
     
     Enter *BasicAuthentication*.
-
-
     
     </td>
     </tr>
@@ -198,15 +174,11 @@ In your web browser, log on to the SAP BTP cockpit, and navigate to your cloud f
     <td valign="top">
     
     User
-
-
     
     </td>
     <td valign="top">
     
     Enter your ABAP system user name.
-
-
     
     </td>
     </tr>
@@ -214,15 +186,11 @@ In your web browser, log on to the SAP BTP cockpit, and navigate to your cloud f
     <td valign="top">
     
     Password
-
-
     
     </td>
     <td valign="top">
     
     Enter your ABAP system password.
-
-
     
     </td>
     </tr>

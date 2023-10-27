@@ -21,28 +21,20 @@ For more details about the plans, see the following table:
 
 Service Plan
 
-
-
 </th>
 <th valign="top">
 
 Details
-
-
 
 </th>
 <th valign="top">
 
 Supported Options
 
-
-
 </th>
 <th valign="top">
 
 Account Type
-
-
 
 </th>
 </tr>
@@ -50,8 +42,6 @@ Account Type
 <td valign="top">
 
 Free
-
-
 
 </td>
 <td valign="top">
@@ -86,16 +76,12 @@ Free
 
 Enterprise
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
 Standard
-
-
 
 </td>
 <td valign="top">
@@ -134,8 +120,6 @@ Standard
 <td valign="top">
 
 Enterprise
-
-
 
 </td>
 </tr>

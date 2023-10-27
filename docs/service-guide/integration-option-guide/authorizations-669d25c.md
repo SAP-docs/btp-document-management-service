@@ -13,14 +13,10 @@ Document Management Service, Integration Option APIs are protected with the foll
 
 Application
 
-
-
 </th>
 <th valign="top">
 
 Roles
-
-
 
 </th>
 </tr>
@@ -29,14 +25,10 @@ Roles
 
 Document Management or CMIS APIs
 
-
-
 </td>
 <td valign="top">
 
 `SDM_User`
-
-
 
 </td>
 </tr>
@@ -45,14 +37,10 @@ Document Management or CMIS APIs
 
 Admin or Repository management APIs
 
-
-
 </td>
 <td valign="top">
 
 `SDM_Admin`
-
-
 
 </td>
 </tr>
@@ -61,14 +49,10 @@ Admin or Repository management APIs
 
 Migration APIs
 
-
-
 </td>
 <td valign="top">
 
 `SDM_MigrationAdmin`
-
-
 
 </td>
 </tr>
@@ -77,14 +61,10 @@ Migration APIs
 
 Retentions and Holds on CMIS objects
 
-
-
 </td>
 <td valign="top">
 
 `SDM_BusinessAdmin`
-
-
 
 </td>
 </tr>

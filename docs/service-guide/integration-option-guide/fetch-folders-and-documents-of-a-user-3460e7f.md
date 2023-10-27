@@ -29,21 +29,15 @@ As a data protection and privacy admin, you can list all the folders and documen
 
 Header
 
-
-
 </th>
 <th valign="top">
 
 Required
 
-
-
 </th>
 <th valign="top">
 
 Values
-
-
 
 </th>
 </tr>
@@ -52,21 +46,15 @@ Values
 
 `x-EcmUserDPP`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 Unique identifier registered in the Identity Provisioning system. Could be an email ID or user name.
-
-
 
 </td>
 </tr>
@@ -83,21 +71,15 @@ Unique identifier registered in the Identity Provisioning system. Could be an em
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Required
 
-
-
 </th>
 <th valign="top">
 
 Value
-
-
 
 </th>
 </tr>
@@ -106,21 +88,15 @@ Value
 
 `parameter1`
 
-
-
 </td>
 <td valign="top">
 
 Yes
 
-
-
 </td>
 <td valign="top">
 
 dpp
-
-
 
 </td>
 </tr>

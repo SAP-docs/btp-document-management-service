@@ -30,15 +30,11 @@ This topic describes the steps you need to take when migrating SAP Document Ma
     <th valign="top">
 
     Property
-
-
     
     </th>
     <th valign="top">
 
     Value
-
-
     
     </th>
     </tr>
@@ -46,15 +42,11 @@ This topic describes the steps you need to take when migrating SAP Document Ma
     <td valign="top">
     
     `URL`
-
-
     
     </td>
     <td valign="top">
     
     API URL of the source Document Management Service instance in the Cloud Foundry environment
-
-
     
     </td>
     </tr>
@@ -62,15 +54,11 @@ This topic describes the steps you need to take when migrating SAP Document Ma
     <td valign="top">
     
     `Authentication` 
-
-
     
     </td>
     <td valign="top">
     
     `OAuth2ClientCredentials`
-
-
     
     </td>
     </tr>
@@ -78,15 +66,11 @@ This topic describes the steps you need to take when migrating SAP Document Ma
     <td valign="top">
     
     `Client ID` 
-
-
     
     </td>
     <td valign="top">
     
     Enter `clientid` that you've generated and copied from your subaccount.
-
-
     
     </td>
     </tr>
@@ -94,15 +78,11 @@ This topic describes the steps you need to take when migrating SAP Document Ma
     <td valign="top">
     
     `Client Secret`
-
-
     
     </td>
     <td valign="top">
     
     Enter `clientsecret` that you’ve generated and copied from your subaccount.
-
-
     
     </td>
     </tr>
@@ -110,15 +90,11 @@ This topic describes the steps you need to take when migrating SAP Document Ma
     <td valign="top">
     
     `Token Service URL`
-
-
     
     </td>
     <td valign="top">
     
     Enter `tokenurl` that you've generated and copied from your subaccount.
-
-
     
     </td>
     </tr>
@@ -173,21 +149,15 @@ With minimal disruption, you can execute the following request to initiate the m
 
 Parameter
 
-
-
 </th>
 <th valign="top">
 
 Mandatory
 
-
-
 </th>
 <th valign="top">
 
 Value/Description
-
-
 
 </th>
 </tr>
@@ -196,14 +166,10 @@ Value/Description
 
 `destination`
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">

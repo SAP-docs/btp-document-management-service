@@ -17,35 +17,25 @@ Add the properties while you declare the `componentUsage` to configure the reuse
 
 Name
 
-
-
 </th>
 <th valign="top">
 
 Required
-
-
 
 </th>
 <th valign="top">
 
 Type
 
-
-
 </th>
 <th valign="top">
 
 Default Value
 
-
-
 </th>
 <th valign="top">
 
 Description
-
-
 
 </th>
 </tr>
@@ -54,35 +44,25 @@ Description
 
 `repositoryId` 
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 empty
 
-
-
 </td>
 <td valign="top">
 
 The ID of the repository that you want to connect.
-
-
 
 </td>
 </tr>
@@ -91,35 +71,25 @@ The ID of the repository that you want to connect.
 
 `objectId` 
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 empty
 
-
-
 </td>
 <td valign="top">
 
 The ID of the object \(folder/document\) that you want to load.
-
-
 
 </td>
 </tr>
@@ -128,35 +98,25 @@ The ID of the object \(folder/document\) that you want to load.
 
 `destinationPath` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 */comsapecmreuse.comsapecmreusedocumentTable/api* 
 
-
-
 </td>
 <td valign="top">
 
 The path where Document Management Service, Integration Option's API is exposed; the path used in the approuter to route request to 'com.sap.ecm.reuse' service.
-
-
 
 </td>
 </tr>
@@ -165,35 +125,25 @@ The path where Document Management Service, Integration Option's API is exposed;
 
 `homeFolderId` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 empty
 
-
-
 </td>
 <td valign="top">
 
 The object ID of a folder assigned as the home/root folder for the Reuse UI, hence builds breadcrumbs accordingly. If not mentioned, ID of the repository's root folder is considered.
-
-
 
 </td>
 </tr>
@@ -202,35 +152,25 @@ The object ID of a folder assigned as the home/root folder for the Reuse UI, hen
 
 `homeFolderAlias` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 empty
 
-
-
 </td>
 <td valign="top">
 
 The name of the home folder to show if the 'homeFolderId' property is defined.
-
-
 
 </td>
 </tr>
@@ -239,35 +179,25 @@ The name of the home folder to show if the 'homeFolderId' property is defined.
 
 `sortByCmisProperty` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 cmis:name
 
-
-
 </td>
 <td valign="top">
 
 The CMIS property on which the reuse UI is to be sorted.
-
-
 
 </td>
 </tr>
@@ -276,35 +206,25 @@ The CMIS property on which the reuse UI is to be sorted.
 
 `sortAscending` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 boolean
 
-
-
 </td>
 <td valign="top">
 
 true
 
-
-
 </td>
 <td valign="top">
 
 If true, sorting is set to ascending. If false, sorting is set to descending. Can sort string, number, and date properties.
-
-
 
 </td>
 </tr>
@@ -313,35 +233,25 @@ If true, sorting is set to ascending. If false, sorting is set to descending. Ca
 
 `forceLoad` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 boolean
 
-
-
 </td>
 <td valign="top">
 
 true
 
-
-
 </td>
 <td valign="top">
 
 Set to `true` if you want to automatically load the root folder of the first repository, if the repository corresponding to 'repositoryId' parameter isn’t found.
-
-
 
 </td>
 </tr>
@@ -350,35 +260,25 @@ Set to `true` if you want to automatically load the root folder of the first rep
 
 `showACLView` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 boolean
 
-
-
 </td>
 <td valign="top">
 
 false
 
-
-
 </td>
 <td valign="top">
 
 Set to `true` if you want to show an access control tab for a document, which allows you to modify permissions for the document.
-
-
 
 </td>
 </tr>
@@ -387,35 +287,25 @@ Set to `true` if you want to show an access control tab for a document, which al
 
 `hideUrl` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 boolean
 
-
-
 </td>
 <td valign="top">
 
 true
 
-
-
 </td>
 <td valign="top">
 
 Set to `false` if you want to show web link URL in the document or folder properties. If your application supports navigation and routing, you can typically use it to display the weblink.
-
-
 
 </td>
 </tr>
@@ -424,35 +314,25 @@ Set to `false` if you want to show web link URL in the document or folder proper
 
 `usePagination` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 boolean
 
-
-
 </td>
 <td valign="top">
 
 false
 
-
-
 </td>
 <td valign="top">
 
 Set to `true` if you want to divide a large number of documents list into smaller discrete page in the view mode. By default, pagination is enabled. This setting shows the pagination switch in repositories with more than 100 documents. The purpose of switch is to allow users to choose whether to load all the documents or to paginate the result in a table.
-
-
 
 </td>
 </tr>
@@ -461,35 +341,25 @@ Set to `true` if you want to divide a large number of documents list into smalle
 
 `downloadWithContentStreamName` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 boolean
 
-
-
 </td>
 <td valign="top">
 
 false
 
-
-
 </td>
 <td valign="top">
 
 You can set it to `false` if you want the file to be downloaded with *cmis:name*. Documents are downloaded by default based on `ContentStreamFileName`.
-
-
 
 </td>
 </tr>
@@ -512,28 +382,20 @@ Aggregations is used to hold arrays of controls.
 
 Name
 
-
-
 </th>
 <th valign="top">
 
 Required
-
-
 
 </th>
 <th valign="top">
 
 Type
 
-
-
 </th>
 <th valign="top">
 
 Description
-
-
 
 </th>
 </tr>
@@ -542,28 +404,20 @@ Description
 
 `rowAction`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 sap.ui.core.Control
 
-
-
 </td>
 <td valign="top">
 
 It's a single aggregation and it can be used to add an additional column in the document management table. Multiple columns aren't allowed in a table; only one column is allowed.
-
-
 
 </td>
 </tr>
@@ -572,21 +426,15 @@ It's a single aggregation and it can be used to add an additional column in the 
 
 `customActions`
 
-
-
 </td>
 <td valign="top">
 
 Optional
 
-
-
 </td>
 <td valign="top">
 
 sap.ui.core.Control
-
-
 
 </td>
 <td valign="top">
@@ -605,28 +453,20 @@ It's multiple aggregations and it can be used to insert an additional UI control
 
 `CustomPropertyTab`
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 sap.ui.core.Control
 
-
-
 </td>
 <td valign="top">
 
 It's a single aggregation and it can be used to extend the UI in property view, and any UI controls can be added to this view. Just one such extension is allowed.
-
-
 
 </td>
 </tr>

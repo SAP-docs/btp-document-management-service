@@ -158,6 +158,7 @@
             -   [Delete Your Repository Using the Offboarding API](security-topics/delete-your-repository-using-the-offboarding-api-37c6a6e.md)
             -   [Delete Your Service Instance](security-topics/delete-your-service-instance-fd26f7f.md)
         -   [Offboard Document Management Service, Application Option](security-topics/offboard-document-management-service-application-option-8916cd5.md)
+            -   [Exporting Content](security-topics/exporting-content-1e89de4.md)
     -   [Accessibility Features in Document Management Service](security-topics/accessibility-features-in-document-management-service-c2007f5.md)
 -   [Monitoring and Troubleshooting](monitoring-and-troubleshooting-8a33bf7.md)
 

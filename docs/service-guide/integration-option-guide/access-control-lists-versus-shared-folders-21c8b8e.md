@@ -13,21 +13,15 @@ Understand the differences between and when to use access control lists for norm
 
 Property
 
-
-
 </th>
 <th valign="top">
 
 Access Control Lists
 
-
-
 </th>
 <th valign="top">
 
 Shared Folder
-
-
 
 </th>
 </tr>
@@ -36,21 +30,15 @@ Shared Folder
 
 Applicable for
 
-
-
 </td>
 <td valign="top">
 
 All documents and folders except shared folder and its content
 
-
-
 </td>
 <td valign="top">
 
 Shared folders and their content
-
-
 
 </td>
 </tr>
@@ -59,21 +47,15 @@ Shared folders and their content
 
 Target audience
 
-
-
 </td>
 <td valign="top">
 
 Developers familiar with CMIS standards and the concept of "principals"
 
-
-
 </td>
 <td valign="top">
 
 End users of reuse UI and Document Management Service, Application Option 
-
-
 
 </td>
 </tr>
@@ -82,21 +64,15 @@ End users of reuse UI and Document Management Service, Application Option
 
 Default access
 
-
-
 </td>
 <td valign="top">
 
 Everyone in the repository
 
-
-
 </td>
 <td valign="top">
 
 Only the creator of the shared folder
-
-
 
 </td>
 </tr>
@@ -105,21 +81,15 @@ Only the creator of the shared folder
 
 Access via
 
-
-
 </td>
 <td valign="top">
 
 A *<principal\>* that represents a user management object, like a user, group, or role. It holds one string with the principalId.
 
-
-
 </td>
 <td valign="top">
 
 User ID of the members of the repository
-
-
 
 </td>
 </tr>

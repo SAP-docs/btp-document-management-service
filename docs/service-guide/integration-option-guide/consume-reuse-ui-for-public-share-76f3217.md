@@ -185,35 +185,25 @@ Add the properties while you declare the `componentUsage` to configure the reu
 
 Name
 
-
-
 </th>
 <th valign="top">
 
 Required
-
-
 
 </th>
 <th valign="top">
 
 Type
 
-
-
 </th>
 <th valign="top">
 
 Default Value
 
-
-
 </th>
 <th valign="top">
 
 Description
-
-
 
 </th>
 </tr>
@@ -222,35 +212,25 @@ Description
 
 `repositoryId` 
 
-
-
 </td>
 <td valign="top">
 
 Optional
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 empty
 
-
-
 </td>
 <td valign="top">
 
 The ID of the repository that you want to connect.
-
-
 
 </td>
 </tr>
@@ -259,35 +239,25 @@ The ID of the repository that you want to connect.
 
 `objectId` 
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 empty
 
-
-
 </td>
 <td valign="top">
 
 The ID of the object \(folder/document\) that you want to load.
-
-
 
 </td>
 </tr>
@@ -296,35 +266,25 @@ The ID of the object \(folder/document\) that you want to load.
 
 `destinationPath` 
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 `/public`
 
-
-
 </td>
 <td valign="top">
 
 The path where Document Management, integration option's API is exposed; the path used in the approuter to route request to 'com.sap.ecm.reuse' service.
-
-
 
 </td>
 </tr>
@@ -333,35 +293,25 @@ The path where Document Management, integration option's API is exposed; the pa
 
 `pubLinkId` 
 
-
-
 </td>
 <td valign="top">
 
 Yes
-
-
 
 </td>
 <td valign="top">
 
 string
 
-
-
 </td>
 <td valign="top">
 
 empty
 
-
-
 </td>
 <td valign="top">
 
 The ID of the public link \(folder/document\) that you want to load.
-
-
 
 </td>
 </tr>

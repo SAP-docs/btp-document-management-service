@@ -11,21 +11,15 @@ Document Management Service comprises the following repository features:
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Integration Option
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
-
-
 
 </th>
 </tr>
@@ -34,21 +28,15 @@ Document Management Service, Application Option
 
 *Onboard repository*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 *Admin* \> *Add Repository*
-
-
 
 </td>
 </tr>
@@ -57,21 +45,15 @@ Document Management Service, Application Option
 
 *Update repository*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 *Admin* \> *Edit Repository*
-
-
 
 </td>
 </tr>
@@ -80,21 +62,15 @@ Document Management Service, Application Option
 
 *Get repository*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 *Admin*
-
-
 
 </td>
 </tr>
@@ -103,21 +79,15 @@ Document Management Service, Application Option
 
 *Delete repository*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 *Admin* \> *Delete Repository*
-
-
 
 </td>
 </tr>
@@ -126,21 +96,15 @@ Document Management Service, Application Option
 
 *Delete repositories*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 *Admin* \> *Select Multiple Repositories* \> *Delete*
-
-
 
 </td>
 </tr>
@@ -149,21 +113,15 @@ Document Management Service, Application Option
 
 *Sync repository*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 *Admin* \> *Select Repository* \> *Sync*
-
-
 
 </td>
 </tr>
@@ -172,21 +130,15 @@ Document Management Service, Application Option
 
 *Sync repositories*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 *Admin* \> *Sync All Repositories*
-
-
 
 </td>
 </tr>
@@ -195,21 +147,15 @@ Document Management Service, Application Option
 
 *Count repository*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 *Admin* \> *Table Header* \> *Count Manually*
-
-
 
 </td>
 </tr>
@@ -218,21 +164,15 @@ Document Management Service, Application Option
 
 *Get API usage*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 \(Not Available\)
-
-
 
 </td>
 </tr>
@@ -241,21 +181,15 @@ Document Management Service, Application Option
 
 *Get storage usage*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
 \(Not Available\)
-
-
 
 </td>
 </tr>
@@ -264,21 +198,15 @@ Document Management Service, Application Option
 
 *Repository Off-Board*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -287,21 +215,15 @@ Document Management Service, Application Option
 
 *Repository Off-Board Status*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -310,21 +232,15 @@ Document Management Service, Application Option
 
 *Download off-boarded repository*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -333,21 +249,15 @@ Document Management Service, Application Option
 
 *Create Config*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -356,21 +266,15 @@ Document Management Service, Application Option
 
 *Get Configs*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -379,21 +283,15 @@ Document Management Service, Application Option
 
 *Update Config*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -402,21 +300,15 @@ Document Management Service, Application Option
 
 *Delete Config*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource)
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>

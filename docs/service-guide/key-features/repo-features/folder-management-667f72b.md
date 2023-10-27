@@ -13,21 +13,15 @@ The following repository features are included in the Document Management Servic
 
 Features
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Integration Option
 
-
-
 </th>
 <th valign="top">
 
 Document Management Service, Application Option
-
-
 
 </th>
 </tr>
@@ -36,21 +30,15 @@ Document Management Service, Application Option
 
 *Create Folder*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/CreateFolderApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 *Select Repository* \> *Create* \> *Folder*
-
-
 
 </td>
 </tr>
@@ -59,21 +47,15 @@ Document Management Service, Application Option
 
 *Rename Folder*
 
-
-
 </td>
 <td valign="top">
 
 [SSAP Business Accelerator Hub](https://api.sap.com/api/UpdateFolder_Document_LinkApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 *Select Folder \>* Choose <span class="SAP-icons"></span> More Options *\> Rename**\> Enter New Name* 
-
-
 
 </td>
 </tr>
@@ -82,21 +64,15 @@ Document Management Service, Application Option
 
 *Delete Folder*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/DeleteTreeApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 *Select Repository* \> *Select Folder* \> *Delete*
-
-
 
 </td>
 </tr>
@@ -105,21 +81,15 @@ Document Management Service, Application Option
 
 *Move Folder*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/MoveFolderApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 *Select Repository* \> *Select Folder* \> *Move*
-
-
 
 </td>
 </tr>
@@ -128,21 +98,15 @@ Document Management Service, Application Option
 
 *Navigate Inside Folder*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/GetChildrenApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 Choose *Folder*
-
-
 
 </td>
 </tr>
@@ -151,21 +115,15 @@ Choose *Folder*
 
 *View Properties of Folder*
 
-
-
 </td>
 <td valign="top">
 
 [SAP Business Accelerator Hub](https://api.sap.com/api/GetPropertiesApi/overview)
 
-
-
 </td>
 <td valign="top">
 
 Select *Repository*, choose <span class="SAP-icons"></span> More Optionsand select *Show Properties*.
-
-
 
 </td>
 </tr>

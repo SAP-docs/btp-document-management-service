@@ -30,15 +30,11 @@ You've completed the previous section. For more information, see [Create a Desti
     <th valign="top">
 
     Field Name
-
-
     
     </th>
     <th valign="top">
 
     Values
-
-
     
     </th>
     </tr>
@@ -46,15 +42,11 @@ You've completed the previous section. For more information, see [Create a Desti
     <td valign="top">
     
     *File Share Type*
-
-
     
     </td>
     <td valign="top">
     
     `Personal`
-
-
     
     </td>
     </tr>
@@ -62,15 +54,11 @@ You've completed the previous section. For more information, see [Create a Desti
     <td valign="top">
     
     *Server Type*
-
-
     
     </td>
     <td valign="top">
     
     `CMIS`
-
-
     
     </td>
     </tr>
@@ -78,15 +66,11 @@ You've completed the previous section. For more information, see [Create a Desti
     <td valign="top">
     
     *Destination*
-
-
     
     </td>
     <td valign="top">
     
     Destination that you created using the transaction SM59. For example, `ZCA325_SAP_COM_0190_0002` 
-
-
     
     </td>
     </tr>
@@ -94,15 +78,11 @@ You've completed the previous section. For more information, see [Create a Desti
     <td valign="top">
     
     *Repository ID*
-
-
     
     </td>
     <td valign="top">
     
     Enter your repository ID. For example, `GOOGLE_DRIVE`.
-
-
     
     </td>
     </tr>
@@ -110,15 +90,11 @@ You've completed the previous section. For more information, see [Create a Desti
     <td valign="top">
     
     *Root Folder Path*
-
-
     
     </td>
     <td valign="top">
     
     Enter your root folder path.
-
-
     
     </td>
     </tr>
@@ -126,15 +102,11 @@ You've completed the previous section. For more information, see [Create a Desti
     <td valign="top">
     
     *Description*
-
-
     
     </td>
     <td valign="top">
     
     Enter the meaningful description as per your requirement.
-
-
     
     </td>
     </tr>

@@ -30,14 +30,10 @@ The Google integration supports the following scenarios:
 
 Scenario
 
-
-
 </th>
 <th valign="top">
 
 Details
-
-
 
 </th>
 </tr>
@@ -46,14 +42,10 @@ Details
 
 Export to Google Workspace
 
-
-
 </td>
 <td valign="top">
 
 Learn how to export tables as spreadsheets \(.xlsx files\) to a cloud drive. For more information, see [Export to Google Workspace](https://help.sap.com/docs/SAP_S4HANA_CLOUD/085edb30fb3d413da552832f3d5c01c0/b481bf1ef7f842afba54e5c9750c2490.html?version=2208.500).
-
-
 
 </td>
 </tr>
@@ -62,14 +54,10 @@ Learn how to export tables as spreadsheets \(.xlsx files\) to a cloud drive. For
 
 Upload General Journal Entries in Google Workspace
 
-
-
 </td>
 <td valign="top">
 
 Get started uploading journal entries to Google Workspace. For more information, see [Integration with Google Workspace](https://help.sap.com/docs/SAP_S4HANA_CLOUD/ee9ee0ca4c3942068ea584d2f929b5b1/1ac7c893310e4081beb7c0fcd344a879.html?version=2208.500).
-
-
 
 </td>
 </tr>

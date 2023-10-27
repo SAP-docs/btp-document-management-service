@@ -52,15 +52,11 @@ A collaboration repository offers the capability to create shared folders that c
     <th valign="top">
 
     Role
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -68,15 +64,11 @@ A collaboration repository offers the capability to create shared folders that c
     <td valign="top">
     
     Reader
-
-
     
     </td>
     <td valign="top">
     
     Read the documents.
-
-
     
     </td>
     </tr>
@@ -84,15 +76,11 @@ A collaboration repository offers the capability to create shared folders that c
     <td valign="top">
     
     Contributor
-
-
     
     </td>
     <td valign="top">
     
     Create, update, and delete documents and folders.
-
-
     
     </td>
     </tr>
@@ -100,15 +88,11 @@ A collaboration repository offers the capability to create shared folders that c
     <td valign="top">
     
     Administrator
-
-
     
     </td>
     <td valign="top">
     
     Delete the share, add users, and manage access rights.
-
-
     
     </td>
     </tr>

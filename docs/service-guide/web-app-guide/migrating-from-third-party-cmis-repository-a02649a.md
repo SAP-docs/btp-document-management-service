@@ -21,14 +21,10 @@ You've created HTTP destination and selected the following parameters. For more 
 
 Property
 
-
-
 </th>
 <th valign="top">
 
 Value
-
-
 
 </th>
 </tr>
@@ -37,14 +33,10 @@ Value
 
 `URL`
 
-
-
 </td>
 <td valign="top">
 
 The repository's CMIS browser binding URL.
-
-
 
 </td>
 </tr>
@@ -53,14 +45,10 @@ The repository's CMIS browser binding URL.
 
 `User` 
 
-
-
 </td>
 <td valign="top">
 
 The repository's username.
-
-
 
 </td>
 </tr>
@@ -69,14 +57,10 @@ The repository's username.
 
 `Password` 
 
-
-
 </td>
 <td valign="top">
 
 For the given username, a password is required.
-
-
 
 </td>
 </tr>

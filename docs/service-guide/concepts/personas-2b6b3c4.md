@@ -13,21 +13,15 @@ The following table describes the various personas and the key tasks they can pe
 
 Personas
 
-
-
 </th>
 <th valign="top">
 
 Description
 
-
-
 </th>
 <th valign="top">
 
 Key Tasks
-
-
 
 </th>
 </tr>
@@ -36,14 +30,10 @@ Key Tasks
 
 Document Management user
 
-
-
 </td>
 <td valign="top">
 
 Responsible for all CMIS actions, such as document or folder creation, etc.
-
-
 
 </td>
 <td valign="top">
@@ -61,14 +51,10 @@ Responsible for all CMIS actions, such as document or folder creation, etc.
 
 Admin user
 
-
-
 </td>
 <td valign="top">
 
 Responsible for executing repositories actions such as creation and updation of repositories.
-
-
 
 </td>
 <td valign="top">
@@ -86,14 +72,10 @@ Responsible for executing repositories actions such as creation and updation of 
 
 Migration user
 
-
-
 </td>
 <td valign="top">
 
 Responsible for migrating data from various CMIS-compliant repositories such as Document Service \(Neo\), Document Center \(Neo\), and others to Document Management Service.
-
-
 
 </td>
 <td valign="top">
@@ -111,14 +93,10 @@ Responsible for migrating data from various CMIS-compliant repositories such as 
 
 Business Admin
 
-
-
 </td>
 <td valign="top">
 
 Responsibilities include retaining and holding objects in CMIS. The role can be used to prevent objects from being deleted or modified by the repository.
-
-
 
 </td>
 <td valign="top">

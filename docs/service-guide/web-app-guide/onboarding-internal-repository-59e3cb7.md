@@ -33,22 +33,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <th valign="top">
 
     Parameter
-
-
     
     </th>
     <th valign="top">
 
     Required
-
-
     
     </th>
     <th valign="top">
 
     Values
-
-
     
     </th>
     </tr>
@@ -56,22 +50,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Repository Type*
-
-
     
     </td>
     <td valign="top">
     
     Yes
-
-
     
     </td>
     <td valign="top">
     
     *Internal* 
-
-
     
     </td>
     </tr>
@@ -79,22 +67,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Display Name*
-
-
     
     </td>
     <td valign="top">
     
     Yes
-
-
     
     </td>
     <td valign="top">
     
     Name of the repository that appears in the application.
-
-
     
     </td>
     </tr>
@@ -102,22 +84,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Description*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
     
     Description of the repository.
-
-
     
     </td>
     </tr>
@@ -125,22 +101,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Hashing Algorithm*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
     
     Lists the supported hashing algorithms to generate content hash for your documents. Choose *None* if you don't want to generate hash.
-
-
     
     </td>
     </tr>
@@ -148,22 +118,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Versioning*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
     
     Enable the option if you want to maintain multiple versions of your documents.
-
-
     
     </td>
     </tr>
@@ -171,22 +135,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Virus Scan*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
     
     Enable the option to scan the documents before you upload them. You can upload files of size up to 400 MB.
-
-
     
     </td>
     </tr>
@@ -194,22 +152,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Disable for large files*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
     
     The option is available only if you enable virus scan. Enable the option to disable virus scan for file size greater than 400 MB.
-
-
     
     </td>
     </tr>
@@ -217,22 +169,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Collaboration*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
     
     Enable the option to create collaboration repositories. For more information, see [Collaboration Repositories for Shared Folders](collaboration-repositories-for-shared-folders-4ac17d4.md).
-
-
     
     </td>
     </tr>
@@ -240,22 +186,16 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Classification*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
     
     Enables you to upload different documents and classifies them according to their confidentiality level. For more information, see [Document Classification](../integration-option-guide/document-classification-b8894c2.md).
-
-
     
     </td>
     </tr>
@@ -263,15 +203,11 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Enable Thumbnail*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
@@ -295,15 +231,11 @@ Connect your Document Management Service, Application Option to Document Managem
     <td valign="top">
     
     *Encryption*
-
-
     
     </td>
     <td valign="top">
     
     Optional
-
-
     
     </td>
     <td valign="top">
@@ -314,8 +246,6 @@ Connect your Document Management Service, Application Option to Document Managem
     > The settings can't be changed once you've onboarded the repository. This is a one-time setting.
 
     For more information, see [Enable Encryption for Document Management Service, Application Option](../security-topics/default-encryption-via-sap-credential-store-b978a4d.md#loiob978a4de207e4b00a6a1434ec838e86c__section_lwd_rw2_jxb).
-
-
     
     </td>
     </tr>

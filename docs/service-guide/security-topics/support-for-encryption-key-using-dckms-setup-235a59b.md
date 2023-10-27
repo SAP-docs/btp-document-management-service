@@ -71,14 +71,10 @@ The following terms are frequently used when you're using the DCKMS tenant.
 
 Term
 
-
-
 </th>
 <th valign="top">
 
 Definition
-
-
 
 </th>
 </tr>
@@ -87,14 +83,10 @@ Definition
 
 Customer-Controlled Encryption Key \(CCEK\)
 
-
-
 </td>
 <td valign="top">
 
 CCEK scenarios allow you to create and manage encryption keys within your tenant.
-
-
 
 </td>
 </tr>
@@ -103,14 +95,10 @@ CCEK scenarios allow you to create and manage encryption keys within your tenant
 
 Data Encryption Key \(DEK\)
 
-
-
 </td>
 <td valign="top">
 
 An encryption key that is used to encrypt and decrypt data.
-
-
 
 </td>
 </tr>
@@ -119,14 +107,10 @@ An encryption key that is used to encrypt and decrypt data.
 
 Key Encryption Key
 
-
-
 </td>
 <td valign="top">
 
 An encryption key that is used to encrypt and decrypt a DEK.
-
-
 
 </td>
 </tr>
@@ -135,14 +119,10 @@ An encryption key that is used to encrypt and decrypt a DEK.
 
 Keyring
 
-
-
 </td>
 <td valign="top">
 
 A multiversion cryptographic key used to encrypt or decrypt another cryptographic key.
-
-
 
 </td>
 </tr>
@@ -151,14 +131,10 @@ A multiversion cryptographic key used to encrypt or decrypt another cryptographi
 
 Symmetric key
 
-
-
 </td>
 <td valign="top">
 
 Symmetric key encryption is used to encrypt data at rest – for example, in databases or data storage.
-
-
 
 </td>
 </tr>
@@ -167,14 +143,10 @@ Symmetric key encryption is used to encrypt data at rest – for example, in dat
 
 Asymmetric key
 
-
-
 </td>
 <td valign="top">
 
 The asymmetric key approach uses a pair of keys – known as a public key and a private key–to encrypt and decrypt the data.
-
-
 
 </td>
 </tr>

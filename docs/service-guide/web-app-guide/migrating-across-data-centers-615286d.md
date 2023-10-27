@@ -21,14 +21,10 @@ You've created HTTP destination and selected the following parameters. For more 
 
 Property
 
-
-
 </th>
 <th valign="top">
 
 Value
-
-
 
 </th>
 </tr>
@@ -37,14 +33,10 @@ Value
 
 `URL`
 
-
-
 </td>
 <td valign="top">
 
 API URL of the source Document Management Service instance in the Cloud Foundry environment.
-
-
 
 </td>
 </tr>
@@ -53,14 +45,10 @@ API URL of the source Document Management Service instance in the Cloud Foundry 
 
 `Authentication` 
 
-
-
 </td>
 <td valign="top">
 
 `OAuth2ClientCredentials`
-
-
 
 </td>
 </tr>
@@ -69,14 +57,10 @@ API URL of the source Document Management Service instance in the Cloud Foundry 
 
 `Client ID` 
 
-
-
 </td>
 <td valign="top">
 
 Enter `clientid` that you've generated and copied from your subaccount.
-
-
 
 </td>
 </tr>
@@ -85,14 +69,10 @@ Enter `clientid` that you've generated and copied from your subaccount.
 
 `Client Secret`
 
-
-
 </td>
 <td valign="top">
 
 Enter `clientsecret` that you’ve generated and copied from your subaccount.
-
-
 
 </td>
 </tr>
@@ -101,14 +81,10 @@ Enter `clientsecret` that you’ve generated and copied from your subaccount.
 
 `Token Service URL`
 
-
-
 </td>
 <td valign="top">
 
 Enter `tokenurl` that you've generated and copied from your subaccount.
-
-
 
 </td>
 </tr>
