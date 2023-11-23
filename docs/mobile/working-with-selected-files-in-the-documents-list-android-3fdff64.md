@@ -36,15 +36,11 @@ The documents list displays a list of files and subfolders when you access any f
     <th valign="top">
 
     Name
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -52,15 +48,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Open In...
-
-
     
     </td>
     <td valign="top">
     
     Tapping a file directly opens the *Open In...* dialog, which offers all available programs for opening the file.
-
-
     
     </td>
     </tr>
@@ -68,15 +60,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Rename
-
-
     
     </td>
     <td valign="top">
     
     Opens the renaming dialog for a single file or folder. The current name is displayed in the name field. If you enter characters that are not recommended or allowed, a message is displayed.
-
-
     
     </td>
     </tr>
@@ -84,15 +72,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Delete
-
-
     
     </td>
     <td valign="top">
     
     Asks for confirmation, then deletes the selected items.
-
-
     
     </td>
     </tr>
@@ -100,15 +84,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Send
-
-
     
     </td>
     <td valign="top">
     
     Only available for selected files. Loads the files \(if the files are not already available on the device\). *Print* outputs a single file \(if you have configured a printer to use\).
-
-
     
     </td>
     </tr>
@@ -116,15 +96,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Copy Link
-
-
     
     </td>
     <td valign="top">
     
     Enables you to copy the link to the new share to use in mails or documents.
-
-
     
     </td>
     </tr>
@@ -132,8 +108,6 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Share
-
-
     
     </td>
     <td valign="top">
@@ -151,15 +125,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Properties
-
-
     
     </td>
     <td valign="top">
     
     Opens the properties page displaying the *General Properties* and the *Custom Properties*. With the *Edit* button, you can add or change the description.
-
-
     
     </td>
     </tr>
@@ -167,15 +137,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Open Folder
-
-
     
     </td>
     <td valign="top">
     
     Opens the parent folder of the file you selected in *Synced Documents*.
-
-
     
     </td>
     </tr>
@@ -183,15 +149,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Mark as Read, Mark as Unread
-
-
     
     </td>
     <td valign="top">
     
     In *Synced Documents*, *Mark as Read* removes the blue dot indicating that you have not viewed the file yet and *Mark as Unread* adds the button again.
-
-
     
     </td>
     </tr>

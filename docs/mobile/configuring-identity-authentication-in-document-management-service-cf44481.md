@@ -146,15 +146,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     Details
-
-
     
     </th>
     </tr>
@@ -162,8 +158,6 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Name**
-
-
     
     </td>
     <td valign="top">
@@ -181,15 +175,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Type**
-
-
     
     </td>
     <td valign="top">
     
     `HTTP`
-
-
     
     </td>
     </tr>
@@ -197,15 +187,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Description**
-
-
     
     </td>
     <td valign="top">
     
     *<Any Description\>*
-
-
     
     </td>
     </tr>
@@ -213,15 +199,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **URL**
-
-
     
     </td>
     <td valign="top">
     
     URL of the Identity Authentication that you want to consume.
-
-
     
     </td>
     </tr>
@@ -229,15 +211,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Proxy Type**
-
-
     
     </td>
     <td valign="top">
     
     `Internet`
-
-
     
     </td>
     </tr>
@@ -245,15 +223,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Authentication**
-
-
     
     </td>
     <td valign="top">
     
     `OAuth2UserTokenExchange`
-
-
     
     </td>
     </tr>
@@ -261,15 +235,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Client ID**
-
-
     
     </td>
     <td valign="top">
     
     Copy the `clientID` from *Client ID, Secrets, and Certificates* section of the Identity Authentication application.
-
-
     
     </td>
     </tr>
@@ -277,15 +247,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Client Secret**
-
-
     
     </td>
     <td valign="top">
     
     Copy the `clientsecret` from the service key created for the Identity Authentication application.
-
-
     
     </td>
     </tr>
@@ -293,15 +259,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Token Service URL Type**
-
-
     
     </td>
     <td valign="top">
     
     Select *Dedicated*.
-
-
     
     </td>
     </tr>
@@ -309,15 +271,11 @@ You've enabled the *Public* client type, for the newly created application. In t
     <td valign="top">
     
     **Token Service URL**
-
-
     
     </td>
     <td valign="top">
     
     `<Identity Authentication Tenant URL>/oauth2/token`
-
-
     
     </td>
     </tr>

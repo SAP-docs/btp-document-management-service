@@ -17,6 +17,15 @@ The SAP Document Management Service desktop app enables you to comfortably manag
 
 
 
+<a name="loio78850d0fd7c74d67a9fd2aad808e49d3__context_jrv_3gc_nzb"/>
+
+## Context
+
+> ### Note:  
+> The desktop client is only compatible with macOS versions up to 13.0.0.
+
+
+
 ## Procedure
 
 1.  To start the installation, you've to mount the installation file \(.dmg file\) by double-clicking it.

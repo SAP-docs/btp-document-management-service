@@ -38,15 +38,11 @@ Document Management Service offers a Microsoft Outlook add-in that can automatic
     <th valign="top">
 
     Setting
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -54,15 +50,11 @@ Document Management Service offers a Microsoft Outlook add-in that can automatic
     <td valign="top">
     
     *Minimum File Size for Attachments* 
-
-
     
     </td>
     <td valign="top">
     
     Defines the minimum file size of attachments that you want to send using Document Management Service. The default value is 5 MB. You can decrease or increase it if you want.
-
-
     
     </td>
     </tr>
@@ -84,15 +76,11 @@ Document Management Service offers a Microsoft Outlook add-in that can automatic
     <th valign="top">
 
     Option
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -100,8 +88,6 @@ Document Management Service offers a Microsoft Outlook add-in that can automatic
     <td valign="top">
     
     Anyone with the link has access
-
-
     
     </td>
     <td valign="top">
@@ -123,8 +109,6 @@ Document Management Service offers a Microsoft Outlook add-in that can automatic
     <td valign="top">
     
     Share with members
-
-
     
     </td>
     <td valign="top">

@@ -49,15 +49,11 @@ The public link is available only for shares and cannot link directly to subfold
     <th valign="top">
 
     Option
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -65,8 +61,6 @@ The public link is available only for shares and cannot link directly to subfold
     <td valign="top">
     
     Anyone with the link has access
-
-
     
     </td>
     <td valign="top">
@@ -79,15 +73,11 @@ The public link is available only for shares and cannot link directly to subfold
     <th valign="top">
 
     Option
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -95,15 +85,11 @@ The public link is available only for shares and cannot link directly to subfold
     <td valign="top">
     
     *Access expiration date* 
-
-
     
     </td>
     <td valign="top">
     
     Defines when the access to the share expires. If the expiration period times outand you have not defined a date for automatic deletion, the share will not be removed. You as the share owner or a share administrator can access and extend this period.
-
-
     
     </td>
     </tr>
@@ -111,8 +97,6 @@ The public link is available only for shares and cannot link directly to subfold
     <td valign="top">
     
     *Delete share permanently after expiration* 
-
-
     
     </td>
     <td valign="top">
@@ -130,15 +114,11 @@ The public link is available only for shares and cannot link directly to subfold
     <td valign="top">
     
     *Write permission* 
-
-
     
     </td>
     <td valign="top">
     
     Enables users to upload files to the share. If you grant write permission, you can in addition select to hide uploaded files from external users by selecting *Hide uploaded files*. This is to ensure that external users can only see the share but no uploaded files. 
-
-
     
     </td>
     </tr>
@@ -146,15 +126,11 @@ The public link is available only for shares and cannot link directly to subfold
     <td valign="top">
     
     *Password protection* 
-
-
     
     </td>
     <td valign="top">
     
     Lets you set a password for accessing the link to the share. The administrator configures whether you need to specify a password and which criteria it must meet, for example, a minimum length.
-
-
     
     </td>
     </tr>
@@ -176,8 +152,6 @@ The public link is available only for shares and cannot link directly to subfold
     <td valign="top">
     
     Share with members
-
-
     
     </td>
     <td valign="top">
@@ -202,8 +176,6 @@ The public link is available only for shares and cannot link directly to subfold
     and
 
     Share with members
-
-
     
     </td>
     <td valign="top">

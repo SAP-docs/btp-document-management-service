@@ -19,35 +19,25 @@ These URLs are either custom URLs \(`docmanagement://`\). In addition, there's a
 
 URL Type
 
-
-
 </th>
 <th valign="top">
 
 iOS App
-
-
 
 </th>
 <th valign="top">
 
 Android App
 
-
-
 </th>
 <th valign="top">
 
 Windows Desktop App
 
-
-
 </th>
 <th valign="top">
 
 Mac Desktop App
-
-
 
 </th>
 </tr>
@@ -56,35 +46,25 @@ Mac Desktop App
 
 Custom URL
 
+</td>
+<td valign="top" align="center">
 
+x
 
 </td>
 <td valign="top" align="center">
 
 x
 
-
-
 </td>
 <td valign="top" align="center">
 
 x
 
-
-
 </td>
 <td valign="top" align="center">
 
 x
-
-
-
-</td>
-<td valign="top" align="center">
-
-x
-
-
 
 </td>
 </tr>
@@ -99,14 +79,10 @@ x
 
 Action
 
-
-
 </th>
 <th valign="top">
 
 Comment
-
-
 
 </th>
 </tr>
@@ -114,8 +90,6 @@ Comment
 <td valign="top">
 
 select
-
-
 
 </td>
 <td valign="top">
@@ -134,8 +108,6 @@ docmanagement://v1/select?rep=1234567890&obj=0987654321
 <td valign="top">
 
 open
-
-
 
 </td>
 <td valign="top">

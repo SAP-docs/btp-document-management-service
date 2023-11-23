@@ -22,22 +22,16 @@ You can define global settings in your mobile app. The options available to you 
     <th valign="top">
 
     App Setting
-
-
     
     </th>
     <th valign="top">
 
     Possible Values
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -45,15 +39,11 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Account*
-
-
     
     </td>
     <td valign="top">
     
     Not applicable
-
-
     
     </td>
     <td valign="top">
@@ -65,8 +55,6 @@ You can define global settings in your mobile app. The options available to you 
     You use OAuth. For more information, see[Configuring Identity Authentication In Document Management Service](configuring-identity-authentication-in-document-management-service-cf44481.md).
 
     For more information, see [Installing the Android App](installing-the-android-app-1662355.md).
-
-
     
     </td>
     </tr>
@@ -74,22 +62,16 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Reset App*
-
-
     
     </td>
     <td valign="top">
     
     Not applicable
-
-
     
     </td>
     <td valign="top">
     
     Deletes all data of the app permanently.
-
-
     
     </td>
     </tr>
@@ -97,8 +79,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Passcode*
-
-
     
     </td>
     <td valign="top">
@@ -126,8 +106,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Fingerprint*
-
-
     
     </td>
     <td valign="top">
@@ -141,8 +119,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     Enables you to use your fingerprint to unlock the app.
-
-
     
     </td>
     </tr>
@@ -150,8 +126,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Cache Size*
-
-
     
     </td>
     <td valign="top">
@@ -167,8 +141,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     Sets the maximum storage that is used for caching files after download so that they don't need to be downloaded again each time you open them. This setting doesn't affect files marked for sync.
-
-
     
     </td>
     </tr>
@@ -176,8 +148,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Show File Extensions*
-
-
     
     </td>
     <td valign="top">
@@ -191,8 +161,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     Turns the display of all file extensions in the document lists on or off.
-
-
     
     </td>
     </tr>
@@ -200,8 +168,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Confirm Before Exiting App*
-
-
     
     </td>
     <td valign="top">
@@ -215,8 +181,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     Displays a confirmation popup if you exit the app using the *Back* button, to prevent you exiting by mistake.
-
-
     
     </td>
     </tr>
@@ -230,22 +194,16 @@ You can define global settings in your mobile app. The options available to you 
     <th valign="top">
 
     App Setting
-
-
     
     </th>
     <th valign="top">
 
     Possible Values
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -253,8 +211,6 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Automatic Sync Over Cellular*
-
-
     
     </td>
     <td valign="top">
@@ -270,8 +226,6 @@ You can define global settings in your mobile app. The options available to you 
     Enables automatic synchronization of files over a cellular network.
 
     You can also set a limit in MB for data transferred over a cellular network. A warning is then displayed when transferring files above this limit.
-
-
     
     </td>
     </tr>
@@ -285,22 +239,16 @@ You can define global settings in your mobile app. The options available to you 
     <th valign="top">
 
     App Setting
-
-
     
     </th>
     <th valign="top">
 
     Possible Values
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -308,22 +256,16 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Version*
-
-
     
     </td>
     <td valign="top">
     
      
-
-
     
     </td>
     <td valign="top">
     
     Displays the version of the app, for example, 1.1.0.
-
-
     
     </td>
     </tr>
@@ -331,22 +273,16 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Request Support*
-
-
     
     </td>
     <td valign="top">
     
      
-
-
     
     </td>
     <td valign="top">
     
     Opens a template for a support request mail with attached log file.
-
-
     
     </td>
     </tr>
@@ -354,22 +290,16 @@ You can define global settings in your mobile app. The options available to you 
     <td valign="top">
     
     *Acknowledgments*
-
-
     
     </td>
     <td valign="top">
     
      
-
-
     
     </td>
     <td valign="top">
     
     Displays the licensing information for SAP Document CenterSAP Mobile Documents.
-
-
     
     </td>
     </tr>

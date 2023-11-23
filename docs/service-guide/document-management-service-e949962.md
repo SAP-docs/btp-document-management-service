@@ -89,6 +89,72 @@ Document Management Service
 </td>
 <td valign="top">
 
+Root Certificate Replacement
+
+</td>
+<td valign="top">
+
+Following the announcement of the [root certificate replacement](https://help.sap.com/whats-new/cf0cb2cb149647329b5d02aa96303f56?Valid_as_Of=2023-05-04%3A2023-05-04&locale=en-US&version=Cloud) in the SAP Business Technology Platform, if you're consuming SAP Document Management Service, Integration Option via SAP S/4HANA integration \(an outbound scenario where SAP Document Management Service is a repository\) needs to be updated with a new certificate.
+
+For more information, see SAP Note [3327214](https://me.sap.com/notes/3327214) and the [Changing the SAP BTP Cloud Foundry environment Root Certificate Authority](https://blogs.sap.com/2023/10/11/changing-the-sap-btp-cloud-foundry-environment-root-certificate-authority/) blog post.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2023-11-01
+
+</td>
+<td valign="top">
+
+2023-11-01
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Release Update
 
 </td>

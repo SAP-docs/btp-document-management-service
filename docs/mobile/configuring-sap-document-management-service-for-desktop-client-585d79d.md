@@ -27,22 +27,16 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     Possible Values
-
-
     
     </th>
     <th valign="top">
 
     Comment
-
-
     
     </th>
     </tr>
@@ -50,22 +44,16 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Language
-
-
     
     </td>
     <td valign="top">
     
     English \(United States\)
-
-
     
     </td>
     <td valign="top">
     
     The display language of the desktop app.
-
-
     
     </td>
     </tr>
@@ -73,8 +61,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Autostart
-
-
     
     </td>
     <td valign="top">
@@ -88,8 +74,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     If you deselect *Autostart*, the app no longer starts automatically when the system is started.
-
-
     
     </td>
     </tr>
@@ -97,8 +81,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Enable Logging
-
-
     
     </td>
     <td valign="top">
@@ -124,8 +106,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Show Taskbar Notifications
-
-
     
     </td>
     <td valign="top">
@@ -139,8 +119,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     You can activate the display of notifications in the taskbar \(Microsoft Windows desktop\) or Notification Center \(Mac\).
-
-
     
     </td>
     </tr>
@@ -148,22 +126,16 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Log Files
-
-
     
     </td>
     <td valign="top">
     
     10 \(default\)
-
-
     
     </td>
     <td valign="top">
     
     By default, 10 log files are generated for each user.
-
-
     
     </td>
     </tr>
@@ -171,15 +143,11 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Root Folder
-
-
     
     </td>
     <td valign="top">
     
     <code><i class="varname">&lt;Drive&gt;</i>:\\<i class="varname">&lt;folder&gt;</i></code> \(Microsoft Windows\) or <code>:/<i class="varname">&lt;folder&gt;</i></code> \(Mac OS\)
-
-
     
     </td>
     <td valign="top">
@@ -196,8 +164,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     > Do not move your root folder to a device running on a FAT32 file system. The desktop app uses extended file attributes \(Alternate Data Stream in Microsoft Windows\) for storing the object ID property. These extended file attributes are not supported in FAT32 file systems.
 
     To change the root folder location, open the file system using *Browse* and select a new folder location.
-
-
     
     </td>
     </tr>
@@ -205,8 +171,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Synchronization
-
-
     
     </td>
     <td valign="top">
@@ -245,22 +209,16 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <th valign="top">
 
     Field
-
-
     
     </th>
     <th valign="top">
 
     Possible Values
-
-
     
     </th>
     <th valign="top">
 
     Comment
-
-
     
     </th>
     </tr>
@@ -268,22 +226,16 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Server URL
-
-
     
     </td>
     <td valign="top">
     
     Server URL
-
-
     
     </td>
     <td valign="top">
     
     The URL of the server.
-
-
     
     </td>
     </tr>
@@ -291,8 +243,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Bandwidth
-
-
     
     </td>
     <td valign="top">
@@ -324,8 +274,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Proxy
-
-
     
     </td>
     <td valign="top">
@@ -340,8 +288,6 @@ The SAP Document Management Service desktop app is delivered with a default conf
     <td valign="top">
     
     Defines how the app connects to the network. The setting *Manual Configuration* provides additional input fields for the host, proxy port, user, and password. The *User* and *Password* fields are optional.
-
-
     
     </td>
     </tr>

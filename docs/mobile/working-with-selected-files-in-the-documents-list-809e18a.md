@@ -37,15 +37,11 @@ The documents list displays a list of files and subfolders when you access any f
     <th valign="top">
 
     Name
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -53,8 +49,6 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Open
-
-
     
     </td>
     <td valign="top">
@@ -72,15 +66,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Open In...
-
-
     
     </td>
     <td valign="top">
     
     Opens a single file using a compatible app installed on your device.
-
-
     
     </td>
     </tr>
@@ -88,15 +78,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Copy
-
-
     
     </td>
     <td valign="top">
     
     Copies a single file that you can insert in another folder by choosing *Add* and then *Paste*.
-
-
     
     </td>
     </tr>
@@ -104,15 +90,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Rename
-
-
     
     </td>
     <td valign="top">
     
     Opens the renaming dialog for a single file or folder. The current name is displayed in the name field. If you enter characters that aren't recommended or allowed, a message is displayed.
-
-
     
     </td>
     </tr>
@@ -120,15 +102,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Delete
-
-
     
     </td>
     <td valign="top">
     
     Asks for confirmation, then deletes the selected items.
-
-
     
     </td>
     </tr>
@@ -136,8 +114,6 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Send
-
-
     
     </td>
     <td valign="top">
@@ -157,15 +133,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Open Folder
-
-
     
     </td>
     <td valign="top">
     
     Opens the parent folder of the file you selected in *Synced Documents*.
-
-
     
     </td>
     </tr>
@@ -173,15 +145,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Mark as Read, Mark as Unread
-
-
     
     </td>
     <td valign="top">
     
     In *Synced Documents* and *Mark as Read* removes the blue dot indicating that you'ven't viewed the file yet and *Mark as Unread* adds the button again.
-
-
     
     </td>
     </tr>
@@ -189,15 +157,11 @@ The documents list displays a list of files and subfolders when you access any f
     <td valign="top">
     
     Offline access sync
-
-
     
     </td>
     <td valign="top">
     
     If enabled, the document is downloaded for offline access; the document is updated from the server whenever the device is online.
-
-
     
     </td>
     </tr>

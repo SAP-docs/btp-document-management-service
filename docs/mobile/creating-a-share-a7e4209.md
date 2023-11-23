@@ -43,15 +43,11 @@ To create an empty share, see the steps below.
     <th valign="top">
 
     Option
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
@@ -59,8 +55,6 @@ To create an empty share, see the steps below.
     <td valign="top">
     
     *Expires in *<number\>* days* 
-
-
     
     </td>
     <td valign="top">
@@ -68,8 +62,6 @@ To create an empty share, see the steps below.
     Defines when the access to the share expires. If the expiration period times outand you have not defined a date for automatic deletion, the share won't be removed. You as the share owner or a share administrator can extend this period.
 
     If your administrator has defined a default validity period for public links, the remaining days and the end date are displayed. If your administrator has not defined a validity period, the link is accessible indefinitely. In any case, the maximum validity you can set is the default set by the administrator. If there's no default, you can set any number of days.
-
-
     
     </td>
     </tr>
@@ -77,15 +69,11 @@ To create an empty share, see the steps below.
     <td valign="top">
     
     *Write permission* 
-
-
     
     </td>
     <td valign="top">
     
     Enables users to upload files to the share, and to change or delete files in the share. Your administrator can restrict the use of this setting. If you grant write permission, you can in addition select to hide uploaded files from external users by selecting *Hide uploaded files*. This is to ensure that external users can only see the share but no uploaded files. 
-
-
     
     </td>
     </tr>
@@ -93,15 +81,11 @@ To create an empty share, see the steps below.
     <td valign="top">
     
     *Password protection* 
-
-
     
     </td>
     <td valign="top">
     
     Lets you set a password for accessing the link to the share. The administrator configures whether you need to specify a password and which criteria it must meet, for example, a minimum length.
-
-
     
     </td>
     </tr>
