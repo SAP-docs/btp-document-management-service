@@ -1,6 +1,6 @@
 <!-- loio235a59b9549b490bbc1908e985abf954 -->
 
-# Support for Encryption Key Using DCKMS Setup
+# Customer-Managed Key Encryption via DCKMS
 
 Document Management Service uses SAP Credential store that integrates with SAP Data Custodian Key Management Service \(DCKMS\) to provide you with key management solutions.
 
@@ -10,11 +10,9 @@ Document Management Service uses SAP Credential store that integrates with SAP D
 
 ## Prerequisites
 
--   You've onboarded the SAP Data Custodian Key Management Service \(DCKMS\) tenant. See [Key Management Service Onboarding Process](https://help.sap.com/docs/sap-data-custodian/help-guide/key-management-service-onboarding-process?version=2303)
+-   You've onboarded the SAP Data Custodian Key Management Service \(DCKMS\) tenant. See [Key Management Service Administration Guide](https://help.sap.com/docs/sap-data-custodian/key-management-service/administration?locale=en-US).
 
 -   A tenant's subaccount ID should be available in the access token for multitenant applications that consume Document Management Service. See [Multi-Tenancy with Document Management Service](../integration-option-guide/multi-tenancy-with-document-management-service-0f6dd1b.md).
-
-.
 
 
 

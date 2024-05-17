@@ -56,6 +56,8 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     </tr>
     </table>
     
+-   You've generated and downloaded a new public or private key pair to your machine as a new JSON file. For more information about creating a service account key, see [Configure Service Account Access](configure-service-account-access-9774430.md).
+
 
 
 
@@ -156,7 +158,72 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     </td>
     <td valign="top">
     
-    No Authentication
+    OAuth2ClientCredentials
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Client ID*
+    
+    </td>
+    <td valign="top">
+    
+    A client ID that is obtained from a JSON file.
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Client Secret*
+    
+    </td>
+    <td valign="top">
+    
+    Enter the Google Cloud private key that’s available in the JSON file.
+
+    > ### Remember:  
+    > Don't include double quotes [“\] in the private key. Make sure to copy the key without it.
+    > 
+    > > ### Example:  
+    > > Your private key looks like the following:
+    > > 
+    > > ```
+    > > 
+    > > -----BEGIN PRIVATE KEY----
+    > > 
+    > > \nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfp4PTx3ezoyXT\n
+    > > xP5mtFk3tQ6Z2mvPo/PEwKJidaUQnEz5kQqZynGb1OZX9Kd7JJb6l0zjb5S2NJ/O\n/Fg+55Xlb5y\nMy+kxM+EHmthpHoBDEZQEnM=\n
+    > > -----END PRIVATE KEY-----\n
+    > > ```
+
+
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Token Service URL Type*
+    
+    </td>
+    <td valign="top">
+    
+    Dedicated
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Token Service URL*
+    
+    </td>
+    <td valign="top">
+    
+    A token URI that is obtained from a JSON file.
     
     </td>
     </tr>
@@ -171,8 +238,9 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     As key-value pairs, enter the values from your service account JSON file with the prefix "google." in the keys followed by the pattern:`Key1=Value1, Key2=Value2,...`
 
     > ### Note:  
+    > You can check the JSON file that you downloaded when you created the service account access. For more information, see [Configure Service Account Access](configure-service-account-access-9774430.md).
 
-    You can check the JSON file that you downloaded when you created the service account access. For more information, see [Configure Service Account Access](configure-service-account-access-9774430.md).
+
     
     </td>
     </tr>
@@ -197,89 +265,12 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <tr>
     <td valign="top">
     
-    `google.auth_provider_x509_cert_url`
-    
-    </td>
-    <td valign="top">
-    
-    An *auth\_provider\_x509\_cert\_url* obtained from a JSON file.
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-    `google.auth_uri`
-    
-    </td>
-    <td valign="top">
-    
-    The Google authentication URI obtained from a JSON file.
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
     `google.client_email`
     
     </td>
     <td valign="top">
     
     A client email obtained from a JSON file.
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-    `google.client_id`
-    
-    </td>
-    <td valign="top">
-    
-    A client ID obtained from a JSON file.
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-    `google.client_x509_cert_url`
-    
-    </td>
-    <td valign="top">
-    
-    A client X509 certificate URL obtained from a JSON file.
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-    `google.private_key`
-    
-    </td>
-    <td valign="top">
-    
-    Enter the Google Cloud private key.
-
-    > ### Remember:  
-    > Don't include double quotes [“\] in the private key. Make sure to copy the key without it.
-    > 
-    > > ### Example:  
-    > > Your private key looks like the following:
-    > > 
-    > > ```
-    > > 
-    > > -----BEGIN PRIVATE KEY----
-    > > 
-    > > \nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfp4PTx3ezoyXT\n
-    > > xP5mtFk3tQ6Z2mvPo/PEwKJidaUQnEz5kQqZynGb1OZX9Kd7JJb6l0zjb5S2NJ/O\n/Fg+55Xlb5y\nMy+kxM+EHmthpHoBDEZQEnM=\n
-    > > -----END PRIVATE KEY-----\n
-    > > ```
-
-
     
     </td>
     </tr>
@@ -310,31 +301,19 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
     <tr>
     <td valign="top">
     
-    `google.token_uri`
+    `google.default_domain`
     
     </td>
     <td valign="top">
     
-    A token URI obtained from a JSON file.
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-    `google.type`
-    
-    </td>
-    <td valign="top">
-    
-    `service_account`
+    Enter the domain. For example, `abcworkspace.com`. It's required if the domain of your email on SAP BTP is different from the domain of your Google Workspace account. Detailed instructions can be found in the procedural topic titled [Managing Cross-Domain Mapping](managing-cross-domain-mapping-96d2d97.md).
     
     </td>
     </tr>
     </table>
     
     > ### Caution:  
-    > When connecting your services to SAP BTP services and on-premise systems, credentials are exposed in plain text to the person performing the configuration. Make sure that you've operational countermeasures in place to prevent unauthorized copies of credentials from being leaked.
+    > When connecting your services to SAP BTP services and on-premise systems, credentials are exposed in plain text to the person performing the configuration. Make sure that you have operational countermeasures in place to prevent unauthorized copies of credentials from being leaked.
 
 5.  Select the *Use default JDK truststore* checkbox.
 
@@ -343,6 +322,8 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
 
 **Related Information**  
 
+
+[Initial Setup](initial-setup-ef91284.md "Before you get started in Document Management Service, Integration Option your SAP BTP account administrator must subscribe to your SAP BTP subaccount to the Document Management Service, Integration Option by performing some preparatory steps.")
 
 [Setting Up a Google Workspace Account](setting-up-a-google-workspace-account-9670f69.md "Create your Google Workspace Account to connect to Document Management Service, Integration Option.")
 
@@ -357,6 +338,8 @@ Create destinations in your SAP BTP subaccount to connect Google Drive with Docu
 [Setting Up SAML Outbound OAuth Configuration Between SAP S/4HANA Cloud And SAP BTP](setting-up-saml-outbound-oauth-configuration-between-sap-s-4hana-cloud-and-sap-btp-26f9c07.md "Configure SAML Outbound OAuth configuration between SAP S/4HANA Cloud and SAP BTP.")
 
 [Maintain Business Roles Within the SAP S/4HANA Cloud](maintain-business-roles-within-the-sap-s-4hana-cloud-091973b.md "Create and maintain business roles based on the selected business catalogs.")
+
+[Establishing Trust Configuration Between SAP S/4HANA On-Premise And SAP BTP](establishing-trust-configuration-between-sap-s-4hana-on-premise-and-sap-btp-f64dcdb.md "To establish SAML trust to the identity providers generated in the SAP S/4HANA On-Premise, import the SAML identity provider metadata to the SAP BTP account.")
 
 [Setting Up SAML Outbound OAuth Configuration Between SAP S/4HANA \(On Premise\) And SAP BTP](setting-up-saml-outbound-oauth-configuration-between-sap-s-4hana-on-premise-and-sap-btp-699a106.md "Configure SAML Outbound OAuth configuration between SAP S/4HANA (on premise) and SAP BTP.")
 

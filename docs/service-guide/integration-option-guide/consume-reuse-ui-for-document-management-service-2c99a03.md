@@ -198,5 +198,5 @@ Document Management Service, Integration Option's reuse UI is a ready-to-use, do
 **Related Information**  
 
 
-[Reuse UI](reuse-ui-c41e52e.md "")
+[Reuse UI](reuse-ui-c41e52e.md)
 

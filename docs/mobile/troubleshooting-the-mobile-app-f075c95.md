@@ -6,13 +6,13 @@ Consider the following when troubleshooting errors that occur in your mobile app
 
 
 
-## Request Support Does Not Send or Save the Log File
+## Request Support Does Not Send Activity Log File
 
 **Symptom**
 
-On your iOS or Android device, you chose *Request Support* and then tried to either send the log file to support by e-mail or save it in SAP Document Management Service. The iOS device does not send the e-mail attachment and the Android device shows this message: ***Saving selected file type is not supported***.
+On your iOS or Android device, you chose *Support* and then click *Send Activity Log* to upload the activity log file for further troubleshooting in the SAP Document Management Service mobile app.
 
 **Solution**
 
-To send a log file, you have to set the *Support Log* setting to *On* in the *Settings* \(![](images/App_Settings_Icon_c953bac.png) iOS, ![](images/Android_Settings_Icon_189c142.jpg) Android\).
+To send a log file, you have to set the *Enable Logging* setting to *On* in the *Settings*.
 

@@ -1,16 +1,17 @@
-<!-- loiobdac58cc00ca4528bba0b520f3785bbc -->
+<!-- loio3b6bc39ebc204417b74cc8d95df7d680 -->
 
 # Run the Transaction V\_CMIS\_L\_FS
 
-Run the transaction to complete the configuration in ABAP on-premise environment
+Run the transaction to complete the configuration in the ABAP on-premise environment.
 
 
 
-<a name="loiobdac58cc00ca4528bba0b520f3785bbc__prereq_jbl_fcr_5tb"/>
+<a name="loio3b6bc39ebc204417b74cc8d95df7d680__prereq_jbl_fcr_5tb"/>
 
 ## Prerequisites
 
-You've completed the previous section. For more information, see [Create a Destination in ABAP System Using Transaction SM59](create-a-destination-in-abap-system-using-transaction-sm59-d9e47b5.md).
+-   You've completed the previous section. For more information, see [Create a Destination in ABAP System Using Transaction SM59](create-a-destination-in-abap-system-using-transaction-sm59-d9e47b5.md).
+
 
 
 
@@ -21,8 +22,6 @@ You've completed the previous section. For more information, see [Create a Desti
 2.  Enter the *File Share ID* as per your requirements. The name must begin with the letter 'Z'. For example, `ZTEST2`.
 
 3.  In the *File Share* dialog, enter the following details:
-
-    ****
 
 
     <table>

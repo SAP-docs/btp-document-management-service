@@ -24,7 +24,7 @@ You’re part of a collaboration-enabled Document Management repository. See [On
 
 3.  Enter a name for your shared folder and choose *Save*.
 
-4.  Choose the <span class="SAP-icons"></span> More Options for the folder that you created and then *Edit*.
+4.  Choose the <span class="SAP-icons-V5"></span> More Options for the folder that you created and then *Edit*.
 
 5.  Choose the *Share Settings* tab and define the access settings for your share using the following options:
 

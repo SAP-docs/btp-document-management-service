@@ -27,6 +27,9 @@ Preview the file types that follow using the inline viewer:
 
 Document Management Service provides integration with Office 365 that directly launches MS Office applications from the browser. Hence, you can view your MS Office documents in the respective MS Office applications without having to download them.
 
+> ### Note:  
+> There is no support for the `*.msg` file type, as well as other Outlook files, for viewing.
+
 To edit documents, you must have editing permission. Without necessary permission, you can view such files.
 
 

@@ -9,11 +9,11 @@ Document Management Service, Integration Option lets you build document manageme
 Document Management Service, Application Option is a standalone, ready-to-use web application that provides document management capabilities for your enterprise content.
 
 > ### Tip:  
-> This guide is open for contributions and feedback using GitHub. This allows you to get in contact with responsible authors of SAP Help Portal pages and the development team to discuss documentation-related issues. To contribute to this guide, or to provide feedback, choose the corresponding option on SAP Help Portal:
+> This guide is open for contributions and feedback using GitHub. This allows you to get in contact with the responsible authors of SAP Help Portal pages and the development team to discuss documentation-related issues. To contribute to this guide, or to provide feedback, choose the corresponding option on the SAP Help Portal:
 > 
-> -   *Feedback* \> *Create issue*: Provide feedback about a documentation page. This option opens an issue on GitHub.
+> -   *Feedback* \> *Create issue*: Provide feedback about a documentation page. This option creates an issue on GitHub where you can provide feedback for a help page.
 > 
-> -   *Feedback* \> *Edit page*: Contribute to a documentation page. This option opens a pull request on GitHub.
+> -   *Feedback* \> *Edit page*: Contribute to a documentation page. This option creates a pull request on GitHub where you can contribute to a help page..
 > 
 > 
 > You need a GitHub account to use these options.
@@ -34,7 +34,7 @@ This service runs in the Cloud Foundry environment.
 
 
 
-## Features of Document Management, integration option
+## Features of SAP Document Management Service, Integration Option
 
 
 <dl>
@@ -104,12 +104,31 @@ Use the encryption feature while onboarding internal repositories and have contr
 
 
 
+</dd><dt><b>
+
+Benefit from multitenancy support 
+
+</b></dt>
+<dd>
+
+Use this service in tenant-aware applications.
+
+
+
 </dd>
 </dl>
 
 
 
-## Features of Document Management, application option
+<a name="loio27e742e062924d72a9f1cb94a8c8346c__section_uzv_gv2_xzb"/>
+
+## Multitenancy Support
+
+This service supports multitenancy. It can be used in tenant-aware applications.
+
+
+
+## Features of SAP Document Management Service, Application Option
 
 
 <dl>

@@ -1,6 +1,6 @@
 <!-- loio3fbbe2480b3c48f5b306af548a05ad8f -->
 
-# URLs for App-to-App Integration of Document Management Service 
+# App-to-App Integration of Document Management Service 
 
 You can build URLs that perform actions in the SAP Document Management Service app and that can be used for app-to-app integration or as links in e-mails.
 

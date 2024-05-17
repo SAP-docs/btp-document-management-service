@@ -53,5 +53,7 @@ You can access repositories onboarded via Document Management Service, Applicati
     > -   Repositories in Document Management Service, Application Option not connected to the Document Management Service, Integration Option instance, can’t be accessed via the API.
     > 
     > -   Directly onboarded repositories via the Document Management Service, Integration Option instance can't be accessed via the Document Management Service, Application Option UI.
+    > 
+    > -   There is only one repository that can be updated with a service instance destination.
 
 

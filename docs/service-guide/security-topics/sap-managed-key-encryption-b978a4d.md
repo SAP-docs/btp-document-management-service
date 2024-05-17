@@ -1,6 +1,6 @@
 <!-- loiob978a4de207e4b00a6a1434ec838e86c -->
 
-# Default Encryption via SAP Credential Store
+# SAP-Managed Key Encryption
 
 The Document Management Service, Application Option and Document Management Service, Integration Option supports encryption using SAP Credential Store Keyrings.
 
@@ -16,7 +16,7 @@ Encryption in SAP Document Management Service typically refers to a security fea
 
 You can follow the generic steps to add a repository using the Onboarding API in Document Management Service, Integration Option. For more information, see [Onboarding Internal Repository](../integration-option-guide/onboarding-repository-b377990.md#loiob37799034e81433c8312864b0b5a2fab__section_okh_4rz_hrb).
 
-In addition, it necessary to set the parameter `isEncryptionEnabled` to `True` while onboarding internal repository.
+In addition, it is necessary to set the parameter `isEncryptionEnabled` to `True` while onboarding internal repository.
 
 
 

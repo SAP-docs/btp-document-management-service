@@ -32,7 +32,7 @@ There are two types of repositories in Document Management Service:
 
 ## Onboarding Internal Repository
 
-You've the Document Management Service, Repository Option entitlement in your sub account to onboard internal repository. Because the repository is generated on the go, you need to specify configuration parameters to manage the repository's features and capabilities.
+You have the Document Management Service, Repository Option entitlement in your sub account to onboard an internal repository. Because the repository is generated on the go, you need to specify configuration parameters to manage the repository's features and capabilities.
 
 The API for onboarding internal repositories can be found in [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource).
 
@@ -74,7 +74,7 @@ Yes
 </td>
 <td valign="top">
 
-Name of the repository that appears in the application.The external repository is based on the concept of "bring your own repository." To onboard an external repository, you must first maintain the repository information in SAP Destination Service, including the URL, username, and password, and then provide this destination information to our repository onboarding API.
+Name of the repository that appears in the application. The external repository is based on the concept of "bring your own repository." To onboard an external repository, you must first maintain the repository information in SAP Destination Service, including the URL, username, and password, and then provide this destination information to our repository onboarding API.
 
 </td>
 </tr>
@@ -125,7 +125,7 @@ Optional
 </td>
 <td valign="top">
 
-`Collaboration`The external repo or `Favorites`
+It can be a `Collaboration`, `Instant`, or `Favorites`.
 
 This entry is needed only when you want to create shared folders in the repository. By default, shared folder creation is disabled. For more information, see [Collaboration Repositories](collaboration-repositories-926d32b.md).
 
@@ -247,7 +247,7 @@ Optional
 
 Unique name for the repository.
 
-The parameter is mandatory only for SAP S/4HANA attachment service scenarios.
+The parameter is mandatory only for SAP S/4HANA Attachment service scenarios.
 
 </td>
 </tr>
@@ -300,7 +300,12 @@ Optional
 </td>
 <td valign="top">
 
-Set the value to `True` if you want to enable encryption to encrypt your sensitive data in the repository. See [Default Encryption via SAP Credential Store](../security-topics/default-encryption-via-sap-credential-store-b978a4d.md).
+Set the value to `True` if you want to enable encryption to encrypt your sensitive data in the repository. See [SAP-Managed Key Encryption](../security-topics/sap-managed-key-encryption-b978a4d.md).
+
+> ### Note:  
+> The settings can't be changed once you've onboarded the repository. This is a one-time setting.
+
+
 
 </td>
 </tr>
@@ -386,7 +391,7 @@ Yes
 
 `external`
 
-The value "external" means that you're adding your own repository. To use SAP provided repository, see [Connecting to Document Management Service, Repository Option Using API](connecting-to-document-management-service-repository-option-using-api-d30200e.md).
+The value "external" means that you're adding your own repository. To use the SAP provided repository, see [Connecting to Document Management Service, Repository Option Using API](connecting-to-document-management-service-repository-option-using-api-d30200e.md).
 
 </td>
 </tr>
@@ -422,7 +427,7 @@ Optional
 
 `contentServer`
 
-The parameter is needed only for SAP DMS repositories to bypass ABAP layer and directly communicate to the content server to upload documents.
+The parameter is needed only for SAP DMS repositories to bypass the ABAP layer and directly communicate to the content server to upload documents.
 
 </td>
 </tr>
@@ -431,7 +436,7 @@ The parameter is needed only for SAP DMS repositories to bypass ABAP layer and d
 
 Content-server destination name
 
-The parameter is needed only for SAP S/4HANA DMS repositories to bypass ABAP layer and directly communicate to the SAP content server to upload documents. It's recommended that the content server configured to allow direct HTTP connections from SAP BTP.
+The parameter is needed only for SAP S/4HANA DMS repositories to bypass the ABAP layer and directly communicate to the SAP content server to upload documents. It's recommended that the content server is configured to allow direct HTTP connections from SAP BTP.
 
 > ### Example:  
 > > ### Sample Code:  
@@ -515,7 +520,7 @@ Optional
 </td>
 <td valign="top">
 
-Display name for the destination
+Display the name for the destination
 
 </td>
 </tr>

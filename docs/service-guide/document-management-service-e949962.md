@@ -8,7 +8,7 @@
 
 
 
-**Core Components, 2023**
+**Core Components, 2024**
 
 
 <table>
@@ -73,6 +73,683 @@ Latest Revision
 Available as of
 
 </th>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+UI5 Version Upgrade for Reuse UI
+
+</td>
+<td valign="top">
+
+The UI5 version for the Reuse UI component is now updated to 1.120.12
+
+See [Reuse UI](integration-option-guide/reuse-ui-c41e52e.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-05-10
+
+</td>
+<td valign="top">
+
+2024-05-10
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Updates to Offboarding Process
+
+</td>
+<td valign="top">
+
+With this release, we've updated the offboarding process for Document Management Service, Integration Option. To get started, run the APIs to download the repository's metadata, and for content, use desktop clients.
+
+See [Offboard Document Management Service, Integration Option](security-topics/offboard-document-management-service-integration-option-937ee13.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-04-01
+
+</td>
+<td valign="top">
+
+2024-04-01
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Availability of Export Repository API
+
+</td>
+<td valign="top">
+
+You can now export your repository, check the export status, and download the repository's metadata using the REST-based APIs.
+
+Refer to a new API published on [SAP Business Accelerator Hub](https://api.sap.com/api/AdminAPI/resource).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-04-01
+
+</td>
+<td valign="top">
+
+2024-04-01
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+New Boosters for SAP Document Management Service
+
+</td>
+<td valign="top">
+
+You can now set up the Document Management Service, Integration Option automatically using the booster from the SAP BTP cockpit itself.
+
+For more information, see [Initial Setup](initial-setup-ef91284.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-03-28
+
+</td>
+<td valign="top">
+
+2024-03-28
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Update - Reuse UI
+
+</td>
+<td valign="top">
+
+The pagination configuration for the Reuse UI has been deprecated and is no longer available.
+
+For more information about supported configurations, see [Configurations for Reuse UI](integration-option-guide/configurations-for-reuse-ui-c91ec16.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+Deprecated
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-02-23
+
+</td>
+<td valign="top">
+
+2024-02-23
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Integrating SAP S/4HANA with Google Workspace Using SAP Document Management Service
+
+</td>
+<td valign="top">
+
+With this release we have the following updates:
+
+-   You can now establish a trust configuration between SAP S/4HANA On-Premise and SAP BTP.
+
+    See [Establishing Trust Configuration Between SAP S/4HANA On-Premise And SAP BTP](establishing-trust-configuration-between-sap-s-4hana-on-premise-and-sap-btp-f64dcdb.md).
+
+-   By using the *Secure File Share Configuration* app, you can now configure the File Shares to ensure that they function correctly to complete file sharing operations effectively.
+
+    See [Maintain Secure File Share Configuration](maintain-secure-file-share-configuration-bdac58c.md).
+
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-02-23
+
+</td>
+<td valign="top">
+
+2024-02-23
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+UI Improvements: Pagination
+
+</td>
+<td valign="top">
+
+Instead of a toggle switch, you can now find a *More* option at the bottom of the page to support pagination in Document Management Service, Application Option. It automatically loads 100 documents at a time.
+
+See [Using Pagination](integration-option-guide/using-pagination-b40f283.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service, Application Option
+
+</td>
+<td valign="top">
+
+2024-02-23
+
+</td>
+<td valign="top">
+
+2024-02-23
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Integrating SAP S/4HANA with Google Workspace Using SAP Document Management Service
+
+</td>
+<td valign="top">
+
+With this release, we've changed the destination configuration. The following properties have been replaced:
+
+
+<table>
+<tr>
+<th valign="top">
+
+Old Property
+
+</th>
+<th valign="top">
+
+New Property
+
+</th>
+</tr>
+<tr>
+<td valign="top">
+
+*Authentication*: `NoAuthentication`
+
+</td>
+<td valign="top">
+
+`OAuth2ClientCredentials`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+*Additional Property*: `google.client_id` 
+
+</td>
+<td valign="top">
+
+Standard Configuration: *Client ID*
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+*Additional Property*:`google.private_key`
+
+</td>
+<td valign="top">
+
+Standard Configuration: *Client Secret*
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+*Additional Property*:`google.token_uri`
+
+</td>
+<td valign="top">
+
+Standard Configuration: *Token Service URL*
+
+</td>
+</tr>
+</table>
+
+**Action:** If you're an existing user,, it's required to migrate your settings to the new setup. The updates are designed to enhance the experience for new implementations, ensuring a seamless and optimized setup.
+
+For more information about creating destinations, see [Creating HTTP Destinations](creating-http-destinations-2b04ac7.md).
+
+</td>
+<td valign="top">
+
+Required
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service, Application Option
+
+</td>
+<td valign="top">
+
+2024-01-04
+
+</td>
+<td valign="top">
+
+2024-01-04
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+New SAP Fiori UI5 Theme: Horizon
+
+</td>
+<td valign="top">
+
+With this release, the following themes are supported in the Document Management Service, Application Option.
+
+-   Morning Horizon
+
+-   Evening Horizon
+-   Horizon High Contrast White
+-   Horizon High Contrast Black
+
+To activate the theme, go to your user profile and choose *Settings*. Then, select *Appearance* and choose your preferred theme from the options available.
+
+For more information about managing your settings, see [Personalize the Settings](web-app-guide/personalize-the-settings-a4a70f5.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service, Application Option
+
+</td>
+<td valign="top">
+
+2023-11-30
+
+</td>
+<td valign="top">
+
+2023-11-30
+
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -160,7 +837,7 @@ Release Update
 </td>
 <td valign="top">
 
-In this release, we've fixed some bugs and provided security updates. This release doesn't include any new features.
+We’ve made the security and performance-related improvements. This release doesn't include any new features.
 
 </td>
 <td valign="top">
@@ -548,7 +1225,7 @@ Format of Adding Principals with Role Collections in the Access Control.
 </td>
 <td valign="top">
 
-Access control now allows multiple principles to be added with a space. With this release, you'ren't required to use white space rather you can add semicolon \(;\) to add the role collections in the group name.
+Access control now allows multiple principles to be added with a space. With this release, you're not required to use white space rather you can add a semicolon \(;\) to add the role collections in the group name.
 
 For example, you can use the group name as `~group~Hiring Managers;`
 
@@ -616,9 +1293,9 @@ Encryption
 </td>
 <td valign="top">
 
-Document Management Service, Integration Option and Document Management Service, Application Option offer support for encryption. You can encrypt your information by enabling encryption using UI and API. Encryption helps protect your data and keeps it secure.
+Document Management Service, Integration Option and Document Management Service, Application Option offer support for encryption. You can encrypt your information by enabling encryption using the UI and API. Encryption helps protect your data and keeps it secure.
 
-See [Encryption](security-topics/encryption-6ec1122.md).
+See [Encryption via Managed Keys](security-topics/encryption-via-managed-keys-6ec1122.md).
 
 </td>
 <td valign="top">
@@ -677,14 +1354,14 @@ Document Management Service
 </td>
 <td valign="top">
 
-Using Email Address in the Access Control Principals
+Using e-mail Address in the Access Control Principals
 
 </td>
 <td valign="top">
 
-Email addresses are case-insensitive when you add user email addresses in the *Access Control* as principals.
+E-mail addresses are case-insensitive when you add user e-mail addresses in the *Access Control* as principals.
 
-You can add email addresses without modifying the cases. This means that you don't have to worry about typing the same case as the original email address. For example, if the original email address is john@example.com, you can add it as John@example.com or even jOhN@example.com.
+You can add e-maill addresses without modifying the cases. This means that you don't have to worry about typing the same case as the originale-maill address. For example, if the original e-mail address is john@example.com, you can add it as John@example.com or even jOhN@example.com.
 
 </td>
 <td valign="top">
@@ -750,9 +1427,9 @@ Thumbnail Support for Older Repositories
 
 You can now enable thumbnails for the documents present in the older repositories in both Document Management Service, Integration Option and Document Management Service, Application Option.
 
-It will generate a thumbnail for the respective documents available in older repositories after a successful sync of repositories metadata. The thumbnail is available in the new repository to make the documents easier to identify. The process will also ensure that the documents are secure and accessible only to authorized users.
+It will generate a thumbnail for the respective documents available in older repositories after a successful sync ofrepositorys metadata. The thumbnail is available in the new repository to make the documents easier to identify. The process ensures that the documents are secure and accessible only to authorized users.
 
--   For Document Management Service, Application Option, after enabling the thumbnail on the repository and synchronizing metadata, the *Generate Thumbnail* button appears for all documents. All you've to do is navigate to the *More Options* and choose the *Generate Thumbnail* option for the particular document.
+-   For Document Management Service, Application Option, after enabling the thumbnail on the repository and synchronizing metadata, the *Generate Thumbnail* button appears for all documents. All you have to do is navigate to the *More Options* and choose the *Generate Thumbnail* option for the particular document.
 
 -   For Document Management Service, Integration Option, enable thumbnails by updating the repository via API [Update Repository](https://api.sap.com/api/AdminAPI/resource/Update_a_Repository) followed by [Sync a Repository](https://api.sap.com/api/AdminAPI/resource/Sync_a_Repository) and then use [Generate Thumbnail](https://api.sap.com/api/GenerateThumbnailApi/resource/Generate_Thumbnail) for the documents.
 
@@ -1684,7 +2361,7 @@ UI Improvements
 </td>
 <td valign="top">
 
-A new <span class="SAP-icons"></span> *More Options* section allows you to access actions like Show Properties, Rename, and Preview.
+A new <span class="SAP-icons-V5"></span> *More Options* section allows you to access actions like Show Properties, Rename, and Preview.
 
 </td>
 <td valign="top">
@@ -2416,7 +3093,7 @@ SAP Document Management Service Outlook Add-In
 </td>
 <td valign="top">
 
-A new Microsoft Outlook add-in feature has been introduced for the SAP Document Management Service desktop client, which lets you automatically create, share, and include links in emails. A secure email is a great way to store and share files for your meetings.
+A new Microsoft Outlook add-in feature has been introduced for the SAP Document Management Service desktop client, which lets you automatically create, share, and include links in emails. A securee-maill is a great way to store and share files for your meetings.
 
 See [Sending Mail Attachments Using the Microsoft Outlook Add-In](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/a5f77e4b10bb4700907576c4afa05caa.html "Document Management Service offers a Microsoft Outlook add-in that can automatically create a share, include a link to the share in your mail or meeting request, and store the files you want to attach to your mail or meeting request in this share. In this way, you can attach files that exceed your allowed mail attachment size limit.") :arrow_upper_right:.
 
@@ -3662,7 +4339,7 @@ Deep links support for both SAP Document Management Service desktop and mobile c
 
 You can create links that perform actions within the SAP Document Management Service app and can be used for app-to-app integration. You can also use the link as a direct link in emails.
 
-See [URLs for App-to-App Integration of Document Management Service](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/3fbbe2480b3c48f5b306af548a05ad8f.html "You can build URLs that perform actions in the SAP Document Management Service app and that can be used for app-to-app integration or as links in e-mails.") :arrow_upper_right:.
+See [App-to-App Integration of Document Management Service](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/3fbbe2480b3c48f5b306af548a05ad8f.html "You can build URLs that perform actions in the SAP Document Management Service app and that can be used for app-to-app integration or as links in e-mails.") :arrow_upper_right:.
 
 </td>
 <td valign="top">
@@ -4186,7 +4863,7 @@ Retention Feature in Document Management Service, Application Option
 </td>
 <td valign="top">
 
-You can now use Retention feature in the Document Management Service, Application Option to prevent documents from being deleted or modified.
+You can now use the Retention feature in the Document Management Service, Application Option to prevent documents from being deleted or modified.
 
 See [Retention](integration-option-guide/retention-f271828.md).
 

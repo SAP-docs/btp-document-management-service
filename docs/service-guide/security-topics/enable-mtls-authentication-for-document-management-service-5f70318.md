@@ -47,7 +47,7 @@ You can bind a service instance with your application using the binding paramete
 
 2.  On the *Instances and Subscriptions* page, navigate to the *Instances* section and select the instance to which you wish to bind the application.
 
-3.  In the service instance details section that opens to the right, select the Actions menu \(<span class="SAP-icons"></span>\) and then select *Create Binding*.
+3.  In the service instance details section that opens to the right, select the Actions menu \(<span class="SAP-icons-V5"></span>\) and then select *Create Binding*.
 
 4.  In the *New Binding* wizard, choose the application to bind and specify the following parameters in JSON format:
 
@@ -84,7 +84,7 @@ Create service keys with X509 certificate using the following steps.
 
 1.  Select an instance for which you want to create a service key.
 
-2.  In the details area of the service instance, select the Actions menu \(<span class="SAP-icons"></span>\).
+2.  In the details area of the service instance, select the Actions menu \(<span class="SAP-icons-V5"></span>\).
 
 3.  Choose *Create Service Key*.
 

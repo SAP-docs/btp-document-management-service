@@ -245,7 +245,7 @@ Connect your Document Management Service, Application Option to Document Managem
     > ### Note:  
     > The settings can't be changed once you've onboarded the repository. This is a one-time setting.
 
-    For more information, see [Enable Encryption for Document Management Service, Application Option](../security-topics/default-encryption-via-sap-credential-store-b978a4d.md#loiob978a4de207e4b00a6a1434ec838e86c__section_lwd_rw2_jxb).
+    For more information, see [Enable Encryption for Document Management Service, Application Option](../security-topics/sap-managed-key-encryption-b978a4d.md#loiob978a4de207e4b00a6a1434ec838e86c__section_lwd_rw2_jxb).
     
     </td>
     </tr>

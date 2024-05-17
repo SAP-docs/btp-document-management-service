@@ -17,14 +17,13 @@ The Document Management Service offers the following options:
 
 ## Document Management Service, Integration Option
 
--   Document Management Service, Integration Option is a Platform as a service \(PaaS\) offering.
+-   Document Management Service, Integration Option is a Platform as a Service \(PaaS\) offering.
 
 -   The solution is appropriate for companies who want to integrate document management capabilities into their business applications.
 
 -   It offers APIs that allow any leading business application to consume it.
 
 -   It also offers a reusable UI that can be integrated into any leading SAP Fiori applications.
--   Document Management Service, Integration Option is available only through Cloud Platform Enterprise Agreement\(CPEA\) cloud credits. For more information, see [What Is the Consumption-Based Commercial Model?](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/7047eb4a15a84ac7be3c8612179e6d1f.html).
 -   The Document Management Service, Integration Option option only provides API access to a CMIS-compliant repository and doesn't include any storage.
 
 
@@ -33,15 +32,13 @@ The Document Management Service offers the following options:
 
 ## Document Management Service, Application Option
 
--   It's a Software as a service \(SaaS\) offering.
+-   It's a Software as a Service \(SaaS\) offering.
 
 -   The solution is appropriate for businesses who want to implement a ready-to-use application.
 
 -   It's not possible to use API straight from the Document Management Service, Application Option. In such cases, we must link application option-created repositories to an integration option instance.
 
 -   Document Management Service, Integration Option is included with Document Management Service, Application Option.
--   Cloud Platform Enterprise Agreement \( CPEA \) cloud credits are offered for the Document Management Service, Application Option.
-
 -   The Document Management Service, Application Option option only provides API access to a CMIS-compliant repository and doesn't include any storage.
 
 
@@ -54,12 +51,10 @@ Along with the two primary options, Document Management Service also includes an
 
 ## Document Management Service, Repository Option
 
--   It's a purely optional service. If you require storage, you can purchase.
+-   It's a purely optional service. If you require storage, you can purchase it.
 
--   As it's a commercial entitlement, no tiles appear in the cloud cockpit's. In your sub account, you can include the Document Management Service, Repository Option entitlement.
+-   As it's a commercial entitlement, no tiles appear in the cloud cockpit. In your subaccount, you can include the Document Management Service, Repository Option entitlement.
 
--   The Document Management Service, Repository Option can't be used as stand-alone. It must be used with one of two options: Document Management Service, Application Option or Document Management Service, Integration Option.
-
--   Both subscription and CPEA based models are available for Document Management Service, Repository Option. For more information, see [What Is the Consumption-Based Commercial Model?](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/7047eb4a15a84ac7be3c8612179e6d1f.html).
+-   The Document Management Service, Repository Option can't be used as a stand-alone. It must be used with one of two options: Document Management Service, Application Option or Document Management Service, Integration Option.
 
 

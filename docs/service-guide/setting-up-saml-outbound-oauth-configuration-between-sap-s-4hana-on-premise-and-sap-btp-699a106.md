@@ -10,7 +10,7 @@ Configure SAML Outbound OAuth configuration between SAP S/4HANA \(on premise\) a
 
 ## Prerequisites
 
--   You've established the trust configuration between the ABAP system and SAP BTP. For more information, see [Establishing Trust Configuration Between SAP S/4HANA Cloud And SAP BTP](establishing-trust-configuration-between-sap-s-4hana-cloud-and-sap-btp-66f91a9.md).
+-   You've established the trust configuration between the ABAP system and SAP BTP. For more information, see [Establishing Trust Configuration Between SAP S/4HANA On-Premise And SAP BTP](establishing-trust-configuration-between-sap-s-4hana-on-premise-and-sap-btp-f64dcdb.md).
 
 -   You've created a service instance and service key of Document Management Service, Integration Option. For more information, see [Creating a Service Instance and Service Key](integration-option-guide/creating-a-service-instance-and-service-key-fe7f1e5.md).
 
@@ -57,7 +57,7 @@ Configure SAML Outbound OAuth configuration between SAP S/4HANA \(on premise\) a
     1.  Copy the authentication URL listed under *uaa* of your service key and enter in the field *SAML 2.0 Audience*
 
         > ### Example:  
-        > `<subaccountname>.authentication.sap.hana.ondemand.com`
+        > `https://<subaccountname>.authentication.sap.hana.ondemand.com`
 
 
     > ### Caution:  
@@ -70,6 +70,8 @@ Configure SAML Outbound OAuth configuration between SAP S/4HANA \(on premise\) a
 
 **Related Information**  
 
+
+[Initial Setup](initial-setup-ef91284.md "Before you get started in Document Management Service, Integration Option your SAP BTP account administrator must subscribe to your SAP BTP subaccount to the Document Management Service, Integration Option by performing some preparatory steps.")
 
 [Setting Up a Google Workspace Account](setting-up-a-google-workspace-account-9670f69.md "Create your Google Workspace Account to connect to Document Management Service, Integration Option.")
 
@@ -86,6 +88,8 @@ Configure SAML Outbound OAuth configuration between SAP S/4HANA \(on premise\) a
 [Setting Up SAML Outbound OAuth Configuration Between SAP S/4HANA Cloud And SAP BTP](setting-up-saml-outbound-oauth-configuration-between-sap-s-4hana-cloud-and-sap-btp-26f9c07.md "Configure SAML Outbound OAuth configuration between SAP S/4HANA Cloud and SAP BTP.")
 
 [Maintain Business Roles Within the SAP S/4HANA Cloud](maintain-business-roles-within-the-sap-s-4hana-cloud-091973b.md "Create and maintain business roles based on the selected business catalogs.")
+
+[Establishing Trust Configuration Between SAP S/4HANA On-Premise And SAP BTP](establishing-trust-configuration-between-sap-s-4hana-on-premise-and-sap-btp-f64dcdb.md "To establish SAML trust to the identity providers generated in the SAP S/4HANA On-Premise, import the SAML identity provider metadata to the SAP BTP account.")
 
 [Maintain Business Roles Within SAP S/4HANA \(On Premise\)](maintain-business-roles-within-sap-s-4hana-on-premise-d1999cf.md "You can define authorizations for your custom business roles in SAP S/4HANA (On Premise).")
 

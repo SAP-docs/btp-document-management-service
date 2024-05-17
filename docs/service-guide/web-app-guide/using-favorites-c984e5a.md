@@ -18,7 +18,7 @@ Your administrator has enabled the use of the Favorites repository.
 
 ## Procedure
 
-1.  To create a favorite entry, select any file or folder and choose <span class="SAP-icons"></span> *Mark as Favorites*.
+1.  To create a favorite entry, select any file or folder and choose <span class="SAP-icons-V5"></span> *Mark as Favorites*.
 
 2.  To delete a favorite entry, select any files and folders in the *Favorites* folder and choose *Delete*.
 

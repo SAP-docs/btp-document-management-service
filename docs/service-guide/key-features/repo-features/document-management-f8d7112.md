@@ -67,7 +67,7 @@ Virus scanning is supported only up to 400 MB for the Document Management Servic
 </td>
 <td valign="top">
 
-*Select File \>* Choose <span class="SAP-icons"></span> More Options *\> Rename* *\> Enter New Name* 
+*Select File \>* Choose <span class="SAP-icons-V5"></span> More Options *\> Rename* *\> Enter New Name* 
 
 </td>
 <td valign="top">
@@ -93,7 +93,7 @@ Virus scanning is supported only up to 400 MB for the Document Management Servic
 </td>
 <td valign="top">
 
-Select *Repository* \> *Document*, choose<span class="SAP-icons"></span> More Options and select *Show Properties*
+Select *Repository* \> *Document*, choose<span class="SAP-icons-V5"></span> More Options and select *Show Properties*
 
 </td>
 <td valign="top">
@@ -181,7 +181,7 @@ Select *Repository* \> ** \> *Document* \> *Move*
 </td>
 <td valign="top">
 
-Select *Repository* \> *Document*, choose <span class="SAP-icons"></span> More Options and select *Show Properties* *\> Edit \> Additional Data*
+Select *Repository* \> *Document*, choose <span class="SAP-icons-V5"></span> More Options and select *Show Properties* *\> Edit \> Additional Data*
 
 </td>
 <td valign="top">
@@ -203,7 +203,7 @@ For SAP S/4HANA DMS repositories only.
 </td>
 <td valign="top">
 
-Select *Repository* \> *Document* Choose <span class="SAP-icons"></span> More Options*\> Show Properties* *\> Edit \> Additional Data*
+Select *Repository* \> *Document* Choose <span class="SAP-icons-V5"></span> More Options*\> Show Properties* *\> Edit \> Additional Data*
 
 </td>
 <td valign="top">
@@ -225,7 +225,7 @@ For SAP S/4HANA DMS repositories only.
 </td>
 <td valign="top">
 
-Select *Repository* \> *Document* Choose <span class="SAP-icons"></span> More Options *\> Show Properties* *\> Edit \> Additional Data*
+Select *Repository* \> *Document* Choose <span class="SAP-icons-V5"></span> More Options *\> Show Properties* *\> Edit \> Additional Data*
 
 </td>
 <td valign="top">

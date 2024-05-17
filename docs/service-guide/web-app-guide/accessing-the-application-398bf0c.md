@@ -24,7 +24,7 @@ Open the Document Management Service application in the admin and user views.
 
 3.  Search for the *Document Management Service, Application Option*.
 
-4.  Select <span class="SAP-icons"></span> More Options and choose *Go to Application*.
+4.  Select <span class="SAP-icons-V5"></span> More Options and choose *Go to Application*.
 
 5.  Log on with the credentials that you provided in the ID Service.
 

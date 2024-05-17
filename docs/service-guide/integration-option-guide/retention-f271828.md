@@ -43,7 +43,7 @@ A Retention is the period of time during which a document is deleted. A retentio
 
 1.  Open any repository.
 
-2.  Choose the <span class="SAP-icons"></span> icon for the document that you want to set the retention.
+2.  Choose the <span class="SAP-icons-V5"></span> icon for the document that you want to set the retention.
 
 3.  Choose the *Retention* tab and select *Edit*.
 

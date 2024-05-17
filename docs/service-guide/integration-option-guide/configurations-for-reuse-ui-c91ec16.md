@@ -312,33 +312,6 @@ Set to `false` if you want to show web link URL in the document or folder proper
 <tr>
 <td valign="top">
 
-`usePagination` 
-
-</td>
-<td valign="top">
-
-Optional
-
-</td>
-<td valign="top">
-
-boolean
-
-</td>
-<td valign="top">
-
-false
-
-</td>
-<td valign="top">
-
-Set to `true` if you want to divide a large number of documents list into smaller discrete page in the view mode. By default, pagination is enabled. This setting shows the pagination switch in repositories with more than 100 documents. The purpose of switch is to allow users to choose whether to load all the documents or to paginate the result in a table.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
 `downloadWithContentStreamName` 
 
 </td>

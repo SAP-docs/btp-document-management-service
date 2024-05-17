@@ -27,7 +27,7 @@ Role collections are sets of authorizations that are suitable for distinct user 
 
 ## Procedure
 
-1.  Open an internal repository and choose <span class="SAP-icons"></span> More Options.
+1.  Open an internal repository and choose <span class="SAP-icons-V5"></span> More Options.
 
 2.  Choose *Show Properties* \> *Edit* \> *Access Control*.
 

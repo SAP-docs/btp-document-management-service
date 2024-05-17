@@ -33,7 +33,7 @@ Before you can use the Document Management Service mobile app on your Android de
 
     ![](images/Android_QR_Code_Scan_Image_SDM_16996ac.png)
 
-    1.  On the Android device, choose <span class="SAP-icons"></span> QR code scanner.
+    1.  On the Android device, choose <span class="SAP-icons-V5"></span> QR code scanner.
 
     2.  With the camera of the Android device, scan the QR code that is already available with you.
 

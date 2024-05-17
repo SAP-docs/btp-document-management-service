@@ -39,7 +39,7 @@ You've created a OAuth 2.0 client and copied the *Profile* and *Configuration Na
 
     1.  Choose *OAuth Settings*.
 
-    2.  Click on <span class="SAP-icons"></span> value-helpicon.
+    2.  Click on <span class="SAP-icons-V5"></span> value-helpicon.
 
     3.  Choose *Profl* that you created.
 
@@ -56,5 +56,5 @@ You've created a OAuth 2.0 client and copied the *Profile* and *Configuration Na
 **Related Information**  
 
 
-[Run the Transaction V\_CMIS\_L\_FS](run-the-transaction-v-cmis-l-fs-bdac58c.md "Run the transaction to complete the configuration in ABAP on-premise environment")
+[Maintain Secure File Share Configuration](maintain-secure-file-share-configuration-bdac58c.md "Configure the File Shares using the Secure File Share Configuration app to ensure the functionality of the File Share operations.")
 

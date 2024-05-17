@@ -29,7 +29,7 @@ The Generate Thumbnail feature is available for repositories that are onboarded 
 
 ## Procedure
 
-1.  Open an internal repository, select the document, and choose <span class="SAP-icons"></span> More Options.
+1.  Open an internal repository, select the document, and choose <span class="SAP-icons-V5"></span> More Options.
 
 2.  Choose *Generate Thumbnail*.
 

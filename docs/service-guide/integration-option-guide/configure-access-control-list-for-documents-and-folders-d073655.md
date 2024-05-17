@@ -12,7 +12,7 @@ Learn to define access for folders and documents in a repository.
 
 1.  Open any repository.
 
-2.  Choose <span class="SAP-icons"></span> More Options for the folder or document that you want to define the access.
+2.  Choose <span class="SAP-icons-V5"></span> More Options for the folder or document that you want to define the access.
 
 3.  Choose the *Access Control* tab and select *Edit*.
 

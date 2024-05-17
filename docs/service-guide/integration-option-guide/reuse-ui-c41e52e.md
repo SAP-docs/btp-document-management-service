@@ -2,3 +2,6 @@
 
 # Reuse UI
 
+> ### Note:  
+> The Reuse UI component supports UI5 version **1.120.12**.
+

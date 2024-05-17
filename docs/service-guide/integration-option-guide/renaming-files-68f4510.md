@@ -10,7 +10,7 @@ Learn how to rename files in different scenarios.
 
 ## Procedure
 
-1.  For external repositories and version-disabled Document Management Service, Repository Option, choose the <span class="SAP-icons"></span> More Options icon and select *Rename*, make your changes, and save your changes.
+1.  For external repositories and version-disabled Document Management Service, Repository Option, choose the <span class="SAP-icons-V5"></span> More Options icon and select *Rename*, make your changes, and save your changes.
 
 2.  For version-enabled Document Management Service, Repository Option, do the steps that follow:
 

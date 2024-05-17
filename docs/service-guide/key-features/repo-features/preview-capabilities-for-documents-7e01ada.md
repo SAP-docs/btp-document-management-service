@@ -51,7 +51,7 @@ Additional Details
 </td>
 <td valign="top">
 
-Choose <span class="SAP-icons"></span> More Options and select *Preview*.
+Choose <span class="SAP-icons-V5"></span> More Options and select *Preview*.
 
 </td>
 <td valign="top">
@@ -68,7 +68,7 @@ Choose <span class="SAP-icons"></span> More Options and select *Preview*.
 </td>
 <td valign="top">
 
-Choose <span class="SAP-icons"></span> More Options and select *Preview* and Open Microsoft Office app.
+Choose <span class="SAP-icons-V5"></span> More Options and select *Preview* and Open Microsoft Office app.
 
 </td>
 <td valign="top">
@@ -85,7 +85,7 @@ Choose <span class="SAP-icons"></span> More Options and select *Preview* and 
 </td>
 <td valign="top">
 
-Choose <span class="SAP-icons"></span> More Options and select *Preview* and Open Microsoft Office app.
+Choose <span class="SAP-icons-V5"></span> More Options and select *Preview* and Open Microsoft Office app.
 
 </td>
 <td valign="top">

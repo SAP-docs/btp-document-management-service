@@ -63,7 +63,7 @@ The versioning feature is available only for versioned repositories. It must be 
 > </td>
 > <td valign="top">
 > 
-> \(Not Applicable\)
+> [SAP Business Accelerator Hub](https://api.sap.com/api/CheckInDocumentApi/overview)
 > 
 > </td>
 > <td valign="top">
@@ -112,7 +112,7 @@ The versioning feature is available only for versioned repositories. It must be 
 > </td>
 > <td valign="top">
 > 
-> Choose document or folder, select <span class="SAP-icons"></span> More Options and choose *Show Properties* \> *Edit*
+> Choose document or folder, select <span class="SAP-icons-V5"></span> More Options and choose *Show Properties* \> *Edit*
 > 
 > </td>
 > <td valign="top">

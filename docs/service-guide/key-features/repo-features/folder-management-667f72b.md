@@ -55,7 +55,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Folder \>* Choose <span class="SAP-icons"></span> More Options *\> Rename**\> Enter New Name* 
+*Select Folder \>* Choose <span class="SAP-icons-V5"></span> More Options *\> Rename**\> Enter New Name* 
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ Choose *Folder*
 </td>
 <td valign="top">
 
-Select *Repository*, choose <span class="SAP-icons"></span> More Optionsand select *Show Properties*.
+Select *Repository*, choose <span class="SAP-icons-V5"></span> More Optionsand select *Show Properties*.
 
 </td>
 </tr>

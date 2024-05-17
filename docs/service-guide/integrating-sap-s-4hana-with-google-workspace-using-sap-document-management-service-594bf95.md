@@ -10,7 +10,7 @@ Your businesses can use Google Drive integration with SAP Document Management Se
 
 
 
-![](images/Image_Map_Google_Workspace_Integration_2298434.png)
+![](images/Imagemap_Google_Workspace_Integration_2acfbbf.png)
 
 
 

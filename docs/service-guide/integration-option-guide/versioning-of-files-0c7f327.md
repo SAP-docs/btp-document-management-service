@@ -33,11 +33,11 @@ Versioning is helpful for teamwork, where you’re collaborating with colleagues
 
 4.  Choose *OK*.
 
-5.  To check the new versions of a file, select the file checkbox and then choose the <span class="SAP-icons"></span> More Optionsand choose *Show Properties* \> *Edit*.
+5.  To check the new versions of a file, select the file checkbox and then choose the <span class="SAP-icons-V5"></span> More Optionsand choose *Show Properties* \> *Edit*.
 
     You see the existing file versions, who modified the file, the date of modification, and the actions allowed.
 
-6.  Choose <span class="SAP-icons"></span> Restore icon under properties section, if you want to restore a previous version of the document.
+6.  Choose <span class="SAP-icons-V5"></span> Restore icon under properties section, if you want to restore a previous version of the document.
 
 7.  You can *Download* a previous version of the file.
 

@@ -10,7 +10,7 @@ Delete your instance of Document Management Service, Integration Option in the S
 
 ## Prerequisites
 
-[Delete Your Repository Using the Offboarding API](delete-your-repository-using-the-offboarding-api-37c6a6e.md)
+[Delete Repositories](delete-repositories-37c6a6e.md)
 
 
 

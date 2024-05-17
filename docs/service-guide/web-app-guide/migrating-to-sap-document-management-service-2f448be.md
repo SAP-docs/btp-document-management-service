@@ -512,7 +512,7 @@ A delta migration only update the repository details that have been modified sin
 
 7.  Select one of the completed migrations.
 
-8.  Choose <span class="SAP-icons"></span> Migrate Again option.
+8.  Choose <span class="SAP-icons-V5"></span> Migrate Again option.
 
 9.  Enter the details again if you want to modify.
 

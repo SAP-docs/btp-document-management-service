@@ -97,7 +97,7 @@ Share admins are the only ones who can delete share.
 </td>
 <td valign="top">
 
-Select Shared document or folder, choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Edit* \> *Share Settings* 
+Select Shared document or folder, choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Edit* \> *Share Settings* 
 
 </td>
 <td valign="top">
@@ -136,7 +136,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Share Settings* \> *Edit*
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Add Members*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Add Members*
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Share with member List* \> *Delete*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Share with member List* \> *Delete*
 
 </td>
 </tr>
@@ -192,7 +192,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Anyone with link has access* \> *Save*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Anyone with link has access* \> *Save*
 
 </td>
 </tr>
@@ -204,7 +204,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Access expiration date* \> *Save*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Access expiration date* \> *Save*
 
 </td>
 </tr>
@@ -216,7 +216,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Write permission* \> *Save*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Write permission* \> *Save*
 
 </td>
 </tr>
@@ -228,7 +228,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Write permission* \> *Hide uploaded files* \> *Save*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Write permission* \> *Hide uploaded files* \> *Save*
 
 </td>
 </tr>
@@ -240,7 +240,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Password protection* \> *Enter Password* \> *Save*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Share Settings* \> *Edit* \> *Password protection* \> *Enter Password* \> *Save*
 
 </td>
 </tr>
@@ -252,7 +252,7 @@ Document Management Service, Application Option
 </td>
 <td valign="top">
 
-*Select Document \>* Choose <span class="SAP-icons"></span> More Options *Show Properties* \> *Key Properties* \> *Web Link*
+*Select Document \>* Choose <span class="SAP-icons-V5"></span> More Options *Show Properties* \> *Key Properties* \> *Web Link*
 
 </td>
 </tr>

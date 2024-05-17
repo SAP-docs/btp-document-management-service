@@ -1,6 +1,6 @@
 <!-- loio37c6a6eec3c149589eb6cd1bd13f229c -->
 
-# Delete Your Repository Using the Offboarding API
+# Delete Repositories
 
 Delete your repository from Document Management Service, Integration Option.
 
