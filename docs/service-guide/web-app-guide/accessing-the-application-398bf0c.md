@@ -28,7 +28,7 @@ Open the Document Management Service application in the admin and user views.
 
 5.  Log on with the credentials that you provided in the ID Service.
 
-    You see that a portal comes up with two different cards – *Document Management Service* that takes you to the web application for managing files and folders, *Document Management Service Admin* that helps the admin to manage repositories, and *Document Management Service Migration* to manage migration scenarios.
+    You see that a portal comes up with three different cards – *Document Management Service* that takes you to the web application for managing files and folders, *Document Management Service Admin* that helps the admin to manage repositories, and *Document Management Service Migration* to manage migration scenarios.
 
     A user without admin capabilities only sees the *Document Management Service* view card.
 
@@ -39,5 +39,5 @@ Open the Document Management Service application in the admin and user views.
 
 ## Next Steps
 
-To connect to your choice of repository, see [Onboarding External Repository](onboarding-external-repository-ba12e12.md).
+To connect to your choice of repository, see [Onboarding External Repository](onboarding-external-repository-ba12e12.md) and [Onboarding Internal Repository](onboarding-internal-repository-59e3cb7.md).
 

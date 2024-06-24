@@ -8,14 +8,6 @@ The documents list displays a list of files and folders when you access any repo
 
 
 
-<a name="loiod8bfd6240ccb44ac9dd9ff17808e0946__prereq_blm_cyd_bbc"/>
-
-## Prerequisites
-
-You have the necessary permission to work on the given action.
-
-
-
 ## Procedure
 
 1.  To work on any file or folder, select it and choose <span class="SAP-icons-V5"></span> More Options.
@@ -41,19 +33,67 @@ You have the necessary permission to work on the given action.
     <tr>
     <td valign="top">
     
-    Rename
+    *Rename* 
     
     </td>
     <td valign="top">
     
-    Opens the renaming dialog for a single file or folder. The current name is displayed in the name field. If you enter characters that aren't recommended or allowed, a message is displayed.
+    Opens the a dialog where you can rename a single file or folder. The current name is displayed in the name field. If you enter characters that aren't recommended or allowed, a message is displayed.
     
     </td>
     </tr>
     <tr>
     <td valign="top">
     
-    Delete
+    *Properties* 
+    
+    </td>
+    <td valign="top">
+    
+    Displays the *General Properties* and the *Custom Properties*. Click *Edit* to add or change the description.
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Open Latest* 
+    
+    </td>
+    <td valign="top">
+    
+    Opens the most recent file that has been synced from the server.
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Enable Sync* 
+    
+    </td>
+    <td valign="top">
+    
+    If enabled, the document is downloaded for offline access; the document is updated from the server whenever the device is online. You can also refresh documents by pulling down in the mobile app.
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Disable Sync* 
+    
+    </td>
+    <td valign="top">
+    
+    It appears only if you have enabled the sync option. Use this option if you want to stop synchronizing files and folders.
+    
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    
+    *Delete* 
     
     </td>
     <td valign="top">
@@ -62,32 +102,8 @@ You have the necessary permission to work on the given action.
     
     </td>
     </tr>
-    <tr>
-    <td valign="top">
-    
-    Properties
-    
-    </td>
-    <td valign="top">
-    
-    Opens the properties page displaying the *General Properties* and the *Custom Properties*. With the *Edit* button, you can add or change the description.
-    
-    </td>
-    </tr>
-    <tr>
-    <td valign="top">
-    
-    Open Latest
-    
-    </td>
-    <td valign="top">
-    
-    Opens the parent folder of the file that you selected in *Synced Documents*.
-    
-    </td>
-    </tr>
     </table>
     
-    In *Synced Documents*, the set of available actions that is displayed depends on the settings, the device used, the folder in which you're working, and the number and type of files and folders you've selected. In the *Repository*, for example, if you select a single file, you can choose to *Rename*, view *Properties* or *Delete* it. However, if you select multiple folders, you can opt to *Delete* or *Disable Sync*.
+    In *Synced Documents*, the same set of actions are displayed as the ones in your selected files and folders.
 
 

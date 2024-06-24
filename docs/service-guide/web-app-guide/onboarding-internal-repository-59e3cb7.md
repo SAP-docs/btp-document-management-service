@@ -110,24 +110,25 @@ Connect your Document Management Service, Application Option to Document Managem
     </td>
     <td valign="top">
     
-    Lists the supported hashing algorithms to generate content hash for your documents. Choose *None* if you don't want to generate hash.
+    Lists the supported hashing algorithms to generate content hash for your documents. Acceptable values:
+
+    -   `MD5`
+
+    -   `SHA-1`
+
+    -   `SHA-256`
+
+    -   `None` \(default value\) – choose this option if you don't want to generate content hash.
+
+
+
     
     </td>
     </tr>
     <tr>
     <td valign="top">
     
-    *Versioning*
-    
-    </td>
-    <td valign="top">
-    
-    Optional
-    
-    </td>
-    <td valign="top">
-    
-    Enable the option if you want to maintain multiple versions of your documents.
+    ions of your documents.
     
     </td>
     </tr>

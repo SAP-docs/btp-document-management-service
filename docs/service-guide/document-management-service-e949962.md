@@ -89,6 +89,471 @@ Document Management Service
 </td>
 <td valign="top">
 
+Availability of API for Restoring Capability
+
+</td>
+<td valign="top">
+
+An API has been introduced for self-service restore capabilities. You can now recover accidentally deleted repositories and service instances without the need to contact our support team.
+
+See [Repository Restore API](https://api.sap.com/api/AdminAPI/resource/Repository_Restore).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Introducing the New Version of the SAP Document Management Mobile App With Enhanced UI and Simplified Onboarding Experience
+
+</td>
+<td valign="top">
+
+Discover the convenience of managing documents efficiently with our newly released SAP Document Management mobile app, now available on both the [App Store](https://apps.apple.com/in/app/sap-document-management/id6504613204) and Google Play Store.
+
+This release offers enhanced user interface and a streamlined onboarding process, simplifying your journey from the start. With offline capabilities, the app empowers you to access important files anytime, anywhere, independent of internet connectivity.
+
+See [Mobile Applications](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/91597c2d8e0342ac8dbec144f22ecda6.html "Learn how to set up and use the SAP Document Management mobile app on your Android and iOS devices.") :arrow_upper_right:.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Availability of SAP Document Management Service in Additional Regions
+
+</td>
+<td valign="top">
+
+Document Management Service, Integration Option and Document Management Service, Application Option are now available in:
+
+-   India \(Mumbai\) - \(cf-in30\), Google Cloud.
+-   Switzerland \(Zürich\) - \(ch-20\), Azure.
+
+See information available on the [SAP Discovery Center](https://discovery-center.cloud.sap/protected/index.html#/servicessearch/Document%20Management%20Service).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Product Feedback
+
+</td>
+<td valign="top">
+
+Introducing the Product Feedback feature in Document Management Service, Application Option. Quickly share thoughts on specific pages or complete a detailed survey. Your feedback drives our improvements.
+
+Look for the <span class="SAP-icons-V5"></span> Give Feedback button in the header of any page to start sharing your insights. Your participation helps enhance our services.
+
+See [Product Feedback](web-app-guide/product-feedback-6f35fb9.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Copying Files and Folders Between Repositories
+
+</td>
+<td valign="top">
+
+You can effortlessly copy files and folders between repositories in the Document Management Service, Integration Option. To use this feature, you can access the [Copy API](https://api.sap.com/api/MigrationAPI/resource/Copying_a_file_or_folder_between_repositories) available on the SAP Business Accelerator HUB.
+
+See [Copying Files and Folders Between Repositories](migration-topics-integration/copying-files-and-folders-between-repositories-53fddd5.md).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Unsupported Themes
+
+</td>
+<td valign="top">
+
+We've deprecated the High Contrast Black and High Contrast White themes from SAP Fiori. These themes are no longer supported.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+Deprecated
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Append Content Stream for the CMK-enabled Repositories
+
+</td>
+<td valign="top">
+
+With this release, the limitation of chunk upload content in encryption-enabled repositories has been addressed. CMK-enabled repositories now support the uploading of content in chunks, improving the handling of larger files.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+<td valign="top">
+
+2024-06-21
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 UI5 Version Upgrade for Reuse UI
 
 </td>

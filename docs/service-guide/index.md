@@ -91,6 +91,7 @@
         -   [Deleting Migrations](web-app-guide/deleting-migrations-d15e69f.md)
     -   [Configuration Settings to Connect Document Management Service, Application Option to DMS](web-app-guide/configuration-settings-to-connect-document-management-service-application-option-to-dms-6b9df35.md)
     -   [Personalize the Settings](web-app-guide/personalize-the-settings-a4a70f5.md)
+    -   [Product Feedback](web-app-guide/product-feedback-6f35fb9.md)
 -   Document Management Service, Repository Option
     -   [Document Management Service, Repository Option](repository-option-guide/document-management-service-repository-option-fcdf4e5.md)
         -   [Metadata in the Document Management Service](repository-option-guide/metadata-in-the-document-management-service-8736dd7.md)
@@ -107,9 +108,10 @@
         -   [Generating Thumbnail](key-features/repo-features/generating-thumbnail-c6de2be.md)
 -   Migrate to SAP Document Management Service
     -   Migrating from SAP Document Service
-        -   [Migrating Data from Document Service to SAP Document Management Service](migration-topics-integration/migrating-data-from-document-service-to-sap-document-management-service-c059da2.md)
+        -   [Migrating Data from Document Service in Neo to SAP Document Management Service in the Multi-Cloud Foundation](migration-topics-integration/migrating-data-from-document-service-in-neo-to-sap-document-management-service-in-th-c059da2.md)
         -   [Migrating Application to SAP Document Management Service from Neo Environment](migration-topics-integration/migrating-application-to-sap-document-management-service-from-neo-environment-48f6f9d.md)
     -   [Migrating Across Data Centers in the Cloud Foundry Environment](migration-topics-integration/migrating-across-data-centers-in-the-cloud-foundry-environment-5a6b79b.md)
+    -   [Copying Files and Folders Between Repositories](migration-topics-integration/copying-files-and-folders-between-repositories-53fddd5.md)
     -   [Migrating Third-Party CMIS Repository to SAP Document Management Service](migration-topics-integration/migrating-third-party-cmis-repository-to-sap-document-management-service-f0cec43.md)
     -   Migrating from SAP Document Center
         -   [Migrating from SAP Document Center to SAP Document Management Service](migration-topics-integration/migrating-from-sap-document-center-to-sap-document-management-service-0c5ea97.md)
@@ -128,9 +130,12 @@
         -   [Establishing Trust Configuration Between SAP S/4HANA Cloud And SAP BTP](establishing-trust-configuration-between-sap-s-4hana-cloud-and-sap-btp-66f91a9.md)
             -   [Working with Users](working-with-users-1c946cc.md)
             -   [Using SAML Metadata from the Cloud Foundry Account to Copy Location Key](using-saml-metadata-from-the-cloud-foundry-account-to-copy-location-key-74c177a.md)
-        -   [Setting Up SAML Outbound OAuth Configuration Between SAP S/4HANA Cloud And SAP BTP](setting-up-saml-outbound-oauth-configuration-between-sap-s-4hana-cloud-and-sap-btp-26f9c07.md)
-            -   [Creating a Communication System](creating-a-communication-system-adfc134.md)
+        -   [Setting Up Outbound OAuth Configuration Between SAP BTP and SAP S/4HANA Cloud](setting-up-outbound-oauth-configuration-between-sap-btp-and-sap-s-4hana-cloud-26f9c07.md)
+            -   [Creating an Outbound Communication System](creating-an-outbound-communication-system-adfc134.md)
             -   [Maintain Protection Allowlist on SAP S/4HANA Cloud](maintain-protection-allowlist-on-sap-s-4hana-cloud-69313c8.md)
+        -   [Setting Up Inbound Configuration Between SAP BTP and SAP S/4HANA Cloud](setting-up-inbound-configuration-between-sap-btp-and-sap-s-4hana-cloud-5aa38f2.md)
+            -   [Creating an Inbound Communication System](creating-an-inbound-communication-system-bb521d3.md)
+            -   [Creating Inbound HTTP Destination](creating-inbound-http-destination-207c51e.md)
         -   [Maintain Business Roles Within the SAP S/4HANA Cloud](maintain-business-roles-within-the-sap-s-4hana-cloud-091973b.md)
         -   [Establishing Trust Configuration Between SAP S/4HANA On-Premise And SAP BTP](establishing-trust-configuration-between-sap-s-4hana-on-premise-and-sap-btp-f64dcdb.md)
         -   [Setting Up SAML Outbound OAuth Configuration Between SAP S/4HANA \(On Premise\) And SAP BTP](setting-up-saml-outbound-oauth-configuration-between-sap-s-4hana-on-premise-and-sap-btp-699a106.md)
@@ -144,6 +149,8 @@
     -   [Integrating the ABAP Environment with SAP Document Management Service](integrating-the-abap-environment-with-sap-document-management-service-c54ce8b.md)
         -   [Create a Communication Arrangement](create-a-communication-arrangement-7ed34e1.md)
             -   [Sample Code](sample-code-f97e58e.md)
+-   Plugins
+    -   [CAP Plugin](cap-plugin-65128a9.md)
 -   [Security](security-topics/security-bfbb1cd.md)
     -   [Data Protection and Privacy](security-topics/data-protection-and-privacy-ddf0f5d.md)
         -   [Glossary](security-topics/glossary-f884580.md)

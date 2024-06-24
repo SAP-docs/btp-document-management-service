@@ -36,6 +36,11 @@ Scenario
 Details
 
 </th>
+<th valign="top">
+
+Supported Versions
+
+</th>
 </tr>
 <tr>
 <td valign="top">
@@ -46,6 +51,18 @@ Export to Google Workspace
 <td valign="top">
 
 Learn how to export tables as spreadsheets \(.xlsx files\) to a cloud drive. For more information, see [Export to Google Workspace](https://help.sap.com/docs/SAP_S4HANA_CLOUD/085edb30fb3d413da552832f3d5c01c0/b481bf1ef7f842afba54e5c9750c2490.html?version=2208.500).
+
+</td>
+<td valign="top">
+
+-   SAP S/4HANA Cloud, public edition 2208 and above.
+
+-   SAP S/4HANA Cloud, private edition 2022 and above.
+
+-   SAP S/4HANA 2022 and above.
+
+
+
 
 </td>
 </tr>
@@ -60,16 +77,7 @@ Upload General Journal Entries in Google Workspace
 Get started uploading journal entries to Google Workspace. For more information, see [Integration with Google Workspace](https://help.sap.com/docs/SAP_S4HANA_CLOUD/ee9ee0ca4c3942068ea584d2f929b5b1/1ac7c893310e4081beb7c0fcd344a879.html?version=2208.500).
 
 </td>
-</tr>
-</table>
-
-
-
-<a name="loio594bf95dbab64358aef97a73296b6054__section_ibf_sbx_fyb"/>
-
-## Supported Versions
-
-The following SAP S/4HANA version is required for the integration:
+<td valign="top">
 
 -   SAP S/4HANA Cloud, public edition 2208 and above.
 
@@ -78,7 +86,28 @@ The following SAP S/4HANA version is required for the integration:
 -   SAP S/4HANA 2022 and above.
 
 
-It's, however, recommended that you check for supported versions of the corresponding S/4HANA application before you begin this integration.
+
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Integration with Cloud-Based Productivity Suites
+
+</td>
+<td valign="top">
+
+You can use cloud-based productivity suites for collaborative and real-time document editing. These cloud-based productivity suites are integrated with the SAP S/4HANA Document Management System. For more information, see [Integration with Cloud-Based Productivity Suites](https://help.sap.com/docs/SAP_S4HANA_CLOUD/a630d57fc5004c6383e7a81efee7a8bb/5b35124b1d3049ba838ea075c8253e0a.html?locale=en-US).
+
+</td>
+<td valign="top">
+
+SAP S/4HANA Cloud, public edition 2402 and above.
+
+</td>
+</tr>
+</table>
 
 **Related Information**  
 

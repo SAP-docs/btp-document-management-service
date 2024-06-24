@@ -32,8 +32,6 @@ In the following block diagram, you can see how encryptions are used with SAP Do
 
 -   Encryption doesn't apply to the folder per tenant consumption model.
 
--   For encrypted repositories, append content stream and chunk uploads are not supported.
-
 
 **Related Information**  
 

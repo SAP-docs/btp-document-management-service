@@ -39,5 +39,5 @@ Your administrator has set up document classification and security policies to p
 
 [Troubleshooting the Desktop App](troubleshooting-the-desktop-app-ba33e9c.md "Consider the following when troubleshooting errors that occur in your desktop app.")
 
-[Troubleshooting the Mobile App](troubleshooting-the-mobile-app-f075c95.md "Consider the following when troubleshooting errors that occur in your mobile app.")
+[Troubleshooting the Mobile App](troubleshooting-the-mobile-app-f075c95.md "Consider the following when troubleshooting errors that might occur in your mobile app.")
 

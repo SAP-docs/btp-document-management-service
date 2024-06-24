@@ -55,7 +55,9 @@ Free
 -   Region
 
     -   **AWS**: Australia \(Sydney\), Brazil \(São Paulo\), Canada \(Montreal\), Europe \(Frankfurt\), Japan \(Tokyo\), Singapore, South Korea \(Seoul\), US East \(VA\).
-    -   **Microsoft Azure:** Europe \(Netherlands\), Japan \(Tokyo\), Singapore, US East \(VA\), US West \(WA\).
+    -   **Microsoft Azure:** Europe \(Netherlands\), Japan \(Tokyo\), Singapore, Switzerland \(EU Access\), US East \(VA\), US West \(WA\).
+
+    -   **Google Cloud:** Europe \(Frankfurt\), India \(Mumbai\), US Central \(IA\)
 
 
 
@@ -97,9 +99,9 @@ Standard
 -   Region
 
     -   **AWS**: Australia \(Sydney\), Brazil \(São Paulo\), Canada \(Montreal\), Europe \(Frankfurt\), Japan \(Tokyo\), Singapore, South Korea \(Seoul\), US East \(VA\)
-    -   **Microsoft Azure:** Europe \(Netherlands\), Japan \(Tokyo\), Singapore, US East \(VA\), US West \(WA\).
+    -   **Microsoft Azure:** Europe \(Netherlands\), Japan \(Tokyo\), Singapore, Switzerland \(EU Access\), US East \(VA\), US West \(WA\).
 
-    -   **Google Cloud:** Europe \(Frankfurt\), US Central \(IA\)
+    -   **Google Cloud:** Europe \(Frankfurt\), India \(Mumbai\), US Central \(IA\)
 
 
 

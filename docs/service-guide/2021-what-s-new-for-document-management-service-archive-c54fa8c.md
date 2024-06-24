@@ -861,7 +861,7 @@ Run a precheck option in Document Management Service, Integration Option during 
 </td>
 <td valign="top">
 
-You can now use API to carry out a precheck before you migrate. See [Migrating Data from Document Service to SAP Document Management Service](migration-topics-integration/migrating-data-from-document-service-to-sap-document-management-service-c059da2.md).
+You can now use API to carry out a precheck before you migrate. See [Migrating Data from Document Service in Neo to SAP Document Management Service in the Multi-Cloud Foundation](migration-topics-integration/migrating-data-from-document-service-in-neo-to-sap-document-management-service-in-th-c059da2.md).
 
 </td>
 <td valign="top">
@@ -1591,7 +1591,7 @@ Migrating from SAP Document Service to SAP Document Management Service using API
 
 You can now migrate your Document Service in Neo Environment to Document Management in the Cloud Foundry Environment using API.
 
-See [Migrating Data from Document Service to SAP Document Management Service](migration-topics-integration/migrating-data-from-document-service-to-sap-document-management-service-c059da2.md).
+See [Migrating Data from Document Service in Neo to SAP Document Management Service in the Multi-Cloud Foundation](migration-topics-integration/migrating-data-from-document-service-in-neo-to-sap-document-management-service-in-th-c059da2.md).
 
 </td>
 <td valign="top">

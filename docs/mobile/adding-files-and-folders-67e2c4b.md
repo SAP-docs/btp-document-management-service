@@ -4,11 +4,11 @@
 
 # Adding Files and Folders
 
-In the SAP Document Management Service mobile app, you can add and delete files and folders.
+In the SAP Document Management mobile app, you can add and delete files and folders.
 
 
 
-You can take photos using the SAP Document Management Service app and then use the *Take Photo* feature to paste the photo directly to your *Documents* folder. To import photos from the iOS device, you can use *Photo Library*.On iOS devices and Android phones, you can import files from other apps. You can also delete files or folders by selecting them and choosing *Delete*.
+You can take photos using the SAP Document Management app and then use the *Take Photo* feature to paste the photo directly to your *Documents* folder. To import photos from the iOS device, you can use *Photo Library*.On iOS devices and Android phones, you can import files from other apps. You can also delete files or folders by selecting them and choosing *Delete*.
 
 
 
@@ -16,7 +16,7 @@ You can take photos using the SAP Document Management Service app and then use t
 
 ## Prerequisites
 
-You've write permission for the folder in which you want to create and save the file or folder.
+You have the permission `SDM_User` to manage files and folders.
 
 
 
@@ -24,23 +24,27 @@ You've write permission for the folder in which you want to create and save the 
 
 ## Features
 
-The following actions are available in the *Repository* folders of the SAP Document Management Service app if you choose :heavy_plus_sign: :
+The following actions are available in the *Repository* folders of the SAP Document Management app when you choose :heavy_plus_sign: :
 
 -   *Folder*
 
-    Prompts you to enter a folder name, then insert a new folder in the current folder.
+    Enter a folder name to add a new folder to the current folder.
 
 -   *Document*
 
-    Click :heavy_plus_sign: that prompts you to enter a file name, then insert a new file in the current folder. You select it from the documents list. To save the file, choose *Save*.
+    Click :heavy_plus_sign:, and add a new file in the current folder. You select it from the documents list. To save the file, choose *Save*.
 
 -   *Take Photo*
 
-    You can take a photo or a video and choose *Take Photo* to import it directly to the current folder.
+    You can take a photo or a video and click *Take Photo* to directly click photos using your device camera and import to the current folder.
 
--   *Import Files*
+-   *Photo Library*
 
-    Lets you import files from the folder of your device to the current folder.
+    Allows you to select and upload images from your device photo gallery.
+
+-   *Files*
+
+    Import files from a folder on your device to the current folder.
 
     If there's already another file with the same name in the current folder, a popup appears and you can choose to rename the file, replace the file, or cancel the import.
 
