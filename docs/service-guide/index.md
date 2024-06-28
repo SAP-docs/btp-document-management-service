@@ -20,6 +20,7 @@
         -   [Creating a Subaccount and a Space](integration-option-guide/creating-a-subaccount-and-a-space-d0683c7.md)
         -   [Creating a Service Instance and Service Key](integration-option-guide/creating-a-service-instance-and-service-key-fe7f1e5.md)
         -   [Authorizations](integration-option-guide/authorizations-669d25c.md)
+        -   [Setup Using the Booster](integration-option-guide/setup-using-the-booster-ef91284.md)
         -   [Onboarding Repository](integration-option-guide/onboarding-repository-b377990.md)
             -   [Collaboration Repositories](integration-option-guide/collaboration-repositories-926d32b.md)
                 -   [Create a Shared Folder and Define Its Access](integration-option-guide/create-a-shared-folder-and-define-its-access-1ceb1c8.md)
@@ -118,7 +119,6 @@
 -   [Integration](integration-c155184.md)
     -   [Integrating with SAP S/4HANA](integrating-with-sap-s-4hana-534d945.md)
     -   [Integrating SAP S/4HANA with Google Workspace Using SAP Document Management Service](integrating-sap-s-4hana-with-google-workspace-using-sap-document-management-service-594bf95.md)
-        -   [Initial Setup](initial-setup-ef91284.md)
         -   [Setting Up a Google Workspace Account](setting-up-a-google-workspace-account-9670f69.md)
             -   [Enable the Google Drive API in Your Project](enable-the-google-drive-api-in-your-project-f3a998b.md)
             -   [Configure Service Account Access](configure-service-account-access-9774430.md)
@@ -149,8 +149,8 @@
     -   [Integrating the ABAP Environment with SAP Document Management Service](integrating-the-abap-environment-with-sap-document-management-service-c54ce8b.md)
         -   [Create a Communication Arrangement](create-a-communication-arrangement-7ed34e1.md)
             -   [Sample Code](sample-code-f97e58e.md)
--   Plugins
-    -   [CAP Plugin](cap-plugin-65128a9.md)
+    -   Plugins
+        -   [CAP Plugin](cap-plugin-65128a9.md)
 -   [Security](security-topics/security-bfbb1cd.md)
     -   [Data Protection and Privacy](security-topics/data-protection-and-privacy-ddf0f5d.md)
         -   [Glossary](security-topics/glossary-f884580.md)

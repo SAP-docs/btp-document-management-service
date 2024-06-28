@@ -232,7 +232,7 @@ Document Management Service mobile and desktop clients
 
 Onboarding and configuring the Document Management Service app is possible on the desktop as well as from an Android or iPhone.
 
-For more information, see [Installing the Apps](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/c584be72204a4ec2a7b18f35dc95eb6e.html "The various SAP Document Management Service applications (apps) need to be installed before you can use them on your devices.") :arrow_upper_right:.
+For more information, see [Working With the Mobile Apps (Old)](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/c584be72204a4ec2a7b18f35dc95eb6e.html "The various SAP Document Management Service applications (apps) need to be installed before you can use them on your devices.") :arrow_upper_right:.
 
 </td>
 <td valign="top">

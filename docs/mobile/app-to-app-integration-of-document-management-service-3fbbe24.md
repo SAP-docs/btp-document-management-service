@@ -183,5 +183,5 @@ The syntax contains the following URL parameters:
 **Related Information**  
 
 
-[Installing the Apps](installing-the-apps-c584be7.md "The various SAP Document Management Service applications (apps) need to be installed before you can use them on your devices.")
+[Working With the Mobile Apps \(Old\)](working-with-the-mobile-apps-old-c584be7.md "The various SAP Document Management Service applications (apps) need to be installed before you can use them on your devices.")
 

@@ -1,6 +1,6 @@
 <!-- loioc584be72204a4ec2a7b18f35dc95eb6e -->
 
-# Installing the Apps
+# Working With the Mobile Apps \(Old\)
 
 The various SAP Document Management Service applications \(apps\) need to be installed before you can use them on your devices.
 

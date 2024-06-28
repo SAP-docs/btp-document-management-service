@@ -85,6 +85,14 @@ Required for accessing the mobile application.
 
 
 
+<a name="loio91597c2d8e0342ac8dbec144f22ecda6__section_hm5_55d_wbc"/>
+
+## Guidelines for Existing Subscribers
+
+If you are already a subscriber, using the Document Management Service, Application Option, and want to start using the mobile application, it is necessary to first submit a support ticket through component `BC-CP-CF-SDM-CLT-MOB`. Once your support ticket has been processed and you've received confirmation that you're cleared to begin, you can start using the mobile application.
+
+
+
 <a name="loio91597c2d8e0342ac8dbec144f22ecda6__section_eyq_zq2_qbc"/>
 
 ## Limitations

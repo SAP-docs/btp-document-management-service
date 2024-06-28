@@ -23,7 +23,7 @@ Before you can use the SAP Document Management mobile app on your Android device
 
 ## Procedure
 
-1.  Download and install the SAP Document Management app from Google Play. See [SAP Document Management app on Google Play](https://play.google.com/store/apps/details?id=com.sap.sdm.android).
+1.  Download and install the SAP Document Management app from Google Play. See [SAP Document Management app on Google Play](https://play.google.com/store/apps/details?id=com.sap.sdm.mobileapp&hl=en_IN&gl=US).
 
 2.  Start the app.
 
@@ -37,7 +37,7 @@ Before you can use the SAP Document Management mobile app on your Android device
 
     3.  Choose *Continue*.
 
-    4.  Authenticate your user by entering your credentials.
+    4.  Authenticate your user information by entering your credentials.
 
         If you're asked to set an app passcode to protect the data stored in the app, enter a passcode containing at least 8 characters. This depends on the passcode policy that is set in your SAP Mobile Services instance.
 
@@ -66,5 +66,5 @@ You will see a list of repositories. When the mobile application has synced with
 **Related Information**  
 
 
-[SAP Document Management app on Google Play Store](https://play.google.com/store/apps/details?id=com.sap.sdm.android)
+[SAP Document Management app on Google Play Store](https://play.google.com/store/apps/details?id=com.sap.sdm.mobileapp&hl=en_IN&gl=US)
 

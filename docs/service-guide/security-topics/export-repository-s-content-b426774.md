@@ -24,7 +24,7 @@ As an administrator, you can download content from repositories using a desktop 
 
 ## Procedure
 
-1.  Download the installation package for your chosen desktop client. For more information about installing desktop clients, see [Installing the Apps](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/c584be72204a4ec2a7b18f35dc95eb6e.html "The various SAP Document Management Service applications (apps) need to be installed before you can use them on your devices.") :arrow_upper_right:.
+1.  Download the installation package for your chosen desktop client. For more information about installing desktop clients, see [Working With the Mobile Apps (Old)](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/c584be72204a4ec2a7b18f35dc95eb6e.html "The various SAP Document Management Service applications (apps) need to be installed before you can use them on your devices.") :arrow_upper_right:.
 
 2.  Launch the desktop client and configure it to access the repository you want to download content from. It typically involves providing the repository URL, authentication credentials if necessary, and any other relevant settings.
 

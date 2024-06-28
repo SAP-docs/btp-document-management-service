@@ -1,6 +1,6 @@
 <!-- loio52be3188af8d4aa49434fe90620736dc -->
 
-# Mobile Application How-Tos
+# Mobile Application How-Tos \(Old\)
 
 The following sections introduce some of the features available for the mobile apps of SAP Document Management Service.
 

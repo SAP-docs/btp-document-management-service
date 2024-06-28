@@ -89,6 +89,140 @@ Document Management Service
 </td>
 <td valign="top">
 
+CAP Plugin Support
+
+</td>
+<td valign="top">
+
+The new `@cap-js/sdm` CAP plugin is now available for SAP Document Management Service. This plugin is designed to simplify the integration of SAP Document Management Service into any CAP application, significantly reducing the amount of required coding.
+
+See [CAP plugin for SAP Document Management Service](https://www.npmjs.com/package/@cap-js/sdm).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-28
+
+</td>
+<td valign="top">
+
+2024-06-26
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Introducing the New Version of the SAP Document Management Mobile App With Enhanced UI and Simplified Onboarding Experience
+
+</td>
+<td valign="top">
+
+Discover the convenience of managing documents efficiently with our newly released SAP Document Management mobile app, now available on both the [App Store](https://apps.apple.com/in/app/sap-document-management/id6504613204) and [Google Play Store](https://play.google.com/store/apps/details?id=com.sap.sdm.mobileapp&hl=en_IN&gl=US).
+
+This release offers an enhanced user interface and a streamlined onboarding process, simplifying your journey from the start. With offline capabilities, the app empowers you to access important files anytime, anywhere, independent of internet connectivity.
+
+See [Mobile Applications](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/91597c2d8e0342ac8dbec144f22ecda6.html "Learn how to set up and use the SAP Document Management mobile app on your Android and iOS devices.") :arrow_upper_right:.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+2024-06-25
+
+</td>
+<td valign="top">
+
+2024-06-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Document Management Service
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Availability of API for Restoring Capability
 
 </td>
@@ -131,80 +265,12 @@ Document Management Service
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 <td valign="top">
 
-2024-06-21
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-Document Management Service
-
-</td>
-<td valign="top">
-
--   Cloud Foundry
-
-
-
-</td>
-<td valign="top">
-
-Introducing the New Version of the SAP Document Management Mobile App With Enhanced UI and Simplified Onboarding Experience
-
-</td>
-<td valign="top">
-
-Discover the convenience of managing documents efficiently with our newly released SAP Document Management mobile app, now available on both the [App Store](https://apps.apple.com/in/app/sap-document-management/id6504613204) and Google Play Store.
-
-This release offers enhanced user interface and a streamlined onboarding process, simplifying your journey from the start. With offline capabilities, the app empowers you to access important files anytime, anywhere, independent of internet connectivity.
-
-See [Mobile Applications](https://help.sap.com/viewer/774c31c426df4fee9cbdcee9bbd876f8/Dev/en-US/91597c2d8e0342ac8dbec144f22ecda6.html "Learn how to set up and use the SAP Document Management mobile app on your Android and iOS devices.") :arrow_upper_right:.
-
-</td>
-<td valign="top">
-
-Info only
-
-</td>
-<td valign="top">
-
-General Availability
-
-</td>
-<td valign="top">
-
-New
-
-</td>
-<td valign="top">
-
-Technology
-
-</td>
-<td valign="top">
-
-Not applicable
-
-</td>
-<td valign="top">
-
-Document Management Service
-
-</td>
-<td valign="top">
-
-2024-06-21
-
-</td>
-<td valign="top">
-
-2024-06-21
+2024-06-22
 
 </td>
 </tr>
@@ -268,12 +334,12 @@ Document Management Service
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 </tr>
@@ -336,12 +402,12 @@ Document Management Service
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 </tr>
@@ -402,12 +468,12 @@ Document Management Service
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 </tr>
@@ -466,12 +532,12 @@ Document Management Service
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 </tr>
@@ -530,12 +596,12 @@ Document Management Service
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 <td valign="top">
 
-2024-06-21
+2024-06-22
 
 </td>
 </tr>
@@ -759,7 +825,7 @@ New Boosters for SAP Document Management Service
 
 You can now set up the Document Management Service, Integration Option automatically using the booster from the SAP BTP cockpit itself.
 
-For more information, see [Initial Setup](initial-setup-ef91284.md).
+For more information, see [Setup Using the Booster](integration-option-guide/setup-using-the-booster-ef91284.md).
 
 </td>
 <td valign="top">

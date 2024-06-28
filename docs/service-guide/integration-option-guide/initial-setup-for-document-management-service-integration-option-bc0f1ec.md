@@ -7,10 +7,14 @@ Quickly get started with SAP Document Management service, integration option in 
 > ### Note:  
 > If you are using this service as part of SAP Build Code, follow the [SAP Build Code Initial Setup](https://help.sap.com/docs/build_code/d0d8f5bfc3d640478854e6f4e7c7584a/07698d7c31284e4db370acdf017cfd14.html?version=SHIP) instructions instead.
 
-The typical workflow involves:
+The typical manual setup involves:
 
 -   [Creating a Subaccount and a Space](creating-a-subaccount-and-a-space-d0683c7.md)
 
 -   [Creating a Service Instance and Service Key](creating-a-service-instance-and-service-key-fe7f1e5.md)
 
+-   [Authorizations](authorizations-669d25c.md)
+
+
+For automated setup, see [Setup Using the Booster](setup-using-the-booster-ef91284.md).
 

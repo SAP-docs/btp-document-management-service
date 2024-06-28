@@ -116,3 +116,5 @@ SAP S/4HANA Cloud, public edition 2402 and above.
 
 [Integrating the ABAP Environment with SAP Document Management Service](integrating-the-abap-environment-with-sap-document-management-service-c54ce8b.md "You can integrate the ABAP environment of SAP Business Technology Platform with SAP Document Management Service to establish a communication scenario.")
 
+[Setup Using the Booster](integration-option-guide/setup-using-the-booster-ef91284.md "Before you get started in Document Management Service, Integration Option your SAP BTP account administrator must subscribe to your SAP BTP subaccount to the Document Management Service, Integration Option by performing some preparatory steps.")
+

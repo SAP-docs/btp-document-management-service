@@ -19,7 +19,7 @@ Before you can use the SAP Document Management mobile app on your iOS device, yo
 
 ## Procedure
 
-1.  Download and install the SAP Document Management app from the Apple App Store. See [SAP Document Management app on Apple App Store](https://apps.apple.com/us/app/document-management-service/id1593443458).
+1.  Download and install the SAP Document Management app from the Apple App Store. See [SAP Document Management app on Apple App Store](https://apps.apple.com/in/app/sap-document-management/id6504613204).
 
 2.  Start the app.
 
