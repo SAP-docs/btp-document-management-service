@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "btp-document-management-service"
+SPDX-PackageSupplier = "Vikram Kulkarni (vikram.kulkarni01@sap.com)"
+SPDX-PackageDownloadLocation = "https://github.com/sap-docs/btp-document-management-service"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2023 SAP SE or an SAP affiliate company and SAP-docs/btp-document-management-service contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
